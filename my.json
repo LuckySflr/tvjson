@@ -43,6 +43,35 @@
             "api": "https://agit.ai/cacifer/xyz/raw/branch/master/cat/main/相声小品.js"
         },
         {
+            "key": "纪录片",
+            "name": "📹纪录片",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "api": "https://agit.ai/cacifer/xyz/raw/branch/master/cat/main/纪录片.js"
+        },
+        {
+            "key": "JustLive",
+            "name": "📺影视轮播",
+            "type": 3,
+            "api": "https://agit.ai/cacifer/xyz/raw/branch/master/JS/drpy2.min.js",
+            "ext": "https://agit.ai/cacifer/xyz/raw/branch/master/JS/JustLive.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
             "key": "荐片",
             "name": "荐片┃P2P",
             "type": 3,
