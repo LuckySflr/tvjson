@@ -49,12 +49,13 @@
             "changeable": 1
         },
         {
-            "key": "南瓜",
-            "name": "南瓜┃影视",
+            "key": "360影视",
+            "name": "360┃解析",
             "type": 3,
-            "api": "csp_NanGua",
+            "api": "csp_SP360",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "jar": "https://tvbox.cainisi.cf/jar/xyq1123.jar;md5;71de3509aba374cdec13c22cbcce202f"
         },
         {
             "key": "鲲娱七七",
@@ -72,6 +73,14 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
+        },
+        {
+            "key": "南瓜",
+            "name": "南瓜┃影视",
+            "type": 3,
+            "api": "csp_NanGua",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "哔哩哔哩",
@@ -324,15 +333,6 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://drpy.cainisi.cf/js/cokemv.js"
-        },
-        {
-            "key": "360影视",
-            "name": "360┃解析",
-            "type": 3,
-            "api": "csp_SP360",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://tvbox.cainisi.cf/jar/xyq1123.jar;md5;71de3509aba374cdec13c22cbcce202f"
         },
         {
             "key": "巴士",
