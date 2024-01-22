@@ -72,6 +72,48 @@
             }
         },
         {
+            "key": "舞蹈健身",
+            "name": "💃舞蹈健身",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "api": "https://agit.ai/cacifer/xyz/raw/branch/master/cat/main/舞蹈健身.js"
+        },
+        {
+            "key": "食谱",
+            "name": "🥙美食秘笈",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "api": "https://agit.ai/cacifer/xyz/raw/branch/master/cat/main/美食秘笈.js"
+        },
+        {
+            "key": "自学教程",
+            "name": "📋自学教程",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "api": "https://agit.ai/cacifer/xyz/raw/branch/master/cat/main/自学教程.js"
+        },
+        {
             "key": "荐片",
             "name": "荐片┃P2P",
             "type": 3,
