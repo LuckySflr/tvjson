@@ -85,6 +85,33 @@
             "api": "https://agit.ai/cacifer/xyz/raw/branch/master/cat/main/美食秘笈.js"
         },
         {
+            "key": "csp_戏曲",
+            "name": "🅱哔哩┃戏曲",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩戏曲.json"
+        },
+        {
+            "key": "演唱会",
+            "name": "🅱哔哩┃音乐",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩音乐.json"
+        },
+        {
+            "key": "JustLive",
+            "name": "Just┃直播",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://drpy.cainisi.cf/js/JustLive.js"
+        },
+        {
             "key": "自学教程",
             "name": "📋自学教程",
             "type": 3,
@@ -97,6 +124,15 @@
                 "ratio": 1.597
             },
             "api": "https://agit.ai/cacifer/xyz/raw/branch/master/cat/main/自学教程.js"
+        },
+        {
+            "key": "csp_BBB",
+            "name": "🅱哔哩┃合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩合集.json"
         },
         {
             "key": "荐片",
@@ -421,97 +457,12 @@
             "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
-            "key": "索尼",
-            "name": "索尼┃影视",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "本地",
             "name": "本地┃文件",
             "type": 3,
             "api": "csp_Local",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
-            "key": "玩偶",
-            "name": "玩偶┃云盘",
-            "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "token": "影視天下第一",
-                "filter": "https://tvbox.cainisi.cf/json/wogg.json"
-            },
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
-            "key": "七夜",
-            "name": "七夜┃云盘",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
-            "key": "易搜",
-            "name": "易搜┃云盘",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
-            "key": "云搜",
-            "name": "云搜┃云盘",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
-            "key": "盘搜",
-            "name": "盘搜┃云盘",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
-            "key": "紙條搜",
-            "name": "紙條┃云盘",
-            "type": 3,
-            "api": "csp_XiaoZhiTiao",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
-            "key": "盘搜索",
-            "name": "盘搜索┃云盘",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
-            "key": "找資源",
-            "name": "找資源",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "影視天下第一$$$test2$$$test2",
             "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
@@ -884,42 +835,6 @@
             "changeable": 0,
             "ext": "https://tvbox.cainisi.cf/json/XBPQ/酷奇MV.json",
             "jar": "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
-        },
-        {
-            "key": "csp_BBB",
-            "name": "🅱哔哩┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩合集.json"
-        },
-        {
-            "key": "csp_戏曲",
-            "name": "🅱哔哩┃戏曲",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩戏曲.json"
-        },
-        {
-            "key": "演唱会",
-            "name": "🅱哔哩┃音乐",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩音乐.json"
-        },
-        {
-            "key": "JustLive",
-            "name": "Just┃直播",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://drpy.cainisi.cf/js/JustLive.js"
         },
         {
             "key": "网红直播",
