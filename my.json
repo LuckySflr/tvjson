@@ -284,32 +284,6 @@
             "changeable": 1
         },
         {
-            "key": "快帆",
-            "name": "快帆",
-            "type": 1,
-            "api": "https://api.kuaifan.tv/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Nbys",
-            "name": "🛫泥巴┃海外",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
-            "key": "星星",
-            "name": "🛫星星┃海外",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
             "key": "厂长资源",
             "name": "厂长┃影视",
             "type": 3,
