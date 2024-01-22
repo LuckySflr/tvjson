@@ -465,18 +465,6 @@
             "changeable": 1
         },
         {
-            "key": "Aid",
-            "name": "🚑急救┃教学",
-            "type": 3,
-            "api": "csp_FirstAid",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 3.8
-            }
-        },
-        {
             "key": "唐人街影院",
             "name": "🛫唐人街┃海外",
             "type": 3,
@@ -632,15 +620,6 @@
             "ext": "https://drpy.cainisi.cf/js/9U电影.js"
         },
         {
-            "key": "B站影视",
-            "name": "B站┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/B站影视.js"
-        },
-        {
             "key": "纽约影院",
             "name": "纽约┃影视",
             "type": 3,
@@ -648,15 +627,6 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://drpy.cainisi.cf/js/NY影院.js"
-        },
-        {
-            "key": "TVB云播",
-            "name": "TVB┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/TVB云播.js"
         },
         {
             "key": "101影院",
@@ -675,15 +645,6 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://drpy.cainisi.cf/js/万博剧院.js"
-        },
-        {
-            "key": "乐鱼影视",
-            "name": "乐鱼┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/乐鱼影视.js"
         },
         {
             "key": "兄弟影视",
@@ -783,16 +744,6 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://tvbox.cainisi.cf/json/XBPQ/宿命影视.json",
-            "jar": "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
-        },
-        {
-            "key": "NikeTV",
-            "name": "NikeTV┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/XBPQ/NikeTV.json",
             "jar": "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
         },
         {
