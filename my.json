@@ -57,21 +57,6 @@
             "api": "https://agit.ai/cacifer/xyz/raw/branch/master/cat/main/纪录片.js"
         },
         {
-            "key": "JustLive",
-            "name": "📺影视轮播",
-            "type": 3,
-            "api": "https://agit.ai/cacifer/xyz/raw/branch/master/JS/drpy2.min.js",
-            "ext": "https://agit.ai/cacifer/xyz/raw/branch/master/JS/JustLive.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
             "key": "舞蹈健身",
             "name": "💃舞蹈健身",
             "type": 3,
@@ -98,19 +83,6 @@
                 "ratio": 1.597
             },
             "api": "https://agit.ai/cacifer/xyz/raw/branch/master/cat/main/美食秘笈.js"
-        },
-        {
-            "key": "MV_vod",
-            "name": "🎸明星MV",
-            "type": 1,
-            "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "oval"
-            }
         },
         {
             "key": "自学教程",
