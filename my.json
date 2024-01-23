@@ -14,7 +14,7 @@
             "ext": "https://gitee.com/luckyflower01/tvjson/raw/master/json/douban.json",
             "jar": "https://gitee.com/luckyflower01/tvjson/raw/master/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
-      {
+        {
             "key": "戏曲",
             "name": "🎪戏曲大全",
             "type": 3,
@@ -85,6 +85,15 @@
             "api": "https://agit.ai/cacifer/xyz/raw/branch/master/cat/main/美食秘笈.js"
         },
         {
+            "key": "JustLive",
+            "name": "Just┃直播",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://drpy.cainisi.cf/js/JustLive.js"
+        },
+        {
             "key": "csp_戏曲",
             "name": "🅱哔哩┃戏曲",
             "type": 3,
@@ -103,13 +112,61 @@
             "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩音乐.json"
         },
         {
-            "key": "JustLive",
-            "name": "Just┃直播",
+            "key": "csp_BBB",
+            "name": "🅱哔哩┃合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩合集.json"
+        },
+        {
+            "key": "网红直播",
+            "name": "网红┃直播",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "searchable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "虎牙直播",
+            "name": "虎牙┃直播",
             "type": 3,
             "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://drpy.cainisi.cf/js/JustLive.js"
+            "ext": "https://drpy.cainisi.cf/js/虎牙直播.js"
+        },
+        {
+            "key": "斗鱼直播",
+            "name": "斗鱼┃直播",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://drpy.cainisi.cf/js/斗鱼直播.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.755
+            }
+        },
+        {
+            "key": "哔哩哔哩",
+            "name": "哔哩┃哔哩",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "https://tvbox.cainisi.cf/json/bili.json",
+                "type": "帕梅拉#太极拳#广场舞#演唱会",
+                "cookie": ""
+            },
+            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
             "key": "自学教程",
@@ -126,13 +183,69 @@
             "api": "https://agit.ai/cacifer/xyz/raw/branch/master/cat/main/自学教程.js"
         },
         {
-            "key": "csp_BBB",
-            "name": "🅱哔哩┃合集",
+            "key": "兔小贝",
+            "name": "📚儿童┃启蒙",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "https://drpy.cainisi.cf/js/兔小贝.js"
+        },
+        {
+            "key": "儿童",
+            "name": "📚少儿┃教育",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩合集.json"
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩少儿.json"
+        },
+        {
+            "key": "小学",
+            "name": "📚小学┃课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩小学.json"
+        },
+        {
+            "key": "初中",
+            "name": "📚初中┃课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩初中.json"
+        },
+        {
+            "key": "高中",
+            "name": "📚高中┃课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩高中.json"
         },
         {
             "key": "荐片",
@@ -201,24 +314,6 @@
             "api": "csp_NanGua",
             "searchable": 1,
             "changeable": 1
-        },
-        {
-            "key": "哔哩哔哩",
-            "name": "哔哩┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": {
-                "json": "https://tvbox.cainisi.cf/json/bili.json",
-                "type": "帕梅拉#太极拳#广场舞#演唱会",
-                "cookie": ""
-            },
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
             "key": "樱花",
@@ -305,116 +400,6 @@
             "ext": "https://tvbox.cainisi.cf/json/nmys.json"
         },
         {
-            "key": "巴士",
-            "name": "巴士┃动漫",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
-            "key": "异界",
-            "name": "异界┃动漫",
-            "type": 3,
-            "api": "csp_Ysj",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-
-        {
-            "key": "酷狗",
-            "name": "🎵酷狗┃音乐",
-            "type": 3,
-            "api": "csp_Kugou",
-            "searchable": 0,
-            "changeable": 0,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
-            "key": "本地",
-            "name": "本地┃文件",
-            "type": 3,
-            "api": "csp_Local",
-            "searchable": 0,
-            "changeable": 0,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
-            "key": "csp_Anime1",
-            "name": "日本┃动漫",
-            "type": 3,
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "兔小贝",
-            "name": "📚儿童┃启蒙",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "ext": "https://drpy.cainisi.cf/js/兔小贝.js"
-        },
-        {
-            "key": "儿童",
-            "name": "📚少儿┃教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩少儿.json"
-        },
-        {
-            "key": "小学",
-            "name": "📚小学┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩小学.json"
-        },
-        {
-            "key": "初中",
-            "name": "📚初中┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩初中.json"
-        },
-        {
-            "key": "高中",
-            "name": "📚高中┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩高中.json"
-        },
-        {
             "key": "快看影视",
             "name": "快看┃影视",
             "type": 3,
@@ -478,15 +463,6 @@
             "ext": "https://drpy.cainisi.cf/js/兰花影院.js"
         },
         {
-            "key": "去看吧",
-            "name": "去看吧┃动漫",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/去看吧.js"
-        },
-        {
             "key": "咕噜[V2]",
             "name": "咕噜┃影视",
             "type": 3,
@@ -524,6 +500,89 @@
             "changeable": 1,
             "ext": "https://tvbox.cainisi.cf/json/XBPQ/52看剧.json",
             "jar": "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
+        },
+        {
+            "key": "企鹅体育",
+            "name": "企鹅┃体育",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://tvbox.cainisi.cf/json/XPath/企鹅体育.json"
+        },
+        {
+            "key": "310直播",
+            "name": "⚽310┃看球",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://drpy.cainisi.cf/js/310直播.js"
+        },
+        {
+            "key": "巴士",
+            "name": "巴士┃动漫",
+            "type": 3,
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+        },
+        {
+            "key": "去看吧",
+            "name": "去看吧┃动漫",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://drpy.cainisi.cf/js/去看吧.js"
+        },
+        {
+            "key": "异界",
+            "name": "异界┃动漫",
+            "type": 3,
+            "api": "csp_Ysj",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+        },
+        {
+            "key": "csp_Anime1",
+            "name": "日本┃动漫",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "MV_vod",
+            "name": "🎵明星┃MV",
+            "type": 1,
+            "api": "https://mv.wogg.link/mv/vod",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "oval"
+            }
+        },
+        {
+            "key": "酷奇MV",
+            "name": "🎵酷奇┃MV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://tvbox.cainisi.cf/json/XBPQ/酷奇MV.json",
+            "jar": "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
+        },
+        {
+            "key": "酷狗",
+            "name": "🎵酷狗┃音乐",
+            "type": 3,
+            "api": "csp_Kugou",
+            "searchable": 0,
+            "changeable": 0,
+            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
             "key": "A8音乐",
@@ -566,111 +625,16 @@
             "ext": "https://drpy.cainisi.cf/js/啦啦DJ.js"
         },
         {
-            "key": "MV_vod",
-            "name": "🎵明星┃MV",
-            "type": 1,
-            "api": "https://mv.wogg.link/mv/vod",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "oval"
-            }
-        },
-        {
-            "key": "酷奇MV",
-            "name": "🎵酷奇┃MV",
+            "key": "本地",
+            "name": "本地┃文件",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_Local",
             "searchable": 0,
-            "changeable": 0,
-            "ext": "https://tvbox.cainisi.cf/json/XBPQ/酷奇MV.json",
-            "jar": "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
-        },
-        {
-            "key": "网红直播",
-            "name": "网红┃直播",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "虎牙直播",
-            "name": "虎牙┃直播",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://drpy.cainisi.cf/js/虎牙直播.js"
-        },
-        {
-            "key": "斗鱼直播",
-            "name": "斗鱼┃直播",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://drpy.cainisi.cf/js/斗鱼直播.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            }
-        },
-        {
-            "key": "企鹅体育",
-            "name": "企鹅┃体育",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://tvbox.cainisi.cf/json/XPath/企鹅体育.json"
-        },
-        {
-            "key": "310直播",
-            "name": "⚽310┃看球",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://drpy.cainisi.cf/js/310直播.js"
-        },
-        {
-            "key": "push_agent",
-            "name": "推送┃链接",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 1,
             "changeable": 0,
             "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
-            "key": "应用打赏",
-            "name": "应用┃打赏",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://tvbox.cainisi.cf/json/market.json",
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
-            "key": "公告",
-            "name": "——————————",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "changeable": 0
         },
         {
             "key": "说明1",
-            "name": "菜妮丝",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "说明2",
             "name": "https://cainisi.cf",
             "type": 3,
             "api": "csp_XPath",
@@ -678,15 +642,7 @@
             "changeable": 0
         },
         {
-            "key": "说明3",
-            "name": "免费接口更新维护",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "说明4",
+            "key": "说明2",
             "name": "请勿相信视频中任何广告",
             "type": 3,
             "api": "csp_XPath",
