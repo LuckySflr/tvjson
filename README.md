@@ -38,12 +38,12 @@
   - 删除吼吼影视 1
 ## 修改2
 + 增加 https://agit.ai/cacifer/xyz/ 项目下的部分接口：
-- 增加戏曲大全接口 1
-- 增加相声小品接口 1
-- 增加纪录片接口 1
-- 增加舞蹈健身接口 1
-- 增加美食秘笈接口 1
-- 增加自学教程接口 1
+  - 增加戏曲大全接口 1
+  - 增加相声小品接口 1
+  - 增加纪录片接口 1
+  - 增加舞蹈健身接口 1
+  - 增加美食秘笈接口 1
+  - 增加自学教程接口 1
 ## 修改3
 + 当前gitee下面托管公开接口链接地址为: https://gitee.com/luckyflower01/tvjson/raw/master/my.json
 + gitee公开接口链接太长，经过 https://xiaomark.com/ 平台缩短链接后的接口url地址为：https://sourl.cn/rdQrDP
