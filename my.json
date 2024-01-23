@@ -248,41 +248,6 @@
             "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩高中.json"
         },
         {
-            "key": "巴士",
-            "name": "巴士┃动漫",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
-            "key": "去看吧",
-            "name": "去看吧┃动漫",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/去看吧.js"
-        },
-        {
-            "key": "异界",
-            "name": "异界┃动漫",
-            "type": 3,
-            "api": "csp_Ysj",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
-            "key": "csp_Anime1",
-            "name": "日本┃动漫",
-            "type": 3,
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "企鹅体育",
             "name": "企鹅┃体育",
             "type": 3,
@@ -383,14 +348,12 @@
             "ext": "https://drpy.cainisi.cf/js/啦啦DJ.js"
         },
         {
-            "key": "荐片",
-            "name": "荐片┃P2P",
+            "key": "南瓜",
+            "name": "南瓜┃影视",
             "type": 3,
-            "api": "csp_Jianpian",
+            "api": "csp_NanGua",
             "searchable": 1,
-            "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/jianpian.json",
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+            "changeable": 1
         },
         {
             "key": "非凡",
@@ -405,14 +368,6 @@
             "name": "量子┃影视",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "一起看",
-            "name": "一起看┃影视",
-            "api": "csp_YQKan",
-            "type": 3,
             "searchable": 1,
             "changeable": 1
         },
@@ -443,10 +398,20 @@
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
         },
         {
-            "key": "南瓜",
-            "name": "南瓜┃影视",
+            "key": "荐片",
+            "name": "荐片┃P2P",
             "type": 3,
-            "api": "csp_NanGua",
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/jianpian.json",
+            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+        },
+        {
+            "key": "一起看",
+            "name": "一起看┃影视",
+            "api": "csp_YQKan",
+            "type": 3,
             "searchable": 1,
             "changeable": 1
         },
@@ -458,6 +423,41 @@
             "searchable": 1,
             "changeable": 1,
             "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+        },
+        {
+            "key": "巴士",
+            "name": "巴士┃动漫",
+            "type": 3,
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+        },
+        {
+            "key": "去看吧",
+            "name": "去看吧┃动漫",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://drpy.cainisi.cf/js/去看吧.js"
+        },
+        {
+            "key": "异界",
+            "name": "异界┃动漫",
+            "type": 3,
+            "api": "csp_Ysj",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+        },
+        {
+            "key": "csp_Anime1",
+            "name": "日本┃动漫",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "短劇",
