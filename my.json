@@ -230,58 +230,6 @@
             "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
-            "key": "獨播",
-            "name": "獨播",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/duboku.json",
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
-        {
-            "key": "haiwaikan",
-            "name": "海外看",
-            "type": 1,
-            "api": "https://haiwaikan.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "日本动漫",
-                "国产动漫",
-                "欧美动漫",
-                "国产剧",
-                "韩剧",
-                "日剧",
-                "台剧",
-                "泰剧",
-                "港剧",
-                "欧美剧",
-                "动画电影",
-                "韩国综艺",
-                "国产综艺",
-                "日本综艺",
-                "欧美综艺",
-                "冒险片",
-                "剧情片",
-                "动作片",
-                "同性片",
-                "喜剧片",
-                "奇幻片",
-                "恐怖片",
-                "悬疑片",
-                "惊悚片",
-                "战争片",
-                "歌舞片",
-                "灾难片",
-                "爱情片",
-                "犯罪片",
-                "科幻片",
-                "纪录片",
-                "经典片"
-            ]
-        },
-        {
             "key": "短劇",
             "name": "短劇",
             "type": 3,
@@ -312,23 +260,6 @@
             "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
-            "key": "暴風",
-            "name": "暴風",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "厂长资源",
-            "name": "厂长┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/厂长资源.js"
-        },
-        {
             "key": "橘子",
             "name": "橘子┃影视",
             "type": 3,
@@ -347,15 +278,6 @@
             "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
         },
         {
-            "key": "毛驴",
-            "name": "毛驴┃影视",
-            "type": 3,
-            "api": "csp_MLYS",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://www.maolvys.com/"
-        },
-        {
             "key": "Auete影视",
             "name": "Auete┃影视",
             "type": 3,
@@ -363,33 +285,6 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://drpy.cainisi.cf/js/Auete.js"
-        },
-        {
-            "key": "迪迪",
-            "name": "迪迪┃影视",
-            "api": "csp_AppYsV2",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://api123.adys.app/xgapp.php/v3/"
-        },
-        {
-            "key": "两个BT",
-            "name": "两个BT┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/两个BT.js"
-        },
-        {
-            "key": "Lib",
-            "name": "LIBVIO┃影视",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.pro/"
         },
         {
             "key": "低端影视",
@@ -408,25 +303,6 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://tvbox.cainisi.cf/json/nmys.json"
-        },
-        {
-            "key": "新视觉影院",
-            "name": "新视觉┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "ext": "https://drpy.cainisi.cf/js/新视觉影视.js"
-        },
-        {
-            "key": "COKEMV",
-            "name": "COKEMV┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/cokemv.js"
         },
         {
             "key": "巴士",
@@ -472,15 +348,6 @@
             "api": "csp_Anime1",
             "searchable": 1,
             "changeable": 1
-        },
-        {
-            "key": "唐人街影院",
-            "name": "🛫唐人街┃海外",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/唐人街影视[飞].js"
         },
         {
             "key": "兔小贝",
@@ -557,15 +424,6 @@
             "ext": "https://drpy.cainisi.cf/js/快看.js"
         },
         {
-            "key": "磁力熊",
-            "name": "熊┃磁力",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "https://drpy.cainisi.cf/js/磁力熊[磁].js"
-        },
-        {
             "key": "VOFLIX",
             "name": "VOFLIX┃影视",
             "type": 3,
@@ -602,78 +460,6 @@
             "ext": "https://drpy.cainisi.cf/js/348电影网.js"
         },
         {
-            "key": "4K电影网",
-            "name": "4K┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/4K电影网.js"
-        },
-        {
-            "key": "69美剧",
-            "name": "69┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/69美剧[V2].js"
-        },
-        {
-            "key": "9u电影",
-            "name": "9u┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/9U电影.js"
-        },
-        {
-            "key": "纽约影院",
-            "name": "纽约┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/NY影院.js"
-        },
-        {
-            "key": "101影院",
-            "name": "101┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/l0l.js"
-        },
-        {
-            "key": "万博剧院",
-            "name": "万博┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/万博剧院.js"
-        },
-        {
-            "key": "兄弟影视",
-            "name": "兄弟┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/兄弟影视.js"
-        },
-        {
-            "key": "免费看影视",
-            "name": "免费看┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/免费看.js"
-        },
-        {
             "key": "六度TV",
             "name": "六度┃影视",
             "type": 3,
@@ -692,26 +478,8 @@
             "ext": "https://drpy.cainisi.cf/js/兰花影院.js"
         },
         {
-            "key": "凌云影视",
-            "name": "凌云┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/凌云影视.js"
-        },
-        {
-            "key": "北川影视",
-            "name": "北川┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/北川影视.js"
-        },
-        {
             "key": "去看吧",
-            "name": "去看吧┃影视",
+            "name": "去看吧┃动漫",
             "type": 3,
             "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
             "searchable": 1,
@@ -726,24 +494,6 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://drpy.cainisi.cf/js/咕噜[V2].js"
-        },
-        {
-            "key": "嘶哩嘶哩",
-            "name": "嘶哩┃动漫",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/嘶哩嘶哩.js"
-        },
-        {
-            "key": "吼吼",
-            "name": "吼吼┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/吼吼[飞].js"
         },
         {
             "key": "宿命影视",
