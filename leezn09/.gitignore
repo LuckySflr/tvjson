@@ -1,0 +1,7 @@
+.gradle
+.idea
+*build
+*.jks
+*ni.java
+*ar.java
+/local.properties
