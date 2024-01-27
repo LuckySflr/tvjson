@@ -11,6 +11,16 @@
             "changeable": 0,
             "ext": "https://jihulab.com/LuckySflr/tvjson/-/raw/dev/js/d.kstore.space_download_6296_js_%E8%B1%86%E7%93%A3%E6%8E%A8%E8%8D%90.js",
             "jar": ""
+        },
+        {
+            "key": "nangua",
+            "name": "🎃┃南瓜┃影视",
+            "type": 3,
+            "playerType": "2",
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
         }
     ]
 }
