@@ -1,1 +1,16 @@
-
+{
+    "spider": "https://tvbox.cainisi.cf/jar/fty0101.jar;md5;fd784008ab71d81a178564841059756d",
+    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "sites": [            
+        {"key": "豆瓣",
+            "name": "豆瓣影视",
+            "type": 3,
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://d.kstore.space/download/6296/js/豆瓣推荐.js",
+            "jar": ""
+        }
+    ]
+}
