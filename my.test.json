@@ -5,11 +5,11 @@
         {"key": "豆瓣",
             "name": "豆瓣影视",
             "type": 3,
-            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "api": "https://jihulab.com/LuckySflr/tvjson/-/raw/dev/js/lib/d.kstore.space_download_6296_js_lib_drpy2.min.js",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://d.kstore.space/download/6296/js/豆瓣推荐.js",
+            "ext": "https://jihulab.com/LuckySflr/tvjson/-/raw/dev/js/d.kstore.space_download_6296_js_%E8%B1%86%E7%93%A3%E6%8E%A8%E8%8D%90.js",
             "jar": ""
         }
     ]
