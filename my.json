@@ -354,8 +354,8 @@
             "playerType": "2",
             "searchable": 1,
             "changeable": 1,
-            "api": "./js/lib/drpy2.min.js",
-            "ext": "./js/南瓜.js"
+            "api": "https://gitee.com/luckyflower01/tvjson/raw/master/js/lib/drpy2.min.js",
+            "ext": "https://gitee.com/luckyflower01/tvjson/raw/master/js/南瓜.js"
         },
         {
             "key": "嘿嘿",
