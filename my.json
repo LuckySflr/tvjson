@@ -351,9 +351,11 @@
             "key": "南瓜",
             "name": "南瓜┃影视",
             "type": 3,
-            "api": "csp_NanGua",
+            "playerType": "2",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
         },
         {
             "key": "嘿嘿",
@@ -870,6 +872,12 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
             "playerType": 1
+        },
+        {
+            "name": "ADULT",
+            "type": 0,
+            "url": "https://jihulab.com/LuckySflr/tvjson/-/raw/d79174145210a23429b5f087e6985056001cbc55/live/adult.txt",
+            "playerType": 2
         },
         {
             "name": "IPv6",
