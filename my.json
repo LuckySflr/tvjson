@@ -843,14 +843,14 @@
         {
             "name": "TXT",
             "type": 0,
-            "url": "./tvlive/my.tvlive.txt",
+            "url": "https://gitee.com/luckyflower01/tvjson/raw/master/tvlive/my.tvlive.txt",
             "playerType": 2
         },
         {
             "name": "M3U",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
             "type": 0,
-            "url": "./tvlive/my.tvlive.m3u"
+            "url": "https://gitee.com/luckyflower01/tvjson/raw/master/tvlive/my.tvlive.m3u"
         },
         {
             "name": "tvlive",
