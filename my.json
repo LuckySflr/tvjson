@@ -354,8 +354,8 @@
             "playerType": "2",
             "searchable": 1,
             "changeable": 1,
-            "api": "https://gitee.com/luckyflower01/tvjson/raw/master/js/lib/d.kstore.space_download_6296_js_lib_drpy2.min.js",
-            "ext": "https://gitee.com/luckyflower01/tvjson/raw/master/js/d.kstore.space_download_6296_js_%E5%8D%97%E7%93%9C.js"
+            "api": "./js/lib/d.kstore.space_download_6296_js_lib_drpy2.min.js",
+            "ext": "./js/d.kstore.space_download_6296_js_南瓜.js"
         },
         {
             "key": "嘿嘿",
@@ -843,14 +843,14 @@
         {
             "name": "TXT",
             "type": 0,
-            "url": "https://gitee.com/luckyflower01/tvjson/raw/master/tvlive/my_tvlive.txt",
+            "url": "./tvlive/my.tvlive.txt",
             "playerType": 2
         },
         {
             "name": "M3U",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
             "type": 0,
-            "url": "https://gitee.com/luckyflower01/tvjson/raw/master/tvlive/my_tvlive.m3u"
+            "url": "./tvlive/my.tvlive.m3u"
         },
         {
             "name": "tvlive",
