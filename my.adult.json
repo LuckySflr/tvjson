@@ -2,7 +2,18 @@
   "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;8f735b6bf0cda5984e8ec2c184fa9cd0",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "sites": [
-
+    {
+      "key": "api.apilyzy.com",
+      "name": "成人52",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
     {
       "key": "push_agent",
       "name": "推送",
