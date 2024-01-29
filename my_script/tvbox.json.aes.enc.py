@@ -14,14 +14,16 @@ def cbc_encrypt(key, iv, plaintext):
     padding_str = str(padding_size) * padding_size
     padded_plaintext = plaintext + padding_str
 
-    key_bytes = binascii.hexlify(key.encode().decode()) + '00' * (block_size - len(key.encode('utf-8')))
+    key_bytes = binascii.hexlify(key.encode()) + bytes('0'.encode()) * (block_size - len(binascii.hexlify(key.encode())))
     print('key is:', key)
     print('key padding is:', key_bytes)
-    # iv_bytes = str(iv.encode('utf-8')) + '00' * (block_size - len(iv.encode('utf-8')))
+    print(len(key_bytes))
+    iv_bytes = binascii.hexlify(iv.encode()) + bytes('0'.encode()) * (block_size - len(binascii.hexlify(iv.encode())))
     print('iv is:', iv)
-    # print('iv padding is:', iv_bytes)
+    print('iv len is:', len(iv_bytes))
+    print('iv padding is:', iv_bytes)
 
-    cipher = AES.new(bytearray.fromhex(key), AES.MODE_CBC, bytearray.fromhex(iv))
+    cipher = AES.new(key_bytes, AES.MODE_CBC, iv_bytes)
     # ciphertext = cipher.encrypt(padded_plaintext.encode('utf-8'))
 
     # return ciphertext
@@ -29,7 +31,6 @@ def cbc_encrypt(key, iv, plaintext):
 
 key = '123456'
 iv = '1706518216458'
-
 
 my_path = '../my.json'
 with open(my_path, 'r', encoding='utf-8') as file:
