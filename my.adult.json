@@ -269,7 +269,7 @@
     {
       "name": "TXT",
       "type": 0,
-      "url": "https://jihulab.com/LuckySflr/tvjson/-/raw/dev/refs/leezn09/txt/adult.txt?ref_type=heads",
+      "url": "./tvlive/my.tvlive.adult.txt",
       "playerType": 2
     }
   ],
