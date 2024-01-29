@@ -13,31 +13,28 @@ def cbc_encrypt(key, iv, plaintext):
     padding_size = block_size - len(plaintext.encode('utf-8')) % block_size
     padding_str = str(padding_size) * padding_size
     padded_plaintext = plaintext + padding_str
+    
+    key_hexstr = key.encode().hex() + '00' * (block_size - len(list(key)))
+    iv_hexstr = iv.encode().hex() + '00' * (block_size - len(list(iv)))
+    print(key_hexstr)
+    print(iv_hexstr)
 
-    key_bytes = binascii.hexlify(key.encode()) + bytes('0'.encode()) * (block_size - len(binascii.hexlify(key.encode())))
-    print('key is:', key)
-    print('key padding is:', key_bytes)
-    print(len(key_bytes))
-    iv_bytes = binascii.hexlify(iv.encode()) + bytes('0'.encode()) * (block_size - len(binascii.hexlify(iv.encode())))
-    print('iv is:', iv)
-    print('iv len is:', len(iv_bytes))
-    print('iv padding is:', iv_bytes)
+    cipher = AES.new(bytearray.fromhex(key_hexstr), AES.MODE_CBC, bytearray.fromhex(iv_hexstr))
+    ciphertext = cipher.encrypt(padded_plaintext.encode('utf-8'))
+    # print(ciphertext.hex())
+    return ciphertext
 
-    cipher = AES.new(key_bytes, AES.MODE_CBC, iv_bytes)
-    # ciphertext = cipher.encrypt(padded_plaintext.encode('utf-8'))
-
-    # return ciphertext
-    return 0
 
 key = '123456'
-iv = '1706518216458'
+iv = '1706537911728'
 
 my_path = '../my.json'
 with open(my_path, 'r', encoding='utf-8') as file:
     content = file.read()
-print(type(content))
+# print(type(content))
 ciphertext = cbc_encrypt(key, iv, content)
+alltext = ('$#' + key + '#$').encode().hex() + ciphertext.hex() + iv.encode().hex()
 with open('./newfile', 'w') as file:
-    file.write(ciphertext)
+    file.write(alltext)
 
 
