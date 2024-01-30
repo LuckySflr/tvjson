@@ -1,7 +1,7 @@
 {
     "菜妮丝": "https://cainisi.cf",
     "友情提醒": "接口完全免费，切勿付费购买。",
-    "spider": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fty0101.jar?ref_type=heads;md5;fd784008ab71d81a178564841059756d",
+    "spider": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fty0101.jar;md5;fd784008ab71d81a178564841059756d",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
@@ -11,8 +11,8 @@
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1,
-            "ext": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/json/douban.json?ref_type=heads",
-            "jar": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fm0101.jar?ref_type=heads;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+            "ext": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/json/douban.json",
+            "jar": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
             "key": "戏曲",
@@ -843,14 +843,14 @@
         {
             "name": "TXT",
             "type": 0,
-            "url": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/tvlive/my.tvlive.txt?ref_type=heads",
+            "url": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/tvlive/my.tvlive.txt",
             "playerType": 2
         },
         {
             "name": "M3U",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
             "type": 0,
-            "url": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/tvlive/my.tvlive.m3u?ref_type=heads"
+            "url": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/tvlive/my.tvlive.m3u"
         },
         {
             "name": "tvlive",
