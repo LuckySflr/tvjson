@@ -6,7 +6,6 @@
 ##                              "xxxxxx"(明文字符经过utf-8编码后，再经过aes128加密后的密文) + "xxxxxxxxxxxxxxxxxxxxxxxxxx"(utf-8编码后的iv字符，13个byte，共计26个字符)
 
 from Cryptodome.Cipher import AES
-import binascii
 
 def cbc_encrypt(key_str, iv_str, plaintext_str):
     block_size = 16
