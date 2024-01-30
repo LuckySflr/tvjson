@@ -11,6 +11,6 @@ print(ciphertext)
 # decodetext = base64.b64decode(ciphertext)
 # print(decodetext.decode())
 
-alltext = "12345678**" + str(ciphertext, encoding = 'utf-8')
-with open('./newfile', 'w') as file:
+alltext = "sflrabcd**" + str(ciphertext, encoding = 'utf-8')
+with open('../my.test.json', 'w') as file:
     file.write(alltext)
