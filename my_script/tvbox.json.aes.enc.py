@@ -83,7 +83,7 @@ def enc_packed_str(key_str, iv_str, ciphertext_hexstr):
 
 if __name__ == '__main__':
     key = 'luckysflr'
-    iv = 'luckysflr'
+    iv = '3456789abcdef'
 
     my_dec_json_path = '../my.dec.json'
     my_enc_json_path = '../my.enc.json'
