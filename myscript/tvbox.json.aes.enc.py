@@ -75,6 +75,7 @@ def iv_packed_padding(iv_hexstr):
         print("length for iv_str is larger than 13")
         exit()
     padding_size = fixed_end_iv_bytes - len(bytes.fromhex(iv_hexstr))
+    print("End of packed encrypted str for iv padding_size is ", padding_size)
     padded_iv_hex_str = iv_hexstr + '00' * padding_size
     return padded_iv_hex_str
 
@@ -82,8 +83,8 @@ def enc_packed_str(key_str, iv_str, ciphertext_hexstr):
     return ('$#' + key_str + '#$').encode().hex() + ciphertext_hexstr + iv_packed_padding(iv_str.encode().hex())
 
 if __name__ == '__main__':
-    key = 'luckysflr'
-    iv = '3456789abcdef'
+    key = '123456'
+    iv = '2111111111000'
 
     my_dec_json_path = '../my.dec.json'
     my_enc_json_path = '../my.enc.json'
@@ -92,12 +93,12 @@ if __name__ == '__main__':
     ######### Encryption ################
     #####################################
     with open(my_dec_json_path, 'r', encoding = 'utf-8') as file:
-        plaintext_hexstr = file.read()
-    # print(plaintext_hexstr)
+        plaintext_str = file.read()
+    print(plaintext_str)
 
-    ciphertext_hexstr = cbc_encrypt(key, iv, plaintext_hexstr)
-    print(ciphertext_hexstr)
+    ciphertext_hexstr = cbc_encrypt(key, iv, plaintext_str)
     packed_ciphertext_hexstr = enc_packed_str(key, iv, ciphertext_hexstr)
+    print(packed_ciphertext_hexstr)
     with open(my_enc_json_path, 'w') as file:
         file.write(packed_ciphertext_hexstr)
 
