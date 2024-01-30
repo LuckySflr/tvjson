@@ -17,9 +17,9 @@ def cbc_encrypt(key_str, iv_str, plaintext_str):
     
     key_hexstr = key_str.encode().hex() + '00' * (block_size - len(list(key_str)))
     iv_hexstr = iv_str.encode().hex() + '00' * (block_size - len(list(iv_str)))
-    print(key_hexstr)
-    print(iv_hexstr)
-    print(padded_plaintext_bytes)
+    # print(key_hexstr)
+    # print(iv_hexstr)
+    # print(padded_plaintext_bytes)
 
     cipher = AES.new(bytearray.fromhex(key_hexstr), AES.MODE_CBC, bytearray.fromhex(iv_hexstr))
     ciphertext_hexstr = cipher.encrypt(padded_plaintext_bytes).hex()
@@ -31,37 +31,36 @@ def cbc_decrypt(key_str, iv_str, ciphertext_hexstr):
     if(len(bytearray.fromhex(ciphertext_hexstr)) % block_size != 0):
         exit()
 
-    cipherext_bytes = bytearray.fromhex(ciphertext_hexstr)
-
     key_hexstr = key_str.encode().hex() + '00' * (block_size - len(list(key_str)))
     iv_hexstr = iv_str.encode().hex() + '00' * (block_size - len(list(iv_str)))
-    print(key_hexstr)
-    print(iv_hexstr)
-    print(cipherext_bytes)
+    cipherext_bytes = bytearray.fromhex(ciphertext_hexstr)
+
+    # print(key_hexstr)
+    # print(iv_hexstr)
+    # print(cipherext_bytes)
 
     cipher = AES.new(bytearray.fromhex(key_hexstr), AES.MODE_CBC, bytearray.fromhex(iv_hexstr))
     plaintext_hexstr = cipher.decrypt(cipherext_bytes).hex()
+    padding_size = int(bytearray.fromhex(plaintext_hexstr)[-1])
+    print("padding_size is:", padding_size)
+    plaintext_hexstr = bytes.fromhex(plaintext_hexstr)[0:len(bytes.fromhex(plaintext_hexstr)) - padding_size + 1].hex()
     return plaintext_hexstr
 
-key = 'luckysflr'
-iv = 'luckysflr'
+if __name__ == '__main__':
+    key = 'luckysflr'
+    iv = 'luckysflr'
+    # plaintext_str = 'abcd'
 
-my_path = '../my.json'
-with open(my_path, 'r', encoding='utf-8') as file:
-    content = file.read()
-# content = '1234567890abcdef'
+    my_json_path = '../my.json'
+    with open(my_json_path, 'r', encoding='utf-8') as file:
+        plaintext_str = file.read()
 
-ciphertext_hexstr = cbc_encrypt(key, iv, content)
-print(ciphertext_hexstr)
+    ciphertext_hexstr = cbc_encrypt(key, iv, plaintext_str)
+    # print(ciphertext_hexstr)
 
-alltext = ('$#' + key + '#$').encode().hex() + ciphertext_hexstr + iv.encode().hex()
+    alltext = ('$#' + key + '#$').encode().hex() + ciphertext_hexstr + iv.encode().hex()
+    with open('../my.test.json', 'w') as file:
+        file.write(alltext)
 
-with open('../my.test.json', 'w') as file:
-    file.write(alltext)
-
-# ciphertext_hexstr = 'f3ed7e4405c39413218fd06014adb5ee'
-# plaintext_hexstr = cbc_decrypt(key, iv, ciphertext_hexstr)
-# print(plaintext_hexstr)
-
-
-
+    # plaintext = bytearray.fromhex(cbc_decrypt(key, iv, ciphertext_hexstr)).decode()
+    # print(plaintext)
