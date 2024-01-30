@@ -46,18 +46,18 @@ def cbc_decrypt(key_str, iv_str, ciphertext_hexstr):
 key = '123456'
 iv = '1706584415200'
 
-# my_path = '../my.json'
-# with open(my_path, 'r', encoding='utf-8') as file:
-#     content = file.read()
+my_path = '../my.json'
+with open(my_path, 'r', encoding='utf-8') as file:
+    content = file.read()
+# content = '1234567890abcdef'
 
-content = '1234567890abcdef'
-print(type(content))
 ciphertext_hexstr = cbc_encrypt(key, iv, content)
 print(ciphertext_hexstr)
 
-# alltext = ('$#' + key + '#$').encode().hex() + ciphertext.hex() + iv.encode().hex()
-# with open('./newfile', 'w') as file:
-#     file.write(alltext)
+alltext = ('$#' + key + '#$').encode().hex() + ciphertext_hexstr + iv.encode().hex()
+
+with open('../my.test.json', 'w') as file:
+    file.write(alltext)
 
 # ciphertext_hexstr = 'f3ed7e4405c39413218fd06014adb5ee'
 # plaintext_hexstr = cbc_decrypt(key, iv, ciphertext_hexstr)

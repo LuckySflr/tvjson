@@ -12,5 +12,6 @@ print(ciphertext)
 # print(decodetext.decode())
 
 alltext = "sflrabcd**" + str(ciphertext, encoding = 'utf-8')
+
 with open('../my.test.json', 'w') as file:
     file.write(alltext)
