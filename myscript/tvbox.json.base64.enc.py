@@ -1,7 +1,9 @@
 import base64
 
-my_path = '../my.json'
-with open(my_path, 'r', encoding='utf-8') as file:
+my_dec_json_path = '../my.dec.json'
+my_enc_json_path = '../my.enc.json'
+
+with open(my_dec_json_path, 'r', encoding='utf-8') as file:
     content = file.read()
 
 plaintext = content
@@ -13,5 +15,6 @@ print(ciphertext)
 
 alltext = "sflrabcd**" + str(ciphertext, encoding = 'utf-8')
 
-with open('../my.test.json', 'w') as file:
+my_enc_json_path = '../my.test.json'
+with open(my_enc_json_path, 'w') as file:
     file.write(alltext)
