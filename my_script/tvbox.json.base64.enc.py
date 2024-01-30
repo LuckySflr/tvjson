@@ -8,6 +8,9 @@ plaintext = content
 ciphertext = base64.b64encode(plaintext.encode())
 print(ciphertext)
 
+decodetext = base64.b64decode(ciphertext)
+print(decodetext)
+
 alltext = "12345678**" + ciphertext.hex()
 with open('./newfile', 'w') as file:
     file.write(alltext)
