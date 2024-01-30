@@ -8,33 +8,61 @@
 from Cryptodome.Cipher import AES
 import binascii
 
-def cbc_encrypt(key, iv, plaintext):
+def cbc_encrypt(key_str, iv_str, plaintext_str):
     block_size = 16
-    padding_size = block_size - len(plaintext.encode('utf-8')) % block_size
-    padding_str = str(padding_size) * padding_size
-    padded_plaintext = plaintext + padding_str
+    padding_size = block_size - len(plaintext_str.encode('utf-8')) % block_size
+    print("padding_size is", padding_size)
+
+    padding_bytes = bytes([padding_size]) * padding_size
+    padded_plaintext_bytes = plaintext_str.encode() + padding_bytes
     
-    key_hexstr = key.encode().hex() + '00' * (block_size - len(list(key)))
-    iv_hexstr = iv.encode().hex() + '00' * (block_size - len(list(iv)))
+    key_hexstr = key_str.encode().hex() + '00' * (block_size - len(list(key_str)))
+    iv_hexstr = iv_str.encode().hex() + '00' * (block_size - len(list(iv_str)))
     print(key_hexstr)
     print(iv_hexstr)
+    print(padded_plaintext_bytes)
 
     cipher = AES.new(bytearray.fromhex(key_hexstr), AES.MODE_CBC, bytearray.fromhex(iv_hexstr))
-    ciphertext = cipher.encrypt(padded_plaintext.encode('utf-8'))
-    # print(ciphertext.hex())
-    return ciphertext
+    ciphertext_hexstr = cipher.encrypt(padded_plaintext_bytes).hex()
 
+    return ciphertext_hexstr
+
+def cbc_decrypt(key_str, iv_str, ciphertext_hexstr):
+    block_size = 16
+    if(len(bytearray.fromhex(ciphertext_hexstr)) % block_size != 0):
+        exit()
+
+    cipherext_bytes = bytearray.fromhex(ciphertext_hexstr)
+
+    key_hexstr = key_str.encode().hex() + '00' * (block_size - len(list(key_str)))
+    iv_hexstr = iv_str.encode().hex() + '00' * (block_size - len(list(iv_str)))
+    print(key_hexstr)
+    print(iv_hexstr)
+    print(cipherext_bytes)
+
+    cipher = AES.new(bytearray.fromhex(key_hexstr), AES.MODE_CBC, bytearray.fromhex(iv_hexstr))
+    plaintext_hexstr = cipher.decrypt(cipherext_bytes).hex()
+    return plaintext_hexstr
 
 key = '123456'
-iv = '1706537911728'
+iv = '1706584415200'
 
-my_path = '../my.json'
-with open(my_path, 'r', encoding='utf-8') as file:
-    content = file.read()
-# print(type(content))
-ciphertext = cbc_encrypt(key, iv, content)
-alltext = ('$#' + key + '#$').encode().hex() + ciphertext.hex() + iv.encode().hex()
-with open('./newfile', 'w') as file:
-    file.write(alltext)
+# my_path = '../my.json'
+# with open(my_path, 'r', encoding='utf-8') as file:
+#     content = file.read()
+
+content = '1234567890abcdef'
+print(type(content))
+ciphertext_hexstr = cbc_encrypt(key, iv, content)
+print(ciphertext_hexstr)
+
+# alltext = ('$#' + key + '#$').encode().hex() + ciphertext.hex() + iv.encode().hex()
+# with open('./newfile', 'w') as file:
+#     file.write(alltext)
+
+# ciphertext_hexstr = 'f3ed7e4405c39413218fd06014adb5ee'
+# plaintext_hexstr = cbc_decrypt(key, iv, ciphertext_hexstr)
+# print(plaintext_hexstr)
+
 
 
