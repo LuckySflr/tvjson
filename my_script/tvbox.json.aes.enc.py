@@ -43,8 +43,8 @@ def cbc_decrypt(key_str, iv_str, ciphertext_hexstr):
     plaintext_hexstr = cipher.decrypt(cipherext_bytes).hex()
     return plaintext_hexstr
 
-key = '123456'
-iv = '1706584415200'
+key = 'luckysflr'
+iv = 'luckysflr'
 
 my_path = '../my.json'
 with open(my_path, 'r', encoding='utf-8') as file:
