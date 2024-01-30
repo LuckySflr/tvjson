@@ -9,6 +9,13 @@ from Cryptodome.Cipher import AES
 
 def cbc_encrypt(key_str, iv_str, plaintext_str):
     block_size = 16
+    if len(key_str.encode()) > 16:
+        print("length for key_str is larger than 16!")
+        exit()
+    if len(iv_str.encode()) > 13:
+        print("length for iv_str is larger than 13")
+        exit()
+
     padding_size = block_size - len(plaintext_str.encode('utf-8')) % block_size
     print("padding_size is", padding_size)
 
@@ -21,46 +28,88 @@ def cbc_encrypt(key_str, iv_str, plaintext_str):
     # print(iv_hexstr)
     # print(padded_plaintext_bytes)
 
-    cipher = AES.new(bytearray.fromhex(key_hexstr), AES.MODE_CBC, bytearray.fromhex(iv_hexstr))
+    cipher = AES.new(bytes.fromhex(key_hexstr), AES.MODE_CBC, bytes.fromhex(iv_hexstr))
     ciphertext_hexstr = cipher.encrypt(padded_plaintext_bytes).hex()
 
     return ciphertext_hexstr
 
 def cbc_decrypt(key_str, iv_str, ciphertext_hexstr):
     block_size = 16
-    if(len(bytearray.fromhex(ciphertext_hexstr)) % block_size != 0):
+    if len(bytes.fromhex(ciphertext_hexstr)) % block_size != 0:
+        print("Input decrypt ciphertext_hexstr size is not valid!")
         exit()
 
     key_hexstr = key_str.encode().hex() + '00' * (block_size - len(list(key_str)))
     iv_hexstr = iv_str.encode().hex() + '00' * (block_size - len(list(iv_str)))
-    cipherext_bytes = bytearray.fromhex(ciphertext_hexstr)
+    cipherext_bytes = bytes.fromhex(ciphertext_hexstr)
 
     # print(key_hexstr)
     # print(iv_hexstr)
     # print(cipherext_bytes)
 
-    cipher = AES.new(bytearray.fromhex(key_hexstr), AES.MODE_CBC, bytearray.fromhex(iv_hexstr))
+    cipher = AES.new(bytes.fromhex(key_hexstr), AES.MODE_CBC, bytes.fromhex(iv_hexstr))
     plaintext_hexstr = cipher.decrypt(cipherext_bytes).hex()
-    padding_size = int(bytearray.fromhex(plaintext_hexstr)[-1])
+    padding_size = int(bytes.fromhex(plaintext_hexstr)[-1])
     print("padding_size is:", padding_size)
-    plaintext_hexstr = bytes.fromhex(plaintext_hexstr)[0:len(bytes.fromhex(plaintext_hexstr)) - padding_size + 1].hex()
+    plaintext_hexstr = bytes.fromhex(plaintext_hexstr)[0:len(bytes.fromhex(plaintext_hexstr)) - padding_size].hex()
+
     return plaintext_hexstr
+
+def extract(ciphertext_hexstr):
+    fixed_end_iv_bytes = 13
+    start_idx = ciphertext_hexstr.find('2324')
+    if(start_idx == -1):
+        print("No match found")
+        exit()
+    else:
+        start_idx += 4
+    end_idx = len(ciphertext_hexstr) - fixed_end_iv_bytes * 2
+    if end_idx < 0:
+        print("Invalid ciphertext length")
+        exit()
+    return(ciphertext_hexstr[start_idx:end_idx])
+
+def iv_packed_padding(iv_hexstr):
+    fixed_end_iv_bytes = 13
+    if len(bytes.fromhex(iv_hexstr)) > 13:
+        print("length for iv_str is larger than 13")
+        exit()
+    padding_size = fixed_end_iv_bytes - len(bytes.fromhex(iv_hexstr))
+    padded_iv_hex_str = iv_hexstr + '00' * padding_size
+    return padded_iv_hex_str
+
+def enc_packed_str(key_str, iv_str, ciphertext_hexstr):
+    return ('$#' + key_str + '#$').encode().hex() + ciphertext_hexstr + iv_packed_padding(iv_str.encode().hex())
 
 if __name__ == '__main__':
     key = 'luckysflr'
     iv = 'luckysflr'
-    # plaintext_str = 'abcd'
 
-    my_json_path = '../my.json'
-    with open(my_json_path, 'r', encoding='utf-8') as file:
-        plaintext_str = file.read()
+    my_dec_json_path = '../my.dec.json'
+    my_enc_json_path = '../my.enc.json'
 
-    ciphertext_hexstr = cbc_encrypt(key, iv, plaintext_str)
-    # print(ciphertext_hexstr)
+    #####################################
+    ######### Encryption ################
+    #####################################
+    with open(my_dec_json_path, 'r', encoding = 'utf-8') as file:
+        plaintext_hexstr = file.read()
+    # print(plaintext_hexstr)
 
-    alltext = ('$#' + key + '#$').encode().hex() + ciphertext_hexstr + iv.encode().hex()
-    with open('../my.test.json', 'w') as file:
-        file.write(alltext)
+    ciphertext_hexstr = cbc_encrypt(key, iv, plaintext_hexstr)
+    print(ciphertext_hexstr)
+    packed_ciphertext_hexstr = enc_packed_str(key, iv, ciphertext_hexstr)
+    with open(my_enc_json_path, 'w') as file:
+        file.write(packed_ciphertext_hexstr)
 
-    # plaintext = bytearray.fromhex(cbc_decrypt(key, iv, ciphertext_hexstr)).decode()
-    # print(plaintext)
+
+    # ####################################
+    # ######## Decryption ################
+    # ####################################
+    # with open(my_enc_json_path, 'r', encoding = 'utf-8') as file:
+    #     ciphertext_hexstr = file.read()
+    # extract_plaintext_hexstr = extract(ciphertext_hexstr)
+    # plaintext_str = bytes.fromhex(cbc_decrypt(key, iv, extract_plaintext_hexstr)).decode()
+
+    # print(plaintext_str)
+    # with open('../my.dec.json', 'w', encoding = 'utf-8') as file:
+    #     file.write(plaintext_str)
