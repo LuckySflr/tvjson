@@ -9,78 +9,105 @@ from Cryptodome.Cipher import AES
 
 def cbc_encrypt(key_str, iv_str, plaintext_str):
     block_size = 16
-    if len(key_str.encode()) > 16:
+    if len(key_str) < 0 or len(key_str) > 16 :
         print("length for key_str is larger than 16!")
         exit()
-    if len(iv_str.encode()) > 13:
+    if len(iv_str) < 0 or len(iv_str) > 13:
         print("length for iv_str is larger than 13")
         exit()
 
-    padding_size = block_size - len(plaintext_str.encode('utf-8')) % block_size
-    print("padding_size is", padding_size)
+    # for key and iv padding
+    padded_key_hexstr = padding_to_16bytes(key_str).encode().hex()
+    padded_iv_hexstr = padding_to_16bytes(iv_str).encode().hex()
 
-    padding_bytes = bytes([padding_size]) * padding_size
-    padded_plaintext_bytes = plaintext_str.encode() + padding_bytes
-    
-    key_hexstr = key_str.encode().hex() + '00' * (block_size - len(list(key_str)))
-    iv_hexstr = iv_str.encode().hex() + '00' * (block_size - len(list(iv_str)))
+    # for plaintext padding
+    plaintext_padding_size = block_size - len(plaintext_str.encode()) % block_size
+    print("plaintext_padding_size is", plaintext_padding_size)
+    # Use PKCS5Padding
+    plaintext_padding_bytes = bytes([plaintext_padding_size]) * plaintext_padding_size
+    padded_plaintext_bytes = plaintext_str.encode() + plaintext_padding_bytes
+
     # print(key_hexstr)
     # print(iv_hexstr)
     # print(padded_plaintext_bytes)
 
-    cipher = AES.new(bytes.fromhex(key_hexstr), AES.MODE_CBC, bytes.fromhex(iv_hexstr))
+    cipher = AES.new(bytes.fromhex(padded_key_hexstr), AES.MODE_CBC, bytes.fromhex(padded_iv_hexstr))
     ciphertext_hexstr = cipher.encrypt(padded_plaintext_bytes).hex()
 
     return ciphertext_hexstr
 
 def cbc_decrypt(key_str, iv_str, ciphertext_hexstr):
     block_size = 16
+    if len(key_str) < 0 or len(key_str) > 16 :
+        print("length for key_str is larger than 16!")
+        exit()
+    if len(iv_str) < 0 or len(iv_str) > 13:
+        print("length for iv_str is larger than 13")
+        exit()
     if len(bytes.fromhex(ciphertext_hexstr)) % block_size != 0:
-        print("Input decrypt ciphertext_hexstr size is not valid!")
+        print("Length for ciphertext_bytes is ", len(bytes.fromhex(ciphertext_hexstr)), ", is not padded to 16 byte.")
         exit()
 
-    key_hexstr = key_str.encode().hex() + '00' * (block_size - len(list(key_str)))
-    iv_hexstr = iv_str.encode().hex() + '00' * (block_size - len(list(iv_str)))
+    # for key and iv padding
+    padded_key_hexstr = padding_to_16bytes(key_str).encode().hex()
+    padded_iv_hexstr = padding_to_16bytes(iv_str).encode().hex()
+    # for ciphertext
     cipherext_bytes = bytes.fromhex(ciphertext_hexstr)
 
     # print(key_hexstr)
     # print(iv_hexstr)
     # print(cipherext_bytes)
 
-    cipher = AES.new(bytes.fromhex(key_hexstr), AES.MODE_CBC, bytes.fromhex(iv_hexstr))
-    plaintext_hexstr = cipher.decrypt(cipherext_bytes).hex()
-    padding_size = int(bytes.fromhex(plaintext_hexstr)[-1])
-    print("padding_size is:", padding_size)
-    plaintext_hexstr = bytes.fromhex(plaintext_hexstr)[0:len(bytes.fromhex(plaintext_hexstr)) - padding_size].hex()
+    cipher = AES.new(bytes.fromhex(padded_key_hexstr), AES.MODE_CBC, bytes.fromhex(padded_iv_hexstr))
+    plaintext_padded_hexstr = cipher.decrypt(cipherext_bytes).hex()
+
+    plaintext_padding_bytes_size = int(bytes.fromhex(plaintext_padded_hexstr)[-1])
+    print("plaintext_padding_bytes_size is:", plaintext_padding_bytes_size)
+    plaintext_hexstr = plaintext_padded_hexstr[0 : (len(bytes.fromhex(plaintext_padded_hexstr)) - plaintext_padding_bytes_size) * 2]
 
     return plaintext_hexstr
 
-def extract(ciphertext_hexstr):
-    fixed_end_iv_bytes = 13
-    start_idx = ciphertext_hexstr.find('2324')
+# Specially for tvbox aes encryption, only
+def padding_to_13bytes(iv_str):
+    if len(iv_str) <= 0 or len(iv_str) > 13:
+        print("length for iv_str is invalid!")
+        exit()
+
+    while len(iv_str) < 13:
+        iv_str += '0'
+    return iv_str
+
+# For aes key/iv padding
+def padding_to_16bytes(str):
+    if len(str) <= 0 or len(str) > 16:
+        print("Input str length invalid!")
+        exit()
+    
+    while len(str) < 16:
+        str += '0'
+    return str
+
+def get_enc_packed_hexstr(key_str, iv_str, ciphertext_hexstr):
+    return ('$#' + key_str + '#$').encode().hex() + ciphertext_hexstr + padding_to_13bytes(iv_str).encode().hex()
+
+def get_dec_unpack_hexstr(packed_ciphertext_hexstr):
+    fixed_end_iv_bytes_size = 13
+    start_idx = packed_ciphertext_hexstr.find('2324')
     if(start_idx == -1):
         print("No match found")
         exit()
     else:
         start_idx += 4
-    end_idx = len(ciphertext_hexstr) - fixed_end_iv_bytes * 2
+
+    end_idx = len(packed_ciphertext_hexstr) - fixed_end_iv_bytes_size * 2
     if end_idx < 0:
         print("Invalid ciphertext length")
         exit()
-    return(ciphertext_hexstr[start_idx:end_idx])
 
-def iv_packed_padding(iv_hexstr):
-    fixed_end_iv_bytes = 13
-    if len(bytes.fromhex(iv_hexstr)) > 13:
-        print("length for iv_str is larger than 13")
-        exit()
-    padding_size = fixed_end_iv_bytes - len(bytes.fromhex(iv_hexstr))
-    print("End of packed encrypted str for iv padding_size is ", padding_size)
-    padded_iv_hex_str = iv_hexstr + '00' * padding_size
-    return padded_iv_hex_str
-
-def enc_packed_str(key_str, iv_str, ciphertext_hexstr):
-    return ('$#' + key_str + '#$').encode().hex() + ciphertext_hexstr + iv_packed_padding(iv_str.encode().hex())
+    # print("packed_ciphertext_hexstr size is:", len(packed_ciphertext_hexstr))
+    # print("start_idx is ", start_idx)
+    # print("end_idx is ", end_idx)
+    return(packed_ciphertext_hexstr[start_idx : end_idx])
 
 if __name__ == '__main__':
     key = '123456'
@@ -89,18 +116,19 @@ if __name__ == '__main__':
     my_dec_json_path = '../my.dec.json'
     my_enc_json_path = '../my.enc.json'
 
-    #####################################
-    ######### Encryption ################
-    #####################################
-    with open(my_dec_json_path, 'r', encoding = 'utf-8') as file:
-        plaintext_str = file.read()
-    print(plaintext_str)
+    # #####################################
+    # ######### Encryption ################
+    # #####################################
+    # with open(my_dec_json_path, 'r', encoding = 'utf-8') as file:
+    #     plaintext_str = file.read()
+    # # print(plaintext_str)
 
-    ciphertext_hexstr = cbc_encrypt(key, iv, plaintext_str)
-    packed_ciphertext_hexstr = enc_packed_str(key, iv, ciphertext_hexstr)
-    print(packed_ciphertext_hexstr)
-    with open(my_enc_json_path, 'w') as file:
-        file.write(packed_ciphertext_hexstr)
+    # ciphertext_hexstr = cbc_encrypt(key, iv, plaintext_str)
+    # packed_ciphertext_hexstr = get_enc_packed_hexstr(key, iv, ciphertext_hexstr)
+    # print(packed_ciphertext_hexstr)
+
+    # with open(my_enc_json_path, 'w') as file:
+    #     file.write(packed_ciphertext_hexstr)
 
 
     # ####################################
@@ -108,9 +136,9 @@ if __name__ == '__main__':
     # ####################################
     # with open(my_enc_json_path, 'r', encoding = 'utf-8') as file:
     #     ciphertext_hexstr = file.read()
-    # extract_plaintext_hexstr = extract(ciphertext_hexstr)
-    # plaintext_str = bytes.fromhex(cbc_decrypt(key, iv, extract_plaintext_hexstr)).decode()
+    # unpacked_plaintext_hexstr = get_dec_unpack_hexstr(ciphertext_hexstr)
+    # decrypted_str = bytes.fromhex(cbc_decrypt(key, iv, unpacked_plaintext_hexstr)).decode()
 
-    # print(plaintext_str)
-    # with open('../my.dec.json', 'w', encoding = 'utf-8') as file:
-    #     file.write(plaintext_str)
+    # print(decrypted_str)
+    # with open('../my.test.json', 'w', encoding = 'utf-8') as file:
+    #     file.write(decrypted_str)
