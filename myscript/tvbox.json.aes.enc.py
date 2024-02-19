@@ -116,19 +116,19 @@ if __name__ == '__main__':
     my_dec_json_path = '../my.dec.json'
     my_enc_json_path = '../my.enc.json'
 
-    # #####################################
-    # ######### Encryption ################
-    # #####################################
-    # with open(my_dec_json_path, 'r', encoding = 'utf-8') as file:
-    #     plaintext_str = file.read()
-    # # print(plaintext_str)
+    #####################################
+    ######### Encryption ################
+    #####################################
+    with open(my_dec_json_path, 'r', encoding = 'utf-8') as file:
+        plaintext_str = file.read()
+    # print(plaintext_str)
 
-    # ciphertext_hexstr = cbc_encrypt(key, iv, plaintext_str)
-    # packed_ciphertext_hexstr = get_enc_packed_hexstr(key, iv, ciphertext_hexstr)
-    # print(packed_ciphertext_hexstr)
+    ciphertext_hexstr = cbc_encrypt(key, iv, plaintext_str)
+    packed_ciphertext_hexstr = get_enc_packed_hexstr(key, iv, ciphertext_hexstr)
+    print(packed_ciphertext_hexstr)
 
-    # with open(my_enc_json_path, 'w') as file:
-    #     file.write(packed_ciphertext_hexstr)
+    with open(my_enc_json_path, 'w') as file:
+        file.write(packed_ciphertext_hexstr)
 
 
     # ####################################
