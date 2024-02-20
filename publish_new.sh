@@ -15,7 +15,7 @@ git commit -am "Update my.json."
 git checkout master
 git checkout dev my.json
 git commit -am "Update my.json."
+git push gitee master
 
 git checkout dev
-
 git push gitlab --all
