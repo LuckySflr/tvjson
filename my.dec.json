@@ -1,5 +1,5 @@
 {
-    "菜妮丝": "https://cainisi.cf",
+    "菜妮丝": "https://菜妮丝.top",
     "友情提醒": "接口完全免费，切勿付费购买。",
     "spider": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fty0101.jar;md5;fd784008ab71d81a178564841059756d",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
@@ -12,7 +12,7 @@
             "searchable": 0,
             "changeable": 1,
             "ext": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/json/douban.json",
-            "jar": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+            "jar": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fm0209.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
             "key": "戏曲",
@@ -88,10 +88,10 @@
             "key": "JustLive",
             "name": "Just┃直播",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://drpy.cainisi.cf/js/JustLive.js"
+            "ext": "https://drpy.菜妮丝.top/js/JustLive.js"
         },
         {
             "key": "csp_戏曲",
@@ -100,7 +100,7 @@
             "api": "csp_Bili",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩戏曲.json"
+            "ext": "https://tv.菜妮丝.top/json/哔哩哔哩戏曲.json"
         },
         {
             "key": "演唱会",
@@ -109,7 +109,7 @@
             "api": "csp_Bili",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩音乐.json"
+            "ext": "https://tv.菜妮丝.top/json/哔哩哔哩音乐.json"
         },
         {
             "key": "csp_BBB",
@@ -118,7 +118,7 @@
             "api": "csp_Bili",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩合集.json"
+            "ext": "https://tv.菜妮丝.top/json/哔哩哔哩合集.json"
         },
         {
             "key": "网红直播",
@@ -132,19 +132,19 @@
             "key": "虎牙直播",
             "name": "虎牙┃直播",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://drpy.cainisi.cf/js/虎牙直播.js"
+            "ext": "https://drpy.菜妮丝.top/js/虎牙直播.js"
         },
         {
             "key": "斗鱼直播",
             "name": "斗鱼┃直播",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://drpy.cainisi.cf/js/斗鱼直播.js",
+            "ext": "https://drpy.菜妮丝.top/js/斗鱼直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -162,11 +162,11 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "https://tvbox.cainisi.cf/json/bili.json",
+                "json": "https://tv.菜妮丝.top/json/bili.json",
                 "type": "帕梅拉#太极拳#广场舞#演唱会",
                 "cookie": ""
             },
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
             "key": "自学教程",
@@ -186,14 +186,14 @@
             "key": "兔小贝",
             "name": "📚儿童┃启蒙",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1.597
             },
-            "ext": "https://drpy.cainisi.cf/js/兔小贝.js"
+            "ext": "https://drpy.菜妮丝.top/js/兔小贝.js"
         },
         {
             "key": "儿童",
@@ -206,7 +206,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩少儿.json"
+            "ext": "https://tv.菜妮丝.top/json/哔哩哔哩少儿.json"
         },
         {
             "key": "小学",
@@ -219,7 +219,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩小学.json"
+            "ext": "https://tv.菜妮丝.top/json/哔哩哔哩小学.json"
         },
         {
             "key": "初中",
@@ -232,7 +232,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩初中.json"
+            "ext": "https://tv.菜妮丝.top/json/哔哩哔哩初中.json"
         },
         {
             "key": "高中",
@@ -245,7 +245,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩高中.json"
+            "ext": "https://tv.菜妮丝.top/json/哔哩哔哩高中.json"
         },
         {
             "key": "企鹅体育",
@@ -254,7 +254,7 @@
             "api": "csp_XPath",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://tvbox.cainisi.cf/json/XPath/企鹅体育.json"
+            "ext": "https://tv.菜妮丝.top/json/XPath/企鹅体育.json"
         },
         {
             "key": "🏀看球",
@@ -266,16 +266,16 @@
             "style": {
                 "type": "list"
             },
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
             "key": "310直播",
             "name": "⚽310┃看球",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://drpy.cainisi.cf/js/310直播.js"
+            "ext": "https://drpy.菜妮丝.top/js/310直播.js"
         },
         {
             "key": "MV_vod",
@@ -295,8 +295,8 @@
             "api": "csp_XBPQ",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://tvbox.cainisi.cf/json/XBPQ/酷奇MV.json",
-            "jar": "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
+            "ext": "https://tv.菜妮丝.top/json/XBPQ/酷奇MV.json",
+            "jar": "https://tv.菜妮丝.top/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
         },
         {
             "key": "酷狗",
@@ -305,47 +305,47 @@
             "api": "csp_Kugou",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
             "key": "A8音乐",
             "name": "🎵A8┃MV",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
             },
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://drpy.cainisi.cf/js/A8音乐.js"
+            "ext": "https://drpy.菜妮丝.top/js/A8音乐.js"
         },
         {
             "key": "DJ哟哟音乐网",
             "name": "🎵DJ哟哟┃音乐",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://drpy.cainisi.cf/js/DJ音乐.js"
+            "ext": "https://drpy.菜妮丝.top/js/DJ音乐.js"
         },
         {
             "key": "Jango",
             "name": "🎵Jango┃音乐",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://drpy.cainisi.cf/js/JangoIndex.js"
+            "ext": "https://drpy.菜妮丝.top/js/JangoIndex.js"
         },
         {
             "key": "啦啦DJ音乐网",
             "name": "🎵啦啦DJ┃音乐",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://drpy.cainisi.cf/js/啦啦DJ.js"
+            "ext": "https://drpy.菜妮丝.top/js/啦啦DJ.js"
         },
         {
             "key": "南瓜",
@@ -373,7 +373,7 @@
             "api": "csp_SP360",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://tvbox.cainisi.cf/jar/xyq1123.jar;md5;71de3509aba374cdec13c22cbcce202f"
+            "jar": "https://tv.菜妮丝.top/jar/xyq1123.jar;md5;71de3509aba374cdec13c22cbcce202f"
         },
         {
             "key": "非凡",
@@ -406,8 +406,8 @@
             "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/jianpian.json",
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+            "ext": "https://tv.菜妮丝.top/json/jianpian.json",
+            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
             "key": "一起看",
@@ -424,7 +424,7 @@
             "api": "csp_Ying",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
             "key": "巴士",
@@ -433,16 +433,16 @@
             "api": "csp_Dm84",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
             "key": "去看吧",
             "name": "去看吧┃动漫",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/去看吧.js"
+            "ext": "https://drpy.菜妮丝.top/js/去看吧.js"
         },
         {
             "key": "异界",
@@ -451,7 +451,7 @@
             "api": "csp_Ysj",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
             "key": "csp_Anime1",
@@ -468,7 +468,7 @@
             "api": "csp_Duanju",
             "searchable": 1,
             "changeable": 0,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
             "key": "新6V",
@@ -477,7 +477,7 @@
             "api": "csp_Xb6v",
             "searchable": 1,
             "changeable": 0,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
             "key": "橘子",
@@ -501,19 +501,19 @@
             "key": "Auete影视",
             "name": "Auete┃影视",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/Auete.js"
+            "ext": "https://drpy.菜妮丝.top/js/Auete.js"
         },
         {
             "key": "低端影视",
             "name": "低端┃影视",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/ddys.js"
+            "ext": "https://drpy.菜妮丝.top/js/ddys.js"
         },
         {
             "key": "csp_Nmys",
@@ -522,79 +522,79 @@
             "api": "csp_Nmys",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/nmys.json"
+            "ext": "https://tv.菜妮丝.top/json/nmys.json"
         },
         {
             "key": "快看影视",
             "name": "快看┃影视",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/快看.js"
+            "ext": "https://drpy.菜妮丝.top/js/快看.js"
         },
         {
             "key": "VOFLIX",
             "name": "VOFLIX┃影视",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/voflix.js"
+            "ext": "https://drpy.菜妮丝.top/js/voflix.js"
         },
         {
             "key": "零零七影视",
             "name": "零零七┃影视",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/007影视.js"
+            "ext": "https://drpy.菜妮丝.top/js/007影视.js"
         },
         {
             "key": "139影视",
             "name": "139┃影视",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/139影视.js"
+            "ext": "https://drpy.菜妮丝.top/js/139影视.js"
         },
         {
             "key": "348电影网",
             "name": "348┃影视",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/348电影网.js"
+            "ext": "https://drpy.菜妮丝.top/js/348电影网.js"
         },
         {
             "key": "六度TV",
             "name": "六度┃影视",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/六度TV.js"
+            "ext": "https://drpy.菜妮丝.top/js/六度TV.js"
         },
         {
             "key": "兰花影院",
             "name": "兰花┃影视",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/兰花影院.js"
+            "ext": "https://drpy.菜妮丝.top/js/兰花影院.js"
         },
         {
             "key": "咕噜[V2]",
             "name": "咕噜┃影视",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/咕噜[V2].js"
+            "ext": "https://drpy.菜妮丝.top/js/咕噜[V2].js"
         },
         {
             "key": "宿命影视",
@@ -603,8 +603,8 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/XBPQ/宿命影视.json",
-            "jar": "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
+            "ext": "https://tv.菜妮丝.top/json/XBPQ/宿命影视.json",
+            "jar": "https://tv.菜妮丝.top/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
         },
         {
             "key": "APP影院",
@@ -613,8 +613,8 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/XBPQ/APP影院.json",
-            "jar": "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
+            "ext": "https://tv.菜妮丝.top/json/XBPQ/APP影院.json",
+            "jar": "https://tv.菜妮丝.top/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
         },
         {
             "key": "52看剧",
@@ -623,8 +623,8 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/XBPQ/52看剧.json",
-            "jar": "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
+            "ext": "https://tv.菜妮丝.top/json/XBPQ/52看剧.json",
+            "jar": "https://tv.菜妮丝.top/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
         },
         {
             "key": "本地",
@@ -633,11 +633,11 @@
             "api": "csp_Local",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
         {
             "key": "说明1",
-            "name": "https://cainisi.cf",
+            "name": "https://菜妮丝.top",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
@@ -867,7 +867,7 @@
         {
             "name": "LIVE",
             "type": 0,
-            "url": "https://tvbox.cainisi.cf/TV",
+            "url": "https://tv.菜妮丝.top/TV",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
