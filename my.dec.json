@@ -339,15 +339,6 @@
             "ext": "https://drpy.菜妮丝.top/js/JangoIndex.js"
         },
         {
-            "key": "啦啦DJ音乐网",
-            "name": "🎵啦啦DJ┃音乐",
-            "type": 3,
-            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://drpy.菜妮丝.top/js/啦啦DJ.js"
-        },
-        {
             "key": "南瓜",
             "name": "南瓜┃影视",
             "type": 3,
@@ -586,15 +577,6 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://drpy.菜妮丝.top/js/兰花影院.js"
-        },
-        {
-            "key": "咕噜[V2]",
-            "name": "咕噜┃影视",
-            "type": 3,
-            "api": "https://drpy.菜妮丝.top/libs/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://drpy.菜妮丝.top/js/咕噜[V2].js"
         },
         {
             "key": "宿命影视",
