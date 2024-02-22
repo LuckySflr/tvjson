@@ -26,7 +26,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "api": "https://agit.ai/cacifer/xyz/raw/branch/master/cat/main/戏曲大全.js"
+            "api": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/js/戏曲大全.js"
         },
         {
             "key": "相声小品",
@@ -40,7 +40,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "api": "https://agit.ai/cacifer/xyz/raw/branch/master/cat/main/相声小品.js"
+            "api": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/js/相声小品.js"
         },
         {
             "key": "纪录片",
@@ -54,7 +54,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "api": "https://agit.ai/cacifer/xyz/raw/branch/master/cat/main/纪录片.js"
+            "api": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/js/纪录片.js"
         },
         {
             "key": "舞蹈健身",
@@ -68,7 +68,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "api": "https://agit.ai/cacifer/xyz/raw/branch/master/cat/main/舞蹈健身.js"
+            "api": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/js/舞蹈健身.js"
         },
         {
             "key": "食谱",
@@ -82,7 +82,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "api": "https://agit.ai/cacifer/xyz/raw/branch/master/cat/main/美食秘笈.js"
+            "api": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/js/美食秘笈.js"
         },
         {
             "key": "JustLive",
@@ -166,7 +166,7 @@
                 "type": "帕梅拉#太极拳#广场舞#演唱会",
                 "cookie": ""
             },
-            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
+            "jar": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
         },
         {
             "key": "自学教程",
@@ -180,7 +180,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "api": "https://agit.ai/cacifer/xyz/raw/branch/master/cat/main/自学教程.js"
+            "api": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/js/agit.ai_cacifer_xyz_raw_branch_master_cat_main_自学教程.js"
         },
         {
             "key": "兔小贝",
@@ -266,7 +266,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
+            "jar": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
         },
         {
             "key": "310直播",
@@ -305,7 +305,7 @@
             "api": "csp_Kugou",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
+            "jar": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
         },
         {
             "key": "A8音乐",
@@ -407,7 +407,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://tv.菜妮丝.top/json/jianpian.json",
-            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
+            "jar": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
         },
         {
             "key": "一起看",
@@ -424,7 +424,7 @@
             "api": "csp_Ying",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
+            "jar": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
         },
         {
             "key": "巴士",
@@ -433,7 +433,7 @@
             "api": "csp_Dm84",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
+            "jar": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
         },
         {
             "key": "去看吧",
@@ -451,7 +451,7 @@
             "api": "csp_Ysj",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
+            "jar": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
         },
         {
             "key": "csp_Anime1",
@@ -468,7 +468,7 @@
             "api": "csp_Duanju",
             "searchable": 1,
             "changeable": 0,
-            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
+            "jar": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
         },
         {
             "key": "新6V",
@@ -477,7 +477,7 @@
             "api": "csp_Xb6v",
             "searchable": 1,
             "changeable": 0,
-            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
+            "jar": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
         },
         {
             "key": "橘子",
@@ -633,7 +633,7 @@
             "api": "csp_Local",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
+            "jar": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
         },
         {
             "key": "说明1",
