@@ -227,6 +227,30 @@
                 "type": "rect",
                 "ratio": 1.33
             }
+        },
+        {
+            "key": "gdlsp.com",
+            "name": "成人49",
+            "type": 0,
+            "api": "https://www.gdlsp.com/api/xml.php",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
+        },
+        {
+            "key": "api.apilyzy.com",
+            "name": "成人52",
+            "type": 1,
+            "api": "https://api.apilyzy.com/api.php/provide/vod/",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         }
     ],
     "lives": [
