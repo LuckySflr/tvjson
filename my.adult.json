@@ -11,28 +11,6 @@
             "changeable": 1,
             "ext": "https://tv.菜妮丝.top/json/douban.json",
             "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
-        },
-        {
-            "key": "量子",
-            "name": "量子",
-            "type": 0,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "伦理片"
-            ]
-        },
-        {
-            "key": "非凡",
-            "name": "非凡",
-            "type": 0,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "伦理片"
-            ]
         }
     ],
     "lives": [
