@@ -13,16 +13,17 @@
             "jar": "https://tv.菜妮丝.top/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
         },
         {
-            "key": "量子",
-            "name": "量子",
+            "key": "dadiapi.com",
+            "name": "成人01",
             "type": 0,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "api": "http://dadiapi.com/api.php",
             "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "伦理片"
-            ]
-        }
+            "recordable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
+        },
     ],
     "lives": [
         {
