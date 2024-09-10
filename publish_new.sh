@@ -18,4 +18,4 @@ git commit -am "Update my.json."
 git push gitee master
 
 git checkout dev
-git push gitlab --all
+git push gitee --all
