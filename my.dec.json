@@ -456,7 +456,7 @@
             "name": "橘子┃影视",
             "type": 3,
             "api": "csp_AppMao",
-            "searchable": 1,
+            "searchable": 0,
             "changeable": 1,
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
         },
@@ -520,7 +520,7 @@
             "name": "文采┃影视",
             "type": 3,
             "api": "csp_Jpys",
-            "searchable": 1,
+            "searchable": 0,
             "changeable": 1
         },
         {
@@ -557,7 +557,7 @@
             "name": "萌米┃影视",
             "api": "csp_AppTT",
             "type": 3,
-            "searchable": 1,
+            "searchable": 0,
             "changeable": 1,
             "timeout": 15,
             "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
