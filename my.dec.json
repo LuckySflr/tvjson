@@ -1,7 +1,7 @@
 {
     "菜妮丝": "https://菜妮丝.top",
     "友情提醒": "接口完全免费，切勿付费购买。",
-    "spider": "https://tv.菜妮丝.top/jar/fty0729.jar;md5;71d846866f2ceb9666ba114e5963983f",
+    "spider": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fty0729.jar;md5;71d846866f2ceb9666ba114e5963983f",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
@@ -11,8 +11,8 @@
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1,
-            "ext": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/json/douban.json",
-            "jar": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
+            "ext": "https://gitee.com/luckyflower01/tvjson/raw/src/json/douban.json",
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
         },
         {
             "key": "戏曲",
@@ -95,7 +95,7 @@
                 "type": "rect",
                 "ratio": 3.8
             },
-            "jar": "https://tv.菜妮丝.top/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
         },
         {
             "key": "自学教程",
@@ -109,7 +109,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "api": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/js/agit.ai_cacifer_xyz_raw_branch_master_cat_main_自学教程.js"
+            "api": "https://gitee.com/luckyflower01/tvjson/raw/src/js/agit.ai_cacifer_xyz_raw_branch_master_cat_main_自学教程.js"
         },
         {
             "key": "dr_兔小贝",
@@ -192,7 +192,7 @@
                 "type": "帕梅拉#太极拳#广场舞#演唱会",
                 "cookie": ""
             },
-            "jar": "https://tv.菜妮丝.top/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
         },
         {
             "key": "csp_戏曲",
@@ -298,7 +298,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "https://tv.菜妮丝.top/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
         },
         {
             "key": "Biliych",
@@ -320,7 +320,7 @@
             "api": "csp_Kugou",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://tv.菜妮丝.top/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
         },
         {
             "key": "酷奇",
@@ -355,7 +355,7 @@
             "api": "csp_Dm84",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://tv.菜妮丝.top/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
         },
         {
             "key": "异界",
@@ -364,7 +364,7 @@
             "api": "csp_Ysj",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://tv.菜妮丝.top/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
         },
         {
             "key": "Anime1",
@@ -382,7 +382,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://tv.菜妮丝.top/json/XBPQ/短剧天堂.json",
-            "jar": "https://tv.菜妮丝.top/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
         },
         {
             "key": "玩偶",
@@ -395,7 +395,7 @@
                 "token": "影視天下第一",
                 "filter": "https://tv.菜妮丝.top/json/wogg.json"
             },
-            "jar": "https://tv.菜妮丝.top/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
         },
         {
             "key": "南瓜",
@@ -404,8 +404,8 @@
             "playerType": "2",
             "searchable": 1,
             "changeable": 1,
-            "api": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/js/lib/d.kstore.space_download_6296_js_lib_drpy2.min.js",
-            "ext": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/js/d.kstore.space_download_6296_js_%E5%8D%97%E7%93%9C.js"
+            "api": "https://gitee.com/luckyflower01/tvjson/raw/src/js/lib/d.kstore.space_download_6296_js_lib_drpy2.min.js",
+            "ext": "https://gitee.com/luckyflower01/tvjson/raw/src/js/d.kstore.space_download_6296_js_%E5%8D%97%E7%93%9C.js"
         },
         {
             "key": "360影视",
@@ -414,7 +414,7 @@
             "api": "csp_SP360",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://tv.菜妮丝.top/jar/xyq0729.jar;md5;705ba6e23c4384c37a11dd904727520b"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/xyq0729.jar;md5;705ba6e23c4384c37a11dd904727520b"
         },
         {
             "key": "非凡",
@@ -440,7 +440,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://tv.菜妮丝.top/json/jianpian.json",
-            "jar": "https://tv.菜妮丝.top/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
         },
         {
             "key": "新6V",
@@ -449,7 +449,7 @@
             "api": "csp_Xb6v",
             "searchable": 1,
             "changeable": 0,
-            "jar": "https://tv.菜妮丝.top/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
         },
         {
             "key": "橘子",
@@ -476,7 +476,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://tv.菜妮丝.top/json/XBPQ/宿命影视.json",
-            "jar": "https://tv.菜妮丝.top/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
         },
         {
             "key": "酷看",
@@ -577,7 +577,7 @@
             "api": "csp_Local",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://tv.菜妮丝.top/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
         },
         {
             "key": "说明1",
@@ -870,14 +870,14 @@
         {
             "name": "TXT",
             "type": 0,
-            "url": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/tvlive/my.tvlive.txt?refs=head",
+            "url": "https://gitee.com/luckyflower01/tvjson/raw/src/tvlive/my.tvlive.txt?refs=head",
             "playerType": 2
         },
         {
             "name": "M3U",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
             "type": 0,
-            "url": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/tvlive/my.tvlive.m3u?refs=head"
+            "url": "https://gitee.com/luckyflower01/tvjson/raw/src/tvlive/my.tvlive.m3u?refs=head"
         },
         {
             "name": "tvlive",
