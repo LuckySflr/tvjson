@@ -15,16 +15,6 @@
             "jar": "https://jihulab.com/LuckySflr/tvjson/-/raw/src/jar/fm0209.jar;md5;303eadd615ea122247a00e08689f0787"
         },
         {
-            "key": "短剧天堂",
-            "name": "🌈上头┃短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://tv.菜妮丝.top/json/XBPQ/短剧天堂.json",
-            "jar": "https://tv.菜妮丝.top/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
-        },
-        {
             "key": "戏曲",
             "name": "🎪戏曲大全",
             "type": 3,
@@ -205,6 +195,25 @@
             "jar": "https://tv.菜妮丝.top/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
         },
         {
+            "key": "csp_戏曲",
+            "name": "🅱哔哩┃戏曲",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "https://tv.菜妮丝.top/json/哔哩哔哩戏曲.json"
+        },
+        {
+            "key": "演唱会",
+            "name": "🅱哔哩┃音乐",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://tv.菜妮丝.top/json/哔哩哔哩音乐.json"
+        },
+        {
             "key": "Bili",
             "name": "🅱哔哔┃合集",
             "type": 3,
@@ -364,6 +373,16 @@
             "api": "csp_Anime1",
             "searchable": 1,
             "changeable": 1
+        },
+        {
+            "key": "短剧天堂",
+            "name": "🌈上头┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://tv.菜妮丝.top/json/XBPQ/短剧天堂.json",
+            "jar": "https://tv.菜妮丝.top/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
         },
         {
             "key": "玩偶",
@@ -579,23 +598,23 @@
             "name": "8090g",
             "type": 0,
             "url": "https://www.8090g.cn/jiexi/?url="
-          },
-          {
+        },
+        {
             "name": "冰豆",
             "type": 0,
             "url": "https://bd.jx.cn/?url="
-          },
-          {
+        },
+        {
             "name": "虾米",
             "type": 0,
             "url": "https://jx.xmflv.com/?url="
-          },
-          {
+        },
+        {
             "name": "虾米2",
             "type": 0,
             "url": "https://jx.xmflv.cc/?url="
-          },
-          {
+        },
+        {
             "name": "777",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url="
@@ -739,66 +758,66 @@
         {
             "name": "七新嗅探",
             "hosts": [
-              "api.52wyb.com"
+                "api.52wyb.com"
             ],
             "regex": [
-              "m3u8?pt=m3u8"
+                "m3u8?pt=m3u8"
             ]
-          },
-          {
+        },
+        {
             "name": "夜市",
             "hosts": [
-              "yeslivetv.com"
+                "yeslivetv.com"
             ],
             "script": [
-              "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+                "document.getElementsByClassName('vjs-big-play-button')[0].click()"
             ]
-          },
-          {
+        },
+        {
             "name": "毛驴",
             "hosts": [
-              "www.maolvys.com"
+                "www.maolvys.com"
             ],
             "script": [
-              "document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"
+                "document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"
             ]
-          },
-          {
+        },
+        {
             "name": "czzy",
             "hosts": [
-              "10086.cn"
+                "10086.cn"
             ],
             "regex": [
-              "/storageWeb/servlet/downloadServlet"
+                "/storageWeb/servlet/downloadServlet"
             ]
-          },
-          {
+        },
+        {
             "name": "bdys",
             "hosts": [
-              "bytetos.com",
-              "byteimg.com",
-              "bytednsdoc.com",
-              "pstatp.com"
+                "bytetos.com",
+                "byteimg.com",
+                "bytednsdoc.com",
+                "pstatp.com"
             ],
             "regex": [
-              "/tos-cn"
+                "/tos-cn"
             ],
             "exclude": [
-              ".m3u8"
+                ".m3u8"
             ]
-          },
-          {
+        },
+        {
             "name": "bdys10",
             "hosts": [
-              "bdys10.com"
+                "bdys10.com"
             ],
             "regex": [
-              "/obj/"
+                "/obj/"
             ],
             "exclude": [
-              ".m3u8"
+                ".m3u8"
             ]
-          }
+        }
     ],
     "doh": [
         {
