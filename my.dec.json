@@ -375,29 +375,6 @@
             "changeable": 1
         },
         {
-            "key": "短剧天堂",
-            "name": "🌈上头┃短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://tv.菜妮丝.top/json/XBPQ/短剧天堂.json",
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
-        },
-        {
-            "key": "玩偶",
-            "name": "玩偶┃云盘",
-            "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "token": "影視天下第一",
-                "filter": "https://tv.菜妮丝.top/json/wogg.json"
-            },
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
-        },
-        {
             "key": "南瓜",
             "name": "南瓜┃影视",
             "type": 3,
@@ -449,6 +426,29 @@
             "api": "csp_Xb6v",
             "searchable": 1,
             "changeable": 0,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
+        },
+        {
+            "key": "短剧天堂",
+            "name": "🌈上头┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://tv.菜妮丝.top/json/XBPQ/短剧天堂.json",
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
+        },
+        {
+            "key": "玩偶",
+            "name": "玩偶┃云盘",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "影視天下第一",
+                "filter": "https://tv.菜妮丝.top/json/wogg.json"
+            },
             "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
         },
         {
