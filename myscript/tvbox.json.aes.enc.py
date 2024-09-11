@@ -5,7 +5,7 @@
 ## 对应的密文格式：（utf-8编码后）"2324"(utf-8解码后为字符"$#") + "xxxxxxxxxxxx"(utf-8编码后的密码字符，aes128的密码最多16个byte，两个字符为1个byte）+ "2423"(utf-8解码后为字符"#$") + 
 ##                              "xxxxxx"(明文字符经过utf-8编码后，再经过aes128加密后的密文) + "xxxxxxxxxxxxxxxxxxxxxxxxxx"(utf-8编码后的iv字符，13个byte，共计26个字符)
 
-from Cryptodome.Cipher import AES
+from Crypto.Cipher import AES
 
 def cbc_encrypt(key_str, iv_str, plaintext_str):
     block_size = 16
