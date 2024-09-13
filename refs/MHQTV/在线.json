@@ -1,0 +1,43 @@
+{
+    "urls": [
+        {
+            "url": "https://go.popefih902.repl.co/upload/gz/仓库.json",
+            "name": "采集专线(在线)"
+        },
+        {
+            "url": "https://alistt-mracs.run.goorm.site/gz/cbi.json",
+            "name": "体育B站学习线路(在线)"
+        },
+        
+        {
+            "url": "https://go.owen1008.repl.co/upload/gz/js1.json",
+            "name": "JS(在线)"
+        },
+        {
+            "url": "http://home.jundie.top:81/TVBox/yosakoi.json",
+            "name": "俊于(在线)"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "蜂蜜(在线)"
+        },
+        {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "CH猫友(在线)"
+        },
+        
+        {
+            "url": "https://go.owen10086.repl.co/upload/TVBox/肥猫/api.json",
+            "name": "肥猫"
+        },
+        {
+            "url": "https://go.owen10086.repl.co/upload/TVBox/夜猫子/api.json",
+            "name": "夜猫子"
+        },
+        {
+            "url": "https://go.owen10086.repl.co/upload/TVBox/夜猫子少儿频道/api.json",
+            "name": "夜猫子少儿频道"
+        }
+        
+    ]
+}
