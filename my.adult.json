@@ -279,7 +279,7 @@
         {
             "name": "TXT",
             "type": 0,
-            "url": "./tvlive/my.tvlive.adult.txt",
+            "url": "https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/dev/tvlive/my.tvlive.adult.txt",
             "playerType": 2
         }
     ],
