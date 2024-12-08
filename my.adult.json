@@ -281,6 +281,18 @@
             "type": 0,
             "url": "./tvlive/my.tvlive.adult.txt",
             "playerType": 2
+        },
+        {
+            "name": "TXT2",
+            "type": 0,
+            "url": "./tvlive/福利Adult.m3u",
+            "playerType": 2
+        },
+        {
+            "name": "TXT3",
+            "type": 0,
+            "url": "./tvlive/某厂直播源.m3u",
+            "playerType": 2
         }
     ],
     "rules": [
