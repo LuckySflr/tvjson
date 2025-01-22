@@ -893,6 +893,12 @@
             "type": 0,
             "url": "https://live.kilvn.com/iptv.m3u",
             "playerType": 2
+        },
+        {
+            "name": "IPV62",
+            "type": 0,
+            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "playerType": 2
         }
     ]
 }
