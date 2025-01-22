@@ -880,12 +880,6 @@
             "url": "https://gitee.com/luckyflower01/tvjson/raw/src/tvlive/my.tvlive.m3u?refs=head"
         },
         {
-            "name": "tvlive",
-            "type": 0,
-            "url": "https://xhdwc.tk/tvlive.txt",
-            "playerType": 2
-        },
-        {
             "name": "IPv6",
             "type": 0,
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
