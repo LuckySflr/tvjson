@@ -884,11 +884,6 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "16万•MV",
-            "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"
-        },
-        {
             "name": "CAINISI_IPv6",
             "type": 0,
             "url": "https://tv.菜妮丝.top/lives/IPv6.php",
@@ -903,6 +898,11 @@
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "16万•MV",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"
         },
         {
             "name": "TXT",
