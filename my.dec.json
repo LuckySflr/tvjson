@@ -879,20 +879,6 @@
             "name": "IPV62",
             "type": 0,
             "url": "https://live.kilvn.com/iptv.m3u",
-            "playerType": 2
-        },
-        {
-            "name": "iptv",
-            "type": 0,
-            "url": "https://live.kilvn.com/iptv.m3u",
-            "playerType": 2,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
-        },
-        {
-            "name": "iptv_list",
-            "type": 0,
-            "url": " https://ghfast.top/https://raw.githubusercontent.com/mlzlzj/iptv/refs/heads/main/iptv_list.txt",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -909,6 +895,14 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "okhttp"
+        },
+        {
+            "name": "iptv_list",
+            "type": 0,
+            "url": " https://ghfast.top/https://raw.githubusercontent.com/mlzlzj/iptv/refs/heads/main/iptv_list.txt",
+            "playerType": 2,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
             "name": "TXT",
