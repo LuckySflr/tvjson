@@ -19,3 +19,4 @@ git push gitee master
 
 git checkout dev
 git push gitee --all
+git push github --all

@@ -868,7 +868,7 @@
     ],
     "lives": [
         {
-            "name": "Ipv4",
+            "name": "ipv4",
             "type": 0,
             "url": "https://wget.la/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
             "playerType": 2,
@@ -876,12 +876,12 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "IPv6",
+            "name": "ipv6",
             "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
-            "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.iill.top/logo/{name}.png"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+            "playerType": 2,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
             "name": "CAINISI_IPv6",
