@@ -903,6 +903,14 @@
             "name": "16万•MV",
             "type": 0,
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"
+        },
+        {
+            "name": "牛播一（仅新版影视仓/ok影视）",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
+            "playerType": 1,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.v1.mk/logo/{name}.png"
         }
     ]
 }
