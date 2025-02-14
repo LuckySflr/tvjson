@@ -868,7 +868,7 @@
     ],
     "lives": [
         {
-            "name": "ipv4",
+            "name": "Ipv4",
             "type": 0,
             "url": "https://wget.la/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
             "playerType": 2,
