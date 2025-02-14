@@ -868,28 +868,20 @@
     ],
     "lives": [
         {
-            "name": "IPv6",
+            "name": "ipv4",
             "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+            "url": "https://wget.la/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "牛播一（仅新版影视仓/ok影视）",
+            "name": "IPv6",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
             "playerType": 1,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.iill.top/logo/{name}.png"
-        },
-        {
-            "name": "IPV62",
-            "type": 0,
-            "url": "https://live.kilvn.com/iptv.m3u",
-            "playerType": 2,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
             "name": "CAINISI_IPv6",
@@ -911,18 +903,6 @@
             "name": "16万•MV",
             "type": 0,
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"
-        },
-        {
-            "name": "TXT",
-            "type": 0,
-            "url": "https://gitee.com/luckyflower01/tvjson/raw/src/tvlive/my.tvlive.txt?refs=head",
-            "playerType": 2
-        },
-        {
-            "name": "M3U",
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-            "type": 0,
-            "url": "https://gitee.com/luckyflower01/tvjson/raw/src/tvlive/my.tvlive.m3u?refs=head"
         }
     ]
 }
