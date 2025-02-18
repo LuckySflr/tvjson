@@ -279,19 +279,19 @@
         {
             "name": "TXT",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/dev/tvlive/my.tvlive.adult.txt",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/dev/tvlive/my.tvlive.adult.txt",
             "playerType": 2
         },
         {
             "name": "TXT2",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/dev/tvlive/福利Adult.m3u",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/dev/tvlive/福利Adult.m3u",
             "playerType": 2
         },
         {
             "name": "TXT3",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/dev/tvlive/某厂直播源.m3u",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/dev/tvlive/某厂直播源.m3u",
             "playerType": 2
         }
     ],
