@@ -911,7 +911,7 @@
         {
             "name": "iptv_list",
             "type": 0,
-            "url": " https://ghfast.top/https://raw.githubusercontent.com/mlzlzj/iptv/refs/heads/main/iptv_list.txt",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
