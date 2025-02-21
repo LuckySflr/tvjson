@@ -23,4 +23,4 @@ git checkout dev
 
 git add my.dec.json
 git commit -m "Publish_debug for my.dec.json update."
-giti push gitee dev
+git push gitee dev
