@@ -1,0 +1,460 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道",CCTV1
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUF9gkCpU1d%2BXGBLVkMAvqm%2FbNUwo33n%2FF44wC8KoO6%2B2nc9%2BAUfTK2H3AeQMiWkyWY%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCs1kM9uifwJDGMmKKxRvC74%3D$高码
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJP0ACXoBYSB73QKCnR0g31pWgulDc1j2ZHrG1ZrRLi9iRBW1GGVxdBp792juT1344M%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeePlSsWA6q8NAKO1uCB2%2FQv2FoUVlndq5lIbDJ%2B7%2Fj4WRrsn17PU7WNeH%2BOlUSAOkY%3D$itv-HEVC
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视频道",CCTV2
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfedO9BM7ADVKQuu0t2qiAQfAU%2FgOhiWqsSpkDnM77OexQ%2Foz%2BsFiMze8wmwvQAiiGYY%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCmFAmFqgQiA9h%2FlQHFOtp%2Fs%3D$高码
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUEg9cmGWNhNNTlnoomYfDts0C1%2FVYWdkYmXYaXqtkq9ZcndMWWqUfAUx47HUPMJaxE%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfedO9BM7ADVKQuu0t2qiAQfAU%2FgOhiWqsSpkDnM77OexQ%2Foz%2BsFiMze8wmwvQAiiGYY%3D$itv-HEVC
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视频道",CCTV3
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUEl6mEN52kiYnM1VRFwRc0s%2Bnv8xHbTIulcMqWLjJh5KzSpghh9w9l8ODLMIp%2BxOg0%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCpYzqG%2FjyM%2Fciiqu1EZvOxU%3D$高码
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeceFCWlNgAxbpPLJst0Jqy2jprmhzyC5nddkF995gdIotlRpsMPEg0tunJpXlpsc2w%3D$itv-HEVC
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视频道",CCTV4
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJMLCwyuzURUPOW0lJ05akLdLzabyW6nXBYjAP1GRl4qsShuqU%2Bt3Hp38zLCbF0xepI%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCupfQbZtZ65Kqbv61Ox1Ums%3D$高码
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfedWK40yP896kyTH4rZ3cAvxvMo3NtFAahg8oZpY5h6PI2XN0XfiTMdlywmg84iTbtQ%3D$itv-HEVC
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视频道",CCTV5
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecaeifg8%2BbXORAhbNYyzGTkBQnXI1GlYAtqDUqVyrtMKuMc%2BldeFjyHgJ%2FULkI3XZ0%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCjy5FZHFH4q1rhI%2BMEgmPYY%3D$高码
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecedu2yV4hgJx0SOJ3aLnHbOBN0SMGQlI7f%2Bbqjouaw4GHWLvypGrDL4t20zpjY8WU%3D$itv-HEVC
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视频道",CCTV5+
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUGLQ%2F7%2FQf582SRFlWM3WQw%2BNn0ZvnkZ4%2FqqkJQfA6%2ByoCm3w7ZkZmkabV%2F4389%2BK9Y%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCvtndf8%2FhRXyZB%2FME%2F%2BL5zU%3D$高码
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeebjmtUr65RPD51KCpR05xrYED4OpHVxB%2Fi43YGK950MSq5zO7ETTo%2B%2FWWRCF2LJYI%3D$itv-HEVC
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视频道",CCTV6
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecikhm6F34TJy%2BolvauPzkkzI8gLCyWD%2FDUN0o4M%2BQAiJjJ7Lrx%2BiLzX47qEz95saM%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUEDrpZDmix2qYzMoiy1Gb5CNhSBDhk%2Bm0Wnwnxd6xel7y92ZDNM6NGlWwV92sBtAWk%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfefaiMjK%2B8P8C7z5Nw6aVK1V28u3%2BqOxLer0GhmBd9MZxKlKubcS2NnR0H4cWCW4Hk8%3D$itv-HEVC
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视频道",CCTV7
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfed5fEd5MY49r0miqqCD2ozjNiCfRnGCb9APDClHe9ESq6MHi13hGQN6KQ9fuZ6nq7I%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQChIsZN438pRtgVaDnNKwQRg%3D$高码
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUF4oBElXawh4Hn1bmngmi5DTTYDGo%2FtC3G7kpdVEQGmwGHgdJZI910v6xq23dFuV70%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfed16P%2FvgeBN4KA8iw%2B5mOb08QvupDxIGWSbvkeLm%2FheYV3xCcm%2BC5QIxsdSpXEhQq4%3D$itv-HEVC
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视频道",CCTV8
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUGZVRVJMEQ2qpAVJafVKNCbP%2Bdz9oeW9%2B5VDSEI%2BH67YDwu10q4kjMyhkjiP1hAfag%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCqFcYH4YQY%2F55%2BPAGasjvfI%3D$高码
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecA6JltELNBJkRolRvlTtjh2NlVwTw%2BxKevJiwmW2ysiKDgJjGthhXXjy5wIY%2Bs0Wg%3D$itv-HEVC
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视频道",CCTV9
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeeUcY2olHOwpX%2B%2FshI9%2FyyKapGdCPCgDmg%2FKJtBrtmWXXoRczl1aNDnURNni%2F%2Fwk54%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCuypTaUNKLmmohRL7ku28B8%3D$高码
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUEMem5MizsGZpKA0a6Z9qRH80mEqBY1fy7eQLOGUtVLxiDcUdxiOAlOthNGQsxI6n8%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeeJgDhKj2j1ZIFodzqx4x4vZlyIuZmUDNWtSENngSa2L8df7c%2FvY6zG2xMyB3WvrpY%3D$itv-HEVC
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视频道",CCTV10
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfedwzXSMmdw1ViWJVPfwVdeRCY8i3RBIcnPsEtn6wbC8o%2BmAm5tjIRME73Kt%2FXQkaR8%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCoigNnEJERs%2Fa%2FVDB2vt8gg%3D$高码
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJPlAJ%2FGf5i3Lc5zMfb9RZZb9s68oNlUL7H3qxp2UEgY2hPIz1fRfh4iicWhRrXg0pk%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfefO6CYGUugvSpcF7oyLfDn7zs784dJIFYQsrzjQahdPmkapSVEgV2%2FKxuvsB8%2BR7h8%3D$itv-HEVC
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视频道",CCTV11
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJOuh9DiKTafuhZwa0pg%2B8p3QYnoq4U%2FJn%2BRRktnGD6%2FJODgzW2rB7sL0wElEvu2Zs8%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCuoSDpefLhi3K56uiEkSzRY%3D$高码
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeeBihkoUXW5SOnAf54Kk9mWnsqCzH5MUtWJrkFQ%2BUB26UW9oCpKRItY0W%2BOQ8TIzlw%3D$itv-HEVC
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视频道",CCTV12
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeeFNJbY%2FMMFHHUwXT1tjjIRNSk8X6Rhg1Mg0C4GPqT1ItHbWKSSI5zv5gSBejTDUzI%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCjZ8%2F2rjpHHjyug0w21U0qk%3D$高码
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUE5143gK61I384zUaOFJHma4aFqbsXZOKXmWNKyZAmFUH%2BJVydd2TCZV8fBYv7fNs8%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeeeS5%2FzSS6eXn3Kro8PLRe07C1C5N8OoWgGPpcROg5glXyyZVRJApPQH1geDYIc7sA%3D$itv-HEVC
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视频道",CCTV13
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJOc6jeyBmo6k%2Fv9uA8OQNu%2BvoSVFzR0uBJSGxVqz5iUuj5C6gKskKgisef79gd5%2B60%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCsQ3nGCZvCWXEE6mSoVsldI%3D$高码
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视频道",CCTV14
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfefCRzxXYYYYRsARDQ%2BhwopVleFOwrSP4fgf7nns36HXMyLb3AiyU2m5dVsxrqvDsxA%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCkj%2Bh3xlQZM0tEgKB1anNzI%3D$高码
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJNPzGBpNXPhQxYktD%2FLv%2FzkJ6cvoRXGsVMCp69f2GVDegMn%2F6%2FYGAKdsmGu7lzugYw%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeekJNlnB9kAU5uhf0rTaRyCC8CQeW4OkZeGzxIGxfcniNHMLA4EPfj85Eim4S1JjwQ%3D$itv-HEVC
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视频道",CCTV15
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJPn3961gZcoG9HkprtEvL9or6g%2Fcw7nP9b3%2Fg8RAzNqCvAxiPk%2BMsgDQmNeO5%2Bo%2FL8%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCmQTokMT2S57Pv3e%2BKUz7Y0%3D$高码
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfec9fgLgwIaV7PLLzN%2FvsY9LQ2vR0Ylq2Rztf8iDgEwjzmwOhHMoWNzs5HKe7z7HZ9A%3D$itv-HEVC
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视频道",CCTV16
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecJ8L65zZ%2Bq0RkKkU4FD14poeMVN7wTOK6hYRjgOL2jcIiyDx1rVlbv6P9l2r7wJTs%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCsUyhHH4YFKIBQ5WzZmRynk%3D$高码
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视频道",CCTV17
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeei8KwU2UZv46FXIO2MsCh4ls82G3%2FPNBdsLhqksTEq%2FIVBlZ01t7IEdVbBhcv7jTU%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCurbN6qumO357izMbkhWWYA%3D$高码
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfee0EvQW1C1bLObljGhe9e6qGSuc7R8JNygB28gAYARKAcJntKsnYNLu3r9dkpE2efE%3D$itv-HEVC
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJMWkrEVPaT0Isx2dEnqaTztnrB3XS96QIXuP6TOTEH9Nf6gfeGHyOnkHRr9ND5CU9U%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUE59ILKUtYFEUJRqZBLwCqE3B5OOPHfxrovwGy1K44KQeWsyjqbI4F3wTVE9VPHZ1g%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeeXnc5%2BtHqYIGr4m9aQRxmiHRUWhVaszUKxZSwN73KfvFSfrkjE8BaACCbV89c%2FemA%3D$itv-HEVC
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJPETn1xEr7B9PhXKnl2ICCaxAjtdWHsJWLGjjfJ2af70fybLKK50d9P9jchERWYJ6A%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeeTt%2FFMcJWeKmzCoURMWDWqu9z1%2B6l40eTm%2F16Hucm%2FPOqIe%2Fdpcs5YONI7fEUTYGo%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfefpSbqtXu4f7US9a4on4b46fa5k%2Fs6DvK8FXOhdGenGELx6pZ4rM6p%2BZ%2F9SGc1mjqY%3D$itv-HEVC
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUEYCW%2Bt%2BXqfmN9rieQTPhH37xs3DEobfWFXx1isOw7WSBo6aHjxzVyjxTC%2BDO26Ypc%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeeySOBf6QFo5wgpYvFSTCUYCr2peqgr4HIJgh7HzhhCdAJyoTMIcEzlxYo6z%2FL2MVA%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecdwaM20BTD%2FJoDv6eF9uF61CY%2FYHR%2B0xe3jIPLbMcbeCo0dHAHLurN1A6GHtDCOiI%3D$itv-HEVC
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视频道",东方卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUHVyJalpwbigFJAJxfipWKHnXgl53%2BIZBVUN8uyJ9VjrQUEo%2BCOb27Ej1toDz9b%2FDQ%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJNPCYglDwvipI%2FoeklUGYV4eLz%2FSwI9nI9ApKg8FcIixv2fv%2B7wjllXKV6ri2mH4%2FE%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfefdFTpDmxnLB%2BOB3tL6SthD8qcfJx4EA3ukEm9XM3votMWSUeoLBFqahjoFsBpciI4%3D$itv-HEVC
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视频道",北京卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUGWEMIaub57XCsojilcmWPXURL02E0YMGrXB0HaP7LeqtMk6nLtPwGdaigjAmpPxFI%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecsPFcOX9BkrvL%2BbS%2FLKKeXs%2F2EFC30OZMexmis0xFQ%2FrQmilNwv7%2FBXYR4DqLKtAY%3D$itv-HEVC
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJPPdG5Pghczetr1%2BYQ8StEQO6QRXykCNNIOKfeaAjq7%2Bd9EkECERoUA3DS%2Fc5klUEk%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUGAP5taZdTw6LWr0sydkTboDhSZRK3zHrNHEs7wHVHBvNrbvmX9DEHHBE%2FAUX9dywY%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecoODqFgq%2B99QX%2BF%2BoSZieIqQvx6YaDu4NzRIy0rLD%2Fq%2BigpXCvXN3PiLI2fZ%2FRiB8%3D$itv-HEVC
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视频道",广东卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecCx1Kn2uEUIupN4U1CEA5B7bCkCh1ZBKEAsl%2FsY7OiZOCrfvDwYU78xZ7gTbmwZiY%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUFsCcKv9SOAaOWuRQ10cDRf8aOWWSCLbk%2FO6ndxdZDYyIzS9axm7os5IfZXW0g6kIs%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfefRzKNxhAtXYHWyg8Rp4da3B%2FqE3fMhspi5j1rhwaK7vLve8GDPnYoonC%2BO%2FzMIAdI%3D$itv-HEVC
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视频道",山东卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfedAUXQqWNIkKgtGm%2F%2BXP7r1iMeu55D8ceO7Et9CXPFEl0dsmhOOHakDfEmAWmzmwn8%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUGI5oPFPzqLbxmgd%2BVzmWcsyNIA%2FD%2Btk9gjwziAhdYyJ%2F33bzRIYZhN6d3kOqobnpg%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecVKGp05JpHGF6U7CugEJi0HBSNBqn02SUlX10Dbpt7OTJVRQtRaGOZB3OQATWstrE%3D$itv-HEVC
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="卫视频道",天津卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJPWJ%2F2j8ITbYnx4H8AdNMxwE8eZIl40hkEhC2mhx6RR5rchTlU09RhQ%2BnZayyyJ3TM%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUG6Bzb4rByK8JzScK13rEHHY6%2FWyFOkijt7TPQDS29Y44KxiPjqSjOL%2FGUGxPsUWq8%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecGGnldaom13TrvDG%2B4peZulAiCuMfaCZhMoJz1WLzZ7hGqdmw8TLiiWPj4%2BSKnTlQ%3D$itv-HEVC
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="卫视频道",东南卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJPKyUkPqYME3qd2Mb4z7cETU3BJyBM82wCBlEL07zjlCDhAtLFPh%2F6B%2FCUNRtAzi%2Fs%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeeCLvjncZLKMa8xTQnLx4pg6khcSvYeghumIwYLrYTuzVGAWbTkfX2FsspVfABjtbs%3D$itv-HEVC
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecke1hZMS%2Fb1XeIHg7J7AiPWeVRwfyfgDws3i29CyhCtIofqPp2bH1bnN%2BEt%2ByGbbQ%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUEqp%2FO3SLcPa0oI30oCi3SKngzasOER5VDrCTO5vrzTU4sTwv3oE8buCjTITpEbEeo%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeftz%2F0AlwioloyYgg4U2GHpeJMN%2BFHJhRg%2FTt3PTcDr9ilnULr0kh8Zyfsqx8E239k%3D$itv-HEVC
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfef%2Bh4LkVLJXqxiB8fwRm6TKVp0WSj7jvhAkBdCUfjTlgH%2F0rwHqIb5IqnIG3scETG4%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUE%2FMDjiniJAaaSWsRYxz3lAvnKFU6UY%2BumUJxea4t8A%2FSNS%2ByHfe9KoqcMhxp57l38%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfedWT6Byfezjf%2FRmXnfV8MdclHPxtcE7kz%2FqOh4YTYpqLm6MILmOr3WU0f802J7XtUI%3D$itv-HEVC
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfefGZ%2BPS6iko8ddkqHZO2gFzhgE2sJHTbRNc1zcDqQ84eyr868H%2BTugBvfoAeVsAdlg%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecRYQwe2eaPmsxBc6SDhr7KgzhOlNseu3Li8EXrTifk2Ew1XFwIhf2fz5j%2FWjiUYn8%3D$itv-HEVC
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeeKAVxPMY%2Bs4bBAb7l0CTHVhSBr2W4twj%2BkxIIN4qYOsho3B7Ly0opvB6YpbHJMfb8%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUFE4CTNSY4AGtg%2BvdKmxgvVCC%2BiMig7xVA5XrhJaIhKQeU%2Fncw38sTZf%2FhOPxUHd0o%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfef%2ByQpXELf8HAv7Zc%2BgPhF6uMU77BuYMOHv%2FxSV8kMRLN5aK3Lf6v1wWaM2bkkBL1w%3D$itv-HEVC
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJPebozquA27P9dF5leaIuY49NCSXSKeRgZFQTV9sBgbCsD9WUVOmJ0O7u2CT3qc70Q%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeeVkj5%2Bvvh0t3hNcX3ZDTl6d32U0B9s2S3m3E9TpDEIH6qjGAnN9W4%2F1msYweM8C%2BQ%3D$itv-HEVC
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="卫视频道",江西卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfefYwJWJ0t9abPUnU6gS0He7plNswo0nolXL9ZfeYpugqzvyE4LGGKNwrZqRrgZzKhI%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecS9GocUwlaQbhlT4rtDD06ZL%2Bi4YQAwqe05JuzLSt4GVieqrlvkMYVOhA5luk8yAs%3D$itv-HEVC
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="卫视频道",河北卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJM5PJQ4dTNRKtCK7AmofKyjHbNV6uqR%2FGABe2W%2FlgK%2F4aMoKc5JrjGOE0br%2BgPFUq4%3D$itv
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="卫视频道",河南卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJPBsnPIpC9GxAIuD%2B4zQ2QfNqkxblDR794qsK71PAvNS22EH9vwlnPQLNA4olKAw2M%3D$itv
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视频道",四川卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJPVyz0Xtk7kOj5SJomYKc6a%2BgbbQ6Pcm%2BkCaAuDnS1%2FOvwxy83EuzYOfshlI34CdH0%3D$itv
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="卫视频道",广西卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJMTZCGnBz623djuntcPmjjKdMdKIe30tmL9d%2FX1mYc497tbQq3fw%2FBMgdPkxGA%2Fk0w%3D$itv
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="卫视频道",云南卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJN9copmA6qAQGdauIAfp1%2BKkZrKw2mq3E0PgkwJjkug5vzpNrlT2kvQfe5Kn3FXDAg%3D$itv
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJOW2YYBFyY0gRs7wvnDkfLYp7ToHEpTiBLc9DNJpCv2aVWwcOZAk1x39SE7Kl7WeQg%3D$itv
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJPW560cMmPhTt0pgNAP3Cewi2cM%2F3AKp8946H2Q9Y4iPMrPB8jf%2F%2Bd4ltviOxTp35w%3D$itv
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="卫视频道",海南卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJMxoHrvmPOWHFYOxMcgs6vlgYQ3z42nli11GbJmli6IpwjO0sYNrvAHTB15DmdXDk8%3D$itv
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJP8zwK2KrZSMcTTI1vJxw%2BKCPuf6S8EM%2Bdj3BBB2neFI5IeFPvg9sUeLKbt2Y2R1Mc%3D$itv
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="卫视频道",青海卫视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfee%2Fw6gx6%2Fsej6hfRLdXj385ZFA7mCFhIK%2FqcfRi%2FDvUacHzNjFQkE0mA57eVm%2FdX8I%3D$itv
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png" group-title="地方频道",北京纪实科教
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfefUxPtVNyHzmkBnfxcAkB9NUJ6zJ6NkiF9bSgX%2FHNXUFzNg%2BovmgyRS2U45wyzrdl0%3D$itv
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeceVZuaJEuXZOWuJZustm%2Fe2d3Fhj6DkT%2B5Bq9wcESZchJK6OcsMT68T0DY5rWJVO8%3D$itv-HEVC
+#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卡酷少儿.png" group-title="地方频道",北京卡酷少儿
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2B9kliTyBzC7nA7nUrmGtCMOXFKbtFCS19pTT7QhuXqK8O8GE35uo8hW9K4q1M2b1v%2BP3Lhmjw26spyDl3DtyHg%3D$itv
+#EXTINF:-1 tvg-id="湖南金鹰纪实" tvg-name="湖南金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰纪实.png" group-title="地方频道",湖南金鹰纪实
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJOvIxVYnGxxSdBo3g1n81%2F3W0MYUxXefPHkc9f%2FkEakkteCCBnU09bJQqx7pqdXz7c%3D$itv
+#EXTINF:-1 tvg-id="湖南快乐垂钓" tvg-name="湖南快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/快乐垂钓.png" group-title="地方频道",湖南快乐垂钓
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJPIfSqx%2Bd3z4Es7hmFDci%2F6mIMUhQP0kJEcZlTVBqhnDlJePb6jpuEYuXtWB4%2BvTDo%3D$itv
+#EXTINF:-1 tvg-id="湖南茶频道" tvg-name="湖南茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/茶频道.png" group-title="地方频道",湖南茶频道
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJPcPJXMPykUOrb%2BYeKGpUZBa1sMiPnraWCoTNY7FDQs5125SdaC%2FrmDo5YWo90pl0o%3D$itv
+#EXTINF:-1 tvg-id="上海-ICS-外语" tvg-name="上海-ICS-外语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海ICS外语.png" group-title="地方频道",上海-ICS-外语
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJOonneZizATCQBJDCnIGxnrwqe%2F7zT5Gvh5d57sQ3it5WtZ%2BEeI6lCl%2FA35G%2FepfOk%3D$itv-ICS-外语
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海第一财经.png" group-title="地方频道",上海第一财经
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJOyRphwr3kUqhloP58UbWNiFGTcfjqrdAzE417%2F4jy6takAMaC%2F06FZen5kWsihuPc%3D$itv
+#EXTINF:-1 tvg-id="上海东方财经" tvg-name="上海东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海东方财经.png" group-title="地方频道",上海东方财经
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJMXhIqEDldOUXqkXXmdsz91%2BxjQS70xRUhVWLQTWOq50kbVLebMBq8dj%2BCzwtfxanI%3D$itv
+#EXTINF:-1 tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海东方影视.png" group-title="地方频道",上海东方影视
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJM4rJ84iWbBEWatf5CWKvo6TWlmxnD228k1E3P3Lz38SqQSyo9PExRLkN6D3%2Bqp4aw%3D$itv
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海都市.png" group-title="地方频道",上海都市
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJOWzvnUp3QaZX%2BwVbAMK9O52j8%2BOmY%2BV6bzgewEAY%2FShGq7ISwn8N7XKEt%2FIHEfyEI%3D$itv
+#EXTINF:-1 tvg-id="上海法治天地" tvg-name="上海法治天地" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png" group-title="地方频道",上海法治天地
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BUul0zV9esrGIyfxvNmjY2uFEwsLV4II7CbYog%2B8LaDrGvuCxE3LbZy9Dx82arOEJLfm5JQWEChr6LO7xZaBeY%3D$itv
+#EXTINF:-1 tvg-id="上海哈哈炫动" tvg-name="上海哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png" group-title="地方频道",上海哈哈炫动
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJM%2BUKXWTenW6fguAsjKG5TWjggzMUvSssqOqmcJQAuZKuxNwvv1Y23NOhFf4RTfN64%3D$itv
+#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海五星体育.png" group-title="地方频道",上海五星体育
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJOZEqpD8BhPxITm3OatHcmN1aeKRLwYDl90AqJmicjeW1%2FlZlbqnbszxDx9JdYRklY%3D$itv
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png" group-title="地方频道",上海新闻综合
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJOcLyymX%2BRMD3KPtSav6rdryvNZTjjgQDmbmr2DyiwMguwGe0hbh9EhKAPmPOOZBwM%3D$itv
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png" group-title="地方频道",上海纪实人文
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJPFkzjh4fu8at%2BpIsvcxC6VEv6K0QVob4oJdiK5q7RofzHZYQqEVydgI7HvylOhhfg%3D$itv-50-FPS
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeeBHdVl%2FIStALD%2B8f7IRnNI1y1A2GudHGYQ%2Bg0BCxKsZghK8qBq4AO1lFxBMJ1zrpc%3D$itv-HEVC
+
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="4K频道",CCTV-4K
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQChIzEt8zvPixEnOnAQHAhFM%3D
+#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="4K频道",CCTV-8K
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCoqxTmoCqDiuXBaxzvMkV4g%3D
+#EXTINF:-1,tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="4K频道",CCTV16-4K
+http://127.0.0.1:9978/proxy?do=live&url=7ivcb7iHSFuUZ1qc3gWQCsqr4jtbX1BdgE4ruxA8Mmg%3D
+#EXTINF:-1,tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数4K.png" group-title="4K频道",华数-4K
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUFbBDmFzctDysMWojvOe8vsVJCINpmCKZWnPtjx6jvTxAA2ThdT%2FGkHLItchX4g8Yo%3D
+#EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纯享4K.png" group-title="4K频道",纯享-4K
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeePyB7N6NMPxY1ltFCL0JvfxJs7oP%2FD1XSdmLK9YyxpAGda%2FDD3%2BD%2BMqS9sAuVIfgs%3D
+#EXTINF:-1,tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="4K频道",咪咕4K-1
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2B3e%2BJrgmFpI5YFsa00RARf9hGtqkNNjthzSwO5YZvVN6J1sDjBDcslS64z%2BxzrzpA%3D
+#EXTINF:-1,tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="4K频道",咪咕4K-2
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR9maGG2HL26TTxgsOjM9uIBAwzPQrpd%2F3yLWd6RqWBMP5ISa8Mn%2Btm06UhacWs4eXw%3D
+#EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE.png" group-title="4K频道",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,tvg-id="LOUPE4K" tvg-name="LOUPE4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="4K频道",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1,tvg-id="FASHIONONE" tvg-name="FASHIONONE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FASHIONONE.png" group-title="4K频道",Fashion 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1,tvg-id="咪咕全民热练" tvg-name="咪咕全民热练" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="其他",咪咕全民热练
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2FZ5fbE6vHyhK%2BdCAnXrXiPStknl2pv%2BbRq1wV%2BkQfb%2FOVQP5XFYvAqldGpd8IKK7Y%3D
+#EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/求索动物.png" group-title="其他",求索动物
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUGL5SLiPZA8hFIwQTC6%2BZXu3uOxDxDggKfYyHPxZq6%2F5k1%2BnnnSL5sQu7QfxEAsoQk%3D
+#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/求索纪录.png" group-title="其他",求索纪录
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUF%2FjsTtwLoK2s7ukL6sEUcclTZuEDE2531oqTA3liRcQd6koVGHkCnh%2FuVfkEIEEUA%3D
+#EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/求索科学.png" group-title="其他",求索科学
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUEVRwKiW0XW79YsDvp0Jf%2BROoXUjYZm%2B57ln4xhXTNdBKXMpLblCHPkwrbGegTT8JU%3D
+#EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/求索生活.png" group-title="其他",求索生活
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUGacp%2FwXjYj9X4K1UKC95GWn9L27%2BDGhP9SgqZMcBY1h0KjA1Mc6ED4CaHkyOFx5k8%3D
+#EXTINF:-1,tvg-id="NewTV精品综合" tvg-name="NewTV精品综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品综合.png" group-title="NEWTV",NewTV-精品综合
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfee6txmS7qMKUlKqnugOdRxQDm4Yqp1tF2c%2Fxj1NhIaQqXneK6yanAn9ADRT7GioiZc%3D
+#EXTINF:-1,tvg-id="newtv精品大剧" tvg-name="newtv精品大剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品大剧.png" group-title="NEWTV",NewTV-精品大剧
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfedOH20L3uqaRm%2FWxIkxU0o%2BXojdTleoF%2FLXHy9%2BoTCY5fcWB5FGiqLVdtoUCdx8frs%3D
+#EXTINF:-1,tvg-id="newtv精品纪录" tvg-name="newtv精品纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品纪录.png" group-title="NEWTV",NewTV-精品纪录
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeeNL0BnhUgY6KM1EdkuofUASiFe%2F7XywH%2BsVCorqEIkso4L8BtW4EzCpMduy4g6Spg%3D
+#EXTINF:-1,tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品体育.png" group-title="NEWTV",NewTV-精品体育
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfedq3F4MpFF04pvYCsHQtZzZV9ix%2FuHUnUAWiaKutjLlAxF7FO61dnArom%2FXsQu8PGc%3D
+#EXTINF:-1,tvg-id="NEWTV精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品萌宠.png" group-title="NEWTV",NewTV-精品萌宠
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeffaBzedHCnGQBO2w9cG0%2FooIuszi92Mh5Of5U5rFbMWcHmIieOTVL7nShFiLDJjmk%3D
+#EXTINF:-1,tvg-id="newtv爱情喜剧" tvg-name="newtv爱情喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV爱情喜剧.png" group-title="NEWTV",NewTV-爱情喜剧
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BUul0zV9esrGIyfxvNmjY3i9Bn2ltdUWDXikezrfGc%2BM5%2BUzyyXzvkQUfrYctaftcxMaiJJicT1iZpLTyHUupc%3D
+#EXTINF:-1,tvg-id="newtv超级电视剧" tvg-name="newtv超级电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电视剧.png" group-title="NEWTV",NewTV-超级电视剧
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecsJSulaKmJMoxOt7C%2F%2Fpk3sGUDuLtEOL5ocox1r%2FKPYnEA%2FHp3KlJMdBK5D3FUpvI%3D
+#EXTINF:-1,tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电影.png" group-title="NEWTV",NewTV-超级电影
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecLcdU2aJyGY91fJzD4Ixcav08LxDxU%2BZZxeSn2zW2o%2FUI35M6N%2B2wVJizE8GsuOmo%3D
+#EXTINF:-1,tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级体育.png" group-title="NEWTV",NewTV-超级体育
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfedYVhO2wmjBLdUle%2BF2%2ByTPn255vvaXszYtP06W2spiHx7k%2B1bXyOUf8fUrUDKzAzo%3D
+#EXTINF:-1,tvg-id="newtv超级综艺" tvg-name="newtv超级综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级综艺.png" group-title="NEWTV",NewTV-超级综艺
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfedP3003ou4q8voVcMp9281Npy2Edtxnd%2B1fblLstJTk2DSmDZBwZt01Mgp2ZseVIEs%3D
+#EXTINF:-1,tvg-id="newtv潮妈辣婆" tvg-name="newtv潮妈辣婆" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV潮妈辣婆.png" group-title="NEWTV",NewTV-潮妈辣婆
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BUul0zV9esrGIyfxvNmjY2bisvubH%2FHrtdFjHzMRnyigSNZ715QjjUCArCY%2FUGGIqLsU3b1kpT5KJDv2vUqRZg%3D
+#EXTINF:-1,tvg-id="NewTV东北热剧" tvg-name="NewTV东北热剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV东北热剧.png" group-title="NEWTV",NewTV-东北热剧
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeeV0dZF1ts1wc7fnxaBixWzt093xvflfunVNHiNy0eyeIAxUe4E%2Bypy8bTLZm55nV8%3D
+#EXTINF:-1,tvg-id="newtv动作电影" tvg-name="newtv动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV动作电影.png" group-title="NEWTV",NewTV-动作电影
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfee7Veegf5TnF%2BIptdVY9H9ITxvct3263Rm5fLm22Adn0YNSWwpqSjms62WM1yQBFGc%3D
+#EXTINF:-1,tvg-id="NewTV古装剧场" tvg-name="NewTV古装剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV古装剧场.png" group-title="NEWTV",NewTV-古装剧场
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BUul0zV9esrGIyfxvNmjY2O3mJ4V08d23%2FGy%2FfS39HnP%2FPmLya%2F0Pk9sWb%2BwAz16anjraV6QQvTnDVTh2cpA1U%3D
+#EXTINF:-1,tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV欢乐剧场.png" group-title="NEWTV",NewTV-欢乐剧场
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfedQ8wSn9xEbq%2BTJQuEqtRwt6sZ6qa65%2BAs25lNz5OSElcGH9CLLEpVSEg14ZRDYKMk%3D
+#EXTINF:-1,tvg-id="newtv家庭剧场" tvg-name="newtv家庭剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV家庭剧场.png" group-title="NEWTV",NewTV-家庭剧场
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeewd6cWr4o4lcRkclPWO7zjssfXeRwmX6%2FTiCTsFT1yCMyy%2BP5apcNi6fgcchNe87E%3D
+#EXTINF:-1,tvg-id="NewTV金牌综艺" tvg-name="NewTV金牌综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV金牌综艺.png" group-title="NEWTV",NewTV-金牌综艺
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfefJ7dR%2FuFrzzyjTK9zpsxjUoKK7xaTRZYvjRHIL1SFrz5ItwQ9N05kZd4jmgCR0aXM%3D
+#EXTINF:-1,tvg-id="newtv惊悚悬疑" tvg-name="newtv惊悚悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV惊悚悬疑.png" group-title="NEWTV",NewTV-惊悚悬疑
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeergfw5kCXCCTh2Kte1V6bOUdMa6AvaXj5ypbEpPCRykoS4ftuxDKSWK2h22XT4ve4%3D
+#EXTINF:-1,tvg-id="newtv军旅剧场" tvg-name="newtv军旅剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV军旅剧场.png" group-title="NEWTV",NewTV-军旅剧场
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BUul0zV9esrGIyfxvNmjY0HIZYLDEcG0MF0THvc0nAQbzw0wP3Uk9bCAcLvFmTx46Aibp4GNOERovsQovS2058%3D
+#EXTINF:-1,tvg-id="newtv军事评论" tvg-name="newtv军事评论" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV军事评论.png" group-title="NEWTV",NewTV-军事评论
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BUul0zV9esrGIyfxvNmjY2WTCOosa2o%2B9sBTD181iSNb8IiNMp6g5IW%2Bq2fcG219n3MBwf2wsMQSKb6zCGRRPA%3D
+#EXTINF:-1,tvg-id="NewTV魅力潇湘" tvg-name="NewTV魅力潇湘" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV魅力潇湘.png" group-title="NEWTV",NewTV-魅力潇湘
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecNy3BhU8maTXKRLbAIBo90COu0MHfFZ6iJYyLxKLF%2BOVIDUAhw33AVwSEp%2FJmrn3M%3D
+#EXTINF:-1,tvg-id="NewTV明星大片" tvg-name="NewTV明星大片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV明星大片.png" group-title="NEWTV",NewTV-明星大片
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BUul0zV9esrGIyfxvNmjY3s4%2B%2BwFv6yxHAE6uok844t%2BlIfjxDXdkhzxMZleMNTwGrS90QHzvLAUVceRC44Cws%3D
+#EXTINF:-1,tvg-id="newtv农业致富" tvg-name="newtv农业致富" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV农业致富.png" group-title="NEWTV",NewTV-农业致富
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BUul0zV9esrGIyfxvNmjY2ZPcbMf%2FQkPJWAjrrDW1JUyjDuoFkj5iumUQisuLob2eeKZdWE586LGOo46TQTrVY%3D
+#EXTINF:-1,tvg-id="NEWTV武博世界" tvg-name="NEWTV武博世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV武搏世界.png" group-title="NEWTV",NewTV-武博世界
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BUul0zV9esrGIyfxvNmjY3m54y0pDJjiZTbuBjF6vBgh78rM53Vq1O0iYhnkc4RRaYTJq2sB6Q%2Bh2hpyhixR9I%3D
+#EXTINF:-1,tvg-id="newtv炫舞未来" tvg-name="newtv炫舞未来" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV炫舞未来.png" group-title="NEWTV",NewTV-炫舞未来
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeccStmT6kHrqWpuTBIfnxEnf8pHYxIPOUYCrmDNY2U%2F1KRBe4r1wowMKl53VkeRE%2Bo%3D
+#EXTINF:-1,tvg-id="newtv怡伴健康" tvg-name="newtv怡伴健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV怡伴健康.png" group-title="NEWTV",NewTV-怡伴健康
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecL70yeg%2BAoZLWj1LIoM0vC8Vgn3VpNaM2QP0K6kAf0uLwDIiT3SjqQlC6Vw6dIOEU%3D
+#EXTINF:-1,tvg-id="newtv中国功夫" tvg-name="newtv中国功夫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV中国功夫.png" group-title="NEWTV",NewTV-中国功夫
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BUul0zV9esrGIyfxvNmjY1j8npNJ8QHGvXnHhsIg756SzYTuuJG2VENy10oXryANTS95NP93h9fzf3u8NXINOw%3D
+#EXTINF:-1,tvg-id="NEWTV黑莓电影" tvg-name="NEWTV黑莓电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓电影.png" group-title="NEWTV",NewTV-黑莓电影
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfefyuj39dB4GGAQ9NT3h2jVc5ETj2OdkZGaXey2AfIyE4XT3MOvXyPfZUgQeG2jflu4%3D
+#EXTINF:-1,tvg-id="NEWTV黑莓动画" tvg-name="NEWTV黑莓动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓动画.png" group-title="NEWTV",NewTV-黑莓动画
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecENEgX3FLOGSS85mCxVaGhvdDuKm9PXxRKJhFVwpShxbmuh6uJKjFqguIlTkRh%2Bdc%3D
+#EXTINF:-1,tvg-id="NEWTV哒啵电竞" tvg-name="NEWTV哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵电竞.png" group-title="NEWTV",NewTV-哒啵电竞
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfedMfxGpjRnYVDCDFR%2BL2BYOIn%2BEOFzQTdAQyawN%2BVKJbN7623UeB1LNkbwxRx8xh%2B8%3D
+#EXTINF:-1,tvg-id="NEWTV哒啵赛事" tvg-name="NEWTV哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="NEWTV",NewTV-哒啵赛事
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfecjYzqAWqNX1i47e2nco86YdOffGisIW%2Bb0J%2FHHATvG2P1YbbUfQrRG0TBRKUgWoNo%3D
+#EXTINF:-1,tvg-id="SITV动漫秀场" tvg-name="SITV动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/动漫秀场.png" group-title="其他",SiTV-动漫秀场
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJMVJLGTz3RFIm8BsJgB%2BHxZf8CjaU%2BJkSZchsyEdcPu8%2B4KbEn2noNUjDSZlqBmtMI%3D
+#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/都市剧场.png" group-title="其他",SiTV-都市剧场
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJO6FmIns4v28BL5qjLIhXaTUDgjIdBKYhDwQAIXEywEECGD3c8r2Cu7aZXVcmOd7r0%3D
+#EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png" group-title="其他",SiTV-法治天地
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz7uZ%2BPfrDaI51AKjmaAe4b8evIDXDXOhcIfWz5Uy0ruVvnrdTTntAwFRxTCrU%2BmSoCeCQZfxsQyDZ1Yh2NDVpQQ%3D
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欢笑剧场.png" group-title="其他",SiTV-欢笑剧场
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJPlXDxcieSrhbGtTbRFMYW%2FTqJ%2BI8RSKcQWNl0eEHtiW1oh7uQxFc4t3HB5lNr59gw%3D
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欢笑剧场.png" group-title="4K频道",SiTV-欢笑剧场-4K
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJPZ7K2Z9pn9SE4w%2Fp8ci7BPoljdxM7xiPHicFtfGdO0rIeHsckvt0ZLqoFsPwye2Oo%3D
+#EXTINF:-1,tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金色学堂.png" group-title="其他",SiTV-金色学堂
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJNUdExp8Ht%2FdDOiKABqP44PZA%2B1QW8IbJaZ1J%2B8PLs9cPSUjubbolXc4aQPFWS1l7o%3D
+#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/劲爆体育.png" group-title="其他",SiTV-劲爆体育
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJMt5XqI3iK8Onrthiye3QmnbBt2OOj7aOp4tgEc6yg3d5bJHCzTBzUu%2Ftq1WjTFORk%3D
+#EXTINF:-1,tvg-id="SITV乐游" tvg-name="SITV乐游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/乐游.png" group-title="其他",SiTV-乐游
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJOnD9SF1PK6bZ39XbO%2BTttMTKL0YzOPgNXGaFWYJIwgLeZfXaBSYl23eqJiqtybGxA%3D
+#EXTINF:-1,tvg-id="SITV魅力足球" tvg-name="SITV魅力足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/魅力足球.png" group-title="其他",SiTV-魅力足球
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJNB9WKrQWAVsHuwesg5hVi%2F%2BPY52KtHrvFSirw5ceqB%2F4ErdLe8KV%2BGEMMwTrKFSRY%3D
+#EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/七彩戏剧.png" group-title="其他",SiTV-七彩戏剧
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJOJCymBQ2TWKrf3eOY4nbsXhpgEmXBkNGIXbkRuBxly9fxfyCFD8RYBhW%2F5S%2BZ3OdI%3D
+#EXTINF:-1,tvg-id="SITV生活时尚" tvg-name="SITV生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/生活时尚.png" group-title="其他",SiTV-生活时尚
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJO0Ra%2BYKSfUKDVFn6YCt1RRCHuWwiWIRVY1vbvHG9pQwNB5SdnOWt70NqPqNI%2FC74o%3D
+#EXTINF:-1,tvg-id="SITV游戏风云" tvg-name="SITV游戏风云" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/游戏风云.png" group-title="其他",SiTV-游戏风云
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz38rcbLA083%2BErQiifnH%2BJO6M%2BrCZsblyv4sAKV7p%2BHTClLomENkGwkJBQNsmUio%2BtooOYD9QQEX0g1b5ERpIlw%3D
+#EXTINF:-1,tvg-id="IHOT爱电竞" tvg-name="IHOT爱电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱电竞.png" group-title="IHOT",iHOT-爱电竞
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUFlkcFdiVobefbS7JAB%2ByaUTl3fqRzLvMMirPTkFp1sZzIzwrUTfnOYj3kbNSf8Pyg%3D
+#EXTINF:-1,tvg-id="IHOT爱谍战" tvg-name="IHOT爱谍战" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱谍战.png" group-title="IHOT",iHOT-爱谍战
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUGxL6ZJFY0U70LNMy8PGesXDomHuGa7PiB7NRceX3Tw4FtSoWx%2FJh6PpnbDuRYUr5A%3D
+#EXTINF:-1,tvg-id="IHOT爱动漫" tvg-name="IHOT爱动漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱动漫.png" group-title="IHOT",iHOT-爱动漫
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUGL74fHiiOx1QmCv7aHS5zuq3%2Bxll5HpINOy2pOd%2FmRwQIQ6Bcye5cPxyNGPFQSMM4%3D
+#EXTINF:-1,tvg-id="IHOT爱都市" tvg-name="IHOT爱都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱都市.png" group-title="IHOT",iHOT-爱都市
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUENQwSaE1LD7VnklqFzEGwc394JCsXLivQBqPwupNMDbWtJnq4WzOQY%2F4JWNRuxzqM%3D
+#EXTINF:-1,tvg-id="IHOT爱怀旧" tvg-name="IHOT爱怀旧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱怀旧.png" group-title="IHOT",iHOT-爱怀旧
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUFkjHjp1E3m7OWvcMgYCxw5wovgcZid2Do7EF7TMlkMirpJUkTi0EasdiZB9zvXgcU%3D
+#EXTINF:-1,tvg-id="IHOT爱经典" tvg-name="IHOT爱经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱经典.png" group-title="IHOT",iHOT-爱经典
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUGGb%2BW4dCe9r9d5d9KKczynT9N4zYKARiJfHzfQTuxZLvgjYK1qMiMpqaRtv8s3ltw%3D
+#EXTINF:-1,tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱科幻.png" group-title="IHOT",iHOT-爱科幻
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUEwQbga8jnS6rC%2FqyHU3G02sN84imH5FpSMYW%2BCSum47%2BPINwZEhTLn9IoB0d96VLY%3D
+#EXTINF:-1,tvg-id="IHOT爱科学" tvg-name="IHOT爱科学" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱科学.png" group-title="IHOT",iHOT-爱科学
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUFKB9iDEGUwtuu2dhR3lPb7CDRGnPMbkcqJDJOXia5n8%2BqGI4KwkAGKuOO4HlqcMkw%3D
+#EXTINF:-1,tvg-id="IHOT爱浪漫" tvg-name="IHOT爱浪漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱浪漫.png" group-title="IHOT",iHOT-爱浪漫
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUExQbakTjsdV3kYkGLbnOLm7asbQ2A9h2BKjSCAzGbqq3sfhxautMHh%2FHDzKKjoWPA%3D
+#EXTINF:-1,tvg-id="IHOT爱历史" tvg-name="IHOT爱历史" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱历史.png" group-title="IHOT",iHOT-爱历史
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUGiyHj%2FohxWlk1aKqaOqJlfXJ0UELwhkS1lkR%2BtNecnHSbIoX5xLLHkhQrKB9I82hg%3D
+#EXTINF:-1,tvg-id="IHOT爱旅行" tvg-name="IHOT爱旅行" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱旅行.png" group-title="IHOT",iHOT-爱旅行
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUEZhHx8IhAsS5XbyJzi%2Bd6z7hwluGh6cadW13cbsu%2Fnl2JYZ4Ki59D9QTzW6She5lE%3D
+#EXTINF:-1,tvg-id="IHOT爱奇谈" tvg-name="IHOT爱奇谈" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱奇谈.png" group-title="IHOT",iHOT-爱奇谈
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUFwJnfzBRQnfV6aWPZUi0KxwDlbaqDjcksOnUYPDD8mANvrHlybmtIPGkXBQy9xvyw%3D
+#EXTINF:-1,tvg-id="IHOT爱青春" tvg-name="IHOT爱青春" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱青春.png" group-title="IHOT",iHOT-爱青春
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUGBxp%2FT%2FL7hKeX%2FVokTkls0rG7z8IY1CpcVs66GEYVmziQUABJKC8iG2sTBqXkNmtc%3D
+#EXTINF:-1,tvg-id="IHOT爱赛车" tvg-name="IHOT爱赛车" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱赛车.png" group-title="IHOT",iHOT-爱赛车
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUEtedJ%2FSuNynq6HJyStu7eMIgURNOjKf5PQnwDkULiOjMNbOU5CsdMy85bqYjixJkU%3D
+#EXTINF:-1,tvg-id="IHOT爱体育" tvg-name="IHOT爱体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱体育.png" group-title="IHOT",iHOT-爱体育
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUHW5GMEU2t3KXIgma%2B0%2Bs1OyvkRnMc3wxgOMlfixqRWQmf6MCS2zEoxM1a3ifIrjXo%3D
+#EXTINF:-1,tvg-id="IHOT爱玩具" tvg-name="IHOT爱玩具" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱玩具.png" group-title="IHOT",iHOT-爱玩具
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUHD9UsZFk7VBqQONxs%2Bz0hzFZaYH1YN4%2Fy4MpbIkQXCXQfG%2FQt8jTvKE8PPzBbCYfc%3D
+#EXTINF:-1,tvg-id="IHOT爱喜剧" tvg-name="IHOT爱喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱喜剧.png" group-title="IHOT",iHOT-爱喜剧
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUHRWiJYjhjWLhWObq73YVbfI6cPaY9kChbs93L%2FsxEpZ8S1HwrsJ4wOQU9bk7nup6Y%3D
+#EXTINF:-1,tvg-id="IHOT爱悬疑" tvg-name="IHOT爱悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱悬疑.png" group-title="IHOT",iHOT-爱悬疑
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUGNdhPQcdM6zy0qAqBIkoc0tmjgHhzaMnJ0NV60PHW4TLhJWUdqXOM19r5MIqMG9QA%3D
+#EXTINF:-1,tvg-id="IHOT爱幼教" tvg-name="IHOT爱幼教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱幼教.png" group-title="IHOT",iHOT-爱幼教
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUFyBLI%2FyZIgL%2FOlxJwGoDb%2FGbUNFuu076yZSfr3%2Fo%2Baa%2BmP3abTd6GzklCtKxrFFOA%3D
+#EXTINF:-1,tvg-id="IHOT爱院线" tvg-name="IHOT爱院线" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱院线.png" group-title="IHOT",iHOT-爱院线
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz8k0I%2BwjsvYzMh3qyVUJlUFL3%2BSHVsdoseXLF4V0eTtH105iNie0V%2FIShIMvQMn%2BB9Gd12sE6Q%2FTlYoxDTKv56M%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-1
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2FJfsFraTZmhSTGdC2cFU8lbkyHYnQPNGuUd3sUW%2FTRev93mfFSBs9Twh%2F%2B1X6TN9E%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-2
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR9tfB850pt6I0Ww%2B%2BJxdWvvcwEkMJ2m4YEQMeyWZRigNu5G3o3XC%2FZvDazSda%2BNUE8%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-3
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR8Us9YfDAtnsEnA43frqq4BgUGLHBUo2O%2FIIT3f8GnzS2EYul40lwJe6GgAuGBqt3U%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-4
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR9wvKdvIQcQAu0zYc5f0Qv9aJiya1JfFWIp1JxqUjsa%2BAuY%2BhF1mFNIoHxQgxNjf3I%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-5
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2B1vnCETLSntXeSHwlRjIAqjXBfU7MZuxXRsgNDmkWuL%2BzxBXLwBfX%2FvlxsL5pwYNM%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-6
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR9K%2BR7bgIO%2BwcGJF%2FytZ0lZg3bP%2BWZvLxhTX1WK3zBXL1Vfa3IT7D673lZdtim7T44%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-7
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2FsePM7DlvqKXrQeGlfbDyDWJXmgQ7akDawWVtjM5BGKQNOnLtWjud07PMApaAAUfY%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-8
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR8hm5BqwVFrGzqVAPWyhn36O4r2ET7nMT1I%2FGVFHMQpUwboQ8hn2NN%2Bc9bx3Xbxcgc%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-9
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2BHtaX9OAggoZFZpwS5ioCcta2yKCorkCWnp7lrbqrA7MsyCOpsIklP2ZhtakEmqLQ%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-10
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR9ZLQ5UY%2BYFyR0bnGkxF4P8x%2BVpQ6RdUvFv14O6%2Bv%2FXqs2jc%2FjBAKMYqu5cXiPuY3U%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-11
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR90Pw2kgAd7icfD3alVnKanum8iiNWdwNyjFCcIDUwbmvqzz7KFQkB05Tn6UwDGFAk%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-12
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2FUVkKiA6bk2dWv2pVNJK5ZyhQp5vIs8caFg6v7Psl%2FemAM%2B8piMaZwMWo64JPEzP0%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-13
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2FzDCbfao7arp0XNedHn%2F0TRStva9mWgf%2FpkZ5PtmFytrSt83X%2BTEh1IrE%2FYDVVSRo%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-14
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR9R80LGEiiST%2BJffRyRRW2eLJ%2BHplPJ9841DHoeL3lCTwv9%2FHUwkrSlrt6uimYVgKE%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-15
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2BMhL97iHobDPrTPcBjRL96v1wLyh3nyJcYuciEjgmQiK%2F%2F0PO62H3dtsBm3gg9Rsg%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-16
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR9fE1zjw4Y0y4%2Bd%2F%2F3bAuQ3%2BqxtNnTFaiphNLJivCSvLJruh%2BbtI%2FNauR9NucoqVVs%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-17
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR9ffQQYElzo%2FMFr8WaMOvLTD3ntFJvLnAeYiFCAuJv8rl%2BX12A4AT79VOR2SHFWf7E%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-18
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR9%2F6sfEl5dVE4oQbKeM3zS6oyp%2FTOZKrNt0Ya6z%2BAgvVXmmY0essKrjazZErf%2FtJRE%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-19
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2BrjLnoZ%2BHqHrmyzcVOVUeqm2jy9OBTQTXfdktfYI7nKsDr8dgmS%2FSzAoQnwmK4RiM%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-20
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR9HAcM0oqLg9ke4TE8LzOMdNKfCXBd67XKnzC7UE%2B%2BWlvz8QcRGtDG6ON4ppjlZFg4%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-21
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR9cvljprlSItVGemVAaJy5q39QpmF3N0%2BFiqFrkJ1AI12UQoVVPf%2FIwlXUz7auQ7Rs%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-22
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2F4hadPA3LrZjnRwSwPL4Av3gP77kiRAhIL%2FRQq1GvWA9HRtXKw8A04hcyABg6hUac%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-23
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR8ceCKBrubdr5DFk%2BU5RQmjRccIktTAhdFJRAHwtPI%2ByhMkcpSxV5a4KEEK8MVF5sU%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-24
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR8h48eQl%2Fp3ioqAoZnrxcLD47k29D%2F1SIOkp6MO3vs93%2FUaE7o%2BcAmyiZei5zczabo%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-25
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR8hr6GsZi1TCpooxWk1RGzH%2BINcSn4Db7wDNmBB5qxated6n%2Fn2TeF%2FUoYC%2BZLB6Tk%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-26
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR96mggqHb%2BRKda7Fat%2FusP6IuA4axorSC3Zn1R9Fm9BdqNL6OEl1ZxTuAvUMQN7lT0%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-27
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2BP5GH7D1j1UDcN5gjkkg4t59ZSvdI9KWKSU0CS%2FhU4qDExKY%2BprdibdSRq7vUnIJ0%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-28
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2FEyBtUpTpqe1fkW4pfRCIWcD34AWTqGNicnnIEh9t2woavdJ0S%2FD%2FsOJP7pbbaL7c%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-29
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR9PrjVo0pNORulozEMUo%2Bn3sbp8jk7QdHx%2F7zJr7eXsv0Rb493g1QJp7yliVpqD%2BpM%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-30
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2FsjMvfWNb5wQDn1B9LMkDrMTytLs6Y8ptvkWg5nALyD2EEFBrtTIvnDuy3MtkXZ2g%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-31
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR8PpTLP2BSLxTtU0265KbmuPi%2B2I6qP8yP8dUz%2F%2FBMIzaGI%2B85v%2BJ5r8MaSFkoiozY%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-32
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR8YDmUACCqLCG89%2FA5K5%2BVHMzRkHD0QwGAv%2BrUoKPScEeH%2FnrqrgHACIn2se1GLFLk%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-33
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2Fko63UuyMS%2FIsUQ6juQnuFpiI3SXJlwFbmvMBsZoQQtEhyJfKcYAOJwirQlLkh4IU%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-34
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR91SBBV3o82ym18qEENluBCdbJU5WcEr7JKOUrUWHPDCwBW3br7RG3DUegYFdAPHL4%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-35
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2FPfMzpTYrEACwIlH0T%2FZvi%2FWn6C50T2L6ltWOjFaZIgLYztvHieJatKHRQH%2FJQIOQ%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-36
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2Br5zwd7n%2FLi8brHLXUTv%2Bm9QCR3g5p3uOeVsEOOZD8LEDtmHuAys%2Fm%2Bb6NhuHTYsM%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-37
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2FaI4JdbGoaYuMS%2FdhDnENFaR6nB3iBWDjklD4aqsYpxDTZEoQTgr0HBdFNp4mCsF4%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-38
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR98GmmtmF9oJb0nitT49IMSdHJGdndDnzsupQF7bwRavziIwcLN11mHfweMEGdG5p4%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-39
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2F9wB2PKvI7Xf8ui12BtaQLmCUfrs9PxcMTogWoI1N%2Bp5zGZr7vbVjJbXC%2F3Z%2B4x%2BM%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-40
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR9cJOvvLzAy8usZn89WkunWBGmZQjIQutxGMIZxU%2Be%2Fn4VX5UP63%2BDoSsnBpK9xEx0%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-41
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2F34NrF%2BHU55S4ZhFeiPSqBJaPPq6X7A1MjhJuvPoDY47uWsAC204jSKQEF7mT0FRk%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-42
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2FLtPHk5hX6HjdJ2we5N77aprCPmhcPkfnW8q45Mx1iTR07W%2BS%2FUkCJSNOCAf5Ji54%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-43
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR8PqVLT6QGL632cViVNFdMweNMTPZXK4YvsHzIxTC2aDhj6LKRICWJy7A7%2FI8mR%2FEQ%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-44
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2FsBSuct%2FzXMMwD%2FTdGxkgfFDBjFmzc0oVK12Q9q8i5EWg3sg%2FQGfaiGsq%2BMmlh7B0%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-45
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz71QuY5ViERYePeV4BCuTR%2F0EPae0VUqg4nGuJNaNQbLOJcxSMP52xGjzEt%2FlFDhrr4iBPjdOFdtCc1O9736xpY%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_湖南bblive-1
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BUul0zV9esrGIyfxvNmjY19XwSfBY%2FHjpAblE0Jy5sAuyl%2BBrQr2OLh3LYB%2BZkKTmOq2cw8Wec7oCQAQzRl4NU%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_湖南bblive-2
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BUul0zV9esrGIyfxvNmjY09upuyytR%2FfUqitpgVcQ2gmpWufJIrJqTUJbn4k%2BA8J4jfEa5GZcIPlNVUR0RJESk%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_湖南bblive-3
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BUul0zV9esrGIyfxvNmjY3qn84nAjRw60kv%2BQOK673HXjX3yjQru9VKzv1f%2BRTB0WDt3UZNE65f2S6dfZ4nrJM%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_湖南bblive-4
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BUul0zV9esrGIyfxvNmjY2W22d3utpBKiKfV9g2DF8jn%2FX412i2RRTbRUgBkjjl9rM8NCLao8cuomccP6K89x0%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_湖南bblive-5
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BUul0zV9esrGIyfxvNmjY38UUKdi4QQhsdtpdAzLVkXa0EO7s0UNzGJrUA0ABYU4uq4m0X2BNKsFgILuvuv5Cw%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_湖南bblive-6
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BUul0zV9esrGIyfxvNmjY0h%2BAkO%2BhDc9nHaA7pmms8wj2%2BMbdgrwnzNAyD4CFiPes4YuamQG357FSlWS%2FUE5Uo%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_易视腾-1
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfef7ImLe%2FUL7uOFFZg5uUyNYsfVKrVB3%2FyvAiS%2B9AZuEqGH3%2FhrBBFGF96APxY4vtvA%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_易视腾-2
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeeHmPjUnM%2FrtoyI12kqI5vtnumBTDERBul8%2F4PdOSe34pyavhyISGU6Hj9K4CDlJkM%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_易视腾-3
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfefW4OCUZzMy01DtTe0xC3rdnRvrC8sgHoXDWqMkSMDVRjfoQ8Emvo0PkFTEZXDKkLg%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_易视腾-4
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfed46boEAE2SPacbLuZHhAkmmWmELbs0eP5v19XKx7cscHAiAI30G1TN%2BKTrGh%2Bbm2M%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_易视腾-5
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeekldBItfJJzrieRQoDhnKUBkVno0j8L99oJJ9W%2FMRMY1hYkBl4lQnM5h%2BIMRLCwQ8%3D
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频_8M1080_易视腾-6
+http://127.0.0.1:9978/proxy?do=live&url=5omiKNNKF4jxQCtanmObz%2BsgIEZoHby4h6bXZkRhfeekJ7g%2FFTrUq9nxIG9aff4JkMzXewwf8MC6XrNfepWd4vf6LrAjAbIggnolQ2lXngA%3D
