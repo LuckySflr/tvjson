@@ -3,17 +3,53 @@
     "logo": "https://avatars.githubusercontent.com/u/58679624?v=4",
     "lives": [
         {
+            "name": "小雅·ipv6",
+            "type": 0,
+            "url": "https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
+            "playerType": 2
+        },
+        {
+            "name": "咪咕直播·流畅",
+            "type": 0,
+            "url": "https://gh.tryxd.cn/raw.githubusercontent.com/altn2025/iptv/refs/heads/main/iptv.m3u",
+            "playerType": 2
+        },
+        {
             "name": "alive",
             "type": 0,
-            "url": "https://wget.la/https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u",
+            "url": "https://gh.tryxd.cn/raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
+            "name": "小雅·gaoma",
+            "type": 0,
+            "url": "https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u",
+            "playerType": 2
+        },
+        {
+            "name": "快直播(影视·python)",
+            "type": 3,
+            "api": "./kzb.py",
+            "ext": {}
+        },
+        {
+            "name": "itv（本地）",
+            "type": 0,
+            "url": "file://Download/itv.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
+        },
+        {
             "name": "IPTV·gaoma",
             "type": 0,
-            "url": "https://wget.la/https://raw.githubusercontent.com/peterHchina/iptv/refs/heads/main/IPTV-V4.m3u",
+            "url": "https://gh.tryxd.cn/raw.githubusercontent.com/peterHchina/iptv/refs/heads/main/IPTV-V4.m3u",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -21,7 +57,7 @@
         {
             "name": "CCTV·gaoma",
             "type": 0,
-            "url": "https://wget.la/https://raw.githubusercontent.com/peterHchina/iptv/refs/heads/main/CCTV-V4.m3u",
+            "url": "https://gh.tryxd.cn/raw.githubusercontent.com/peterHchina/iptv/refs/heads/main/CCTV-V4.m3u",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -29,7 +65,7 @@
         {
             "name": "kakaxi-1",
             "type": 0,
-            "url": "https://wget.la/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
+            "url": "https://gh.tryxd.cn/raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -45,7 +81,7 @@
         {
             "name": "iptv_list",
             "type": 0,
-            "url": " https://wget.la/https://raw.githubusercontent.com/mlzlzj/iptv/refs/heads/main/iptv_list.txt",
+            "url": "https://gh.tryxd.cn/raw.githubusercontent.com/mlzlzj/iptv/refs/heads/main/iptv_list.txt",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -60,7 +96,7 @@
         {
             "name": "16万•MV",
             "type": 0,
-            "url": "https://wget.la/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"
+            "url": "https://gh.tryxd.cn/raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"
         }
     ],
     "wallpaper": "https://bing.img.run/uhd.php",
@@ -781,6 +817,27 @@
                 }
             }
         }
+    ],
+    "headers": [
+        {
+            "host": "gslbserv.itv.cmvideo.cn",
+            "header": {
+                "User-Agent": "okhttp/3.12.13"
+            }
+        }
+    ],
+    "proxy": [
+        "raw.githubusercontent.com"
+    ],
+    "hosts": [
+        "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+    ],
+    "ads": [
+        "static-mozai.4gtv.tv"
     ],
     "flags": [
         "youku",

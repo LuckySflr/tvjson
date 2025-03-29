@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743051720157/PandaQ250327.jar;md5;bd8a5a5a4cbddbe063632ffe5834b73e",
     "wallpaper": "http://ceshi.xn--z7x900a.com/ppic/feimao.php",
     "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
     "sites": [
@@ -268,24 +268,11 @@
             }
         },
         {
-            "key": "csp_BookTing",
-            "name": "📚┃听书┃音频",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_BookTing",
-            "searchable": 0,
-            "ext": "https://m.ting275.com",
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            }
-        },
-        {
             "key": "csp_YouShengBook",
-            "name": "📚┃有声┃小说",
+            "name": "📚┃六月┃听书",
             "type": 3,
             "playerType": "2",
-            "api": "csp_LaoBaiBook",
+            "api": "csp_TingBook",
             "searchable": 0,
             "style": {
                 "type": "rect",
