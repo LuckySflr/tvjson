@@ -117,6 +117,51 @@ def safe_json_write(raw_str, file_path):
         print(f"未知错误：{str(e)}")
 
 
+def get_default_jar_url(json_name):
+    with open(json_name, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+        # 打印读取的内容
+        print("读取的JSON内容:")
+        print(json.dumps(data, indent=4))
+
+        # 返回解析后的数据
+        return data['spider']
+
+
+def split_full_jar_url_string(input_str, delimiter=";md5;"):
+    # 使用split方法分割字符串
+    parts = input_str.split(delimiter, 1)
+
+    # 检查分割结果
+    if len(parts) == 2:
+        str1, str2 = parts
+        return str1, str2
+    else:
+        raise ValueError(f"输入字符串中没有找到分隔符 '{delimiter}'")
+
+
+def get_jar_from_url(full_jar_url, jar_name):
+    jar_url, jar_md5 = split_full_jar_url_string(full_jar_url)
+
+    try:
+        headers = {'User-Agent': 'okhttp'}
+        response = requests.get(jar_url, headers=headers)
+        # if response.status_code == 200:
+        #     content = response.text
+        #     if is_valid_json(content):
+        #         return response.content.decode('utf-8')
+        #     elif "**" in content:
+        #         return base64_decode(content)
+        #     return content
+        # else:
+        #     return None
+        with open(jar_name, "wb") as f:
+            f.write(response.content)
+    except requests.exceptions.RequestException as e:
+        print(f"请求失败：{e}")
+        return None
+
+
 # 示例使用
 if __name__ == "__main__":
     cur_dir = os.getcwd()
@@ -141,3 +186,8 @@ if __name__ == "__main__":
             safe_json_write(content, file_name)
         # with open(os.path.join(os.getcwd(), '1'+file_name), "w",encoding='utf-8') as f:
         #     f.write(json_str_format(content))
+
+        print(file_name)
+        default_jar_url = get_default_jar_url(file_name)
+        print(default_jar_url)
+        get_jar_from_url(default_jar_url, name + '.jar')
