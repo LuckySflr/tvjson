@@ -602,7 +602,7 @@
                 "siteUrl": "https://www.wogg.com/",
                 "danMu": "弹"
             },
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "YGP",
@@ -612,7 +612,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "alllive",
@@ -623,7 +623,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "抠搜",
@@ -637,7 +637,7 @@
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
             },
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "UC",
@@ -651,7 +651,7 @@
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
             },
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "原创",
@@ -663,7 +663,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "苹果",
@@ -674,7 +674,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "糯米",
@@ -685,7 +685,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "白白",
@@ -697,7 +697,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "文采",
@@ -709,7 +709,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "Lib",
@@ -724,7 +724,7 @@
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
             },
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "zxzj",
@@ -736,7 +736,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.zxzjhd.com/",
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "厂长",
@@ -748,7 +748,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "溢彩",
@@ -760,7 +760,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/f19e82TUvZMviAElDfhsS/jcju7U0fe1MnN1h63CTaYIPjmEw9C0qVsgBO8um85+eGlSkG/r2q6m0DA==",
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "比特",
@@ -771,7 +771,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "低端",
@@ -783,7 +783,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "萌米",
@@ -796,7 +796,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA==",
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "热播",
@@ -809,7 +809,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "uqGL1bNENExT7/hGxpSE5qU=",
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "兄弟",
@@ -821,7 +821,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO",
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "神车",
@@ -833,7 +833,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "rfOX1voDIQhH8epBwpmIsuS8oz/VnNfnxigtaMviCwldcRBVvSwnsuM5MM4OgfA64zPRJJ0UnjpsuU0yDQ==",
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "欢视",
@@ -846,7 +846,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "uqGL1bNENExT9fFAy5mE5qU=",
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "奥特",
@@ -858,7 +858,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://auete.com/",
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "贱贱",
@@ -870,7 +870,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "新6V",
@@ -882,7 +882,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.xb6v.com/",
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/jar/latest/fantaiying.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
         {
             "key": "Local",
