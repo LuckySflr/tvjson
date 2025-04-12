@@ -1,7 +1,15 @@
 {
-    "spider": "./jar/custom_spider.jar;md5;5e53c8f9ddd4ede5359c16bee091db93",
+    "spider": "./jar/custom_spider.jar;md5;fd389e3446f23e76f9112a2097d81884",
     "logo": "https://avatars.githubusercontent.com/u/58679624?v=4",
     "lives": [
+        {
+            "name": "24live",
+            "type": 0,
+            "url": "https://api.metr.cc/https://raw.githubusercontent.com/Marilyn2022/iptv-api/refs/heads/master/output/result.m3u",
+            "playerType": 2,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
         {
             "name": "小雅·ipv6",
             "type": 0,
@@ -29,9 +37,15 @@
             "playerType": 2
         },
         {
-            "name": "快直播(影视·python)",
+            "name": "快直播(ok·python)",
             "type": 3,
             "api": "./kzb.py",
+            "ext": {}
+        },
+        {
+            "name": "快直播体育(ok·python)",
+            "type": 3,
+            "api": "./kzbty.py",
             "ext": {}
         },
         {
@@ -58,14 +72,6 @@
             "name": "CCTV·gaoma",
             "type": 0,
             "url": "https://gh.tryxd.cn/raw.githubusercontent.com/peterHchina/iptv/refs/heads/main/CCTV-V4.m3u",
-            "playerType": 2,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
-        },
-        {
-            "name": "kakaxi-1",
-            "type": 0,
-            "url": "https://gh.tryxd.cn/raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"

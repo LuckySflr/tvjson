@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743051720157/PandaQ250327.jar;md5;bd8a5a5a4cbddbe063632ffe5834b73e",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd",
     "wallpaper": "http://ceshi.xn--z7x900a.com/ppic/feimao.php",
     "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
     "sites": [
@@ -55,52 +55,6 @@
             }
         },
         {
-            "key": "潮流",
-            "name": "🏜┃潮流┃影视",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
-        },
-        {
-            "key": "梦回",
-            "name": "🏈┃梦回┃影视",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
-        },
-        {
-            "key": "星辉",
-            "name": "🦢┃星辉┃影视",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
-        },
-        {
-            "key": "csp_Lgyy",
-            "name": "✨️️┃流光┃影视",
-            "type": 3,
-            "api": "csp_Lgyy"
-        },
-        {
-            "key": "csp_Jpys",
-            "name": "🥇️┃金牌┃影视",
-            "type": 3,
-            "api": "csp_Jpys"
-        },
-        {
-            "key": "csp_Wwys",
-            "name": "🌾️┃农民┃影视",
-            "type": 3,
-            "api": "csp_Wwys",
-            "ext": "https://www.wwgz.cn"
-        },
-        {
-            "key": "csp_Siren",
-            "name": "🎉️┃私人┃影城",
-            "type": 3,
-            "api": "csp_Siren"
-        },
-        {
             "key": "csp_XMUC",
             "name": "🍚┃小米┃UC",
             "type": 3,
@@ -150,6 +104,59 @@
             "ext": "https://www.wogg.one/"
         },
         {
+            "key": "潮流",
+            "name": "🏜┃潮流┃影视",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+        },
+        {
+            "key": "梦回",
+            "name": "🏈┃梦回┃影视",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
+        },
+        {
+            "key": "星辉",
+            "name": "🦢┃星辉┃影视",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+        },
+        {
+            "key": "菲儿",
+            "name": "🍁┃菲菲┃影视",
+            "type": 3,
+            "api": "csp_AppFerr",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn/M3t4AXAKTrZj3tfhm1t/gMT3dOrHqIzUNqLUEOIDMvllTbX6e1hMhB2mfpOaCmHNOL1yBB3SmxNyqXlai90EIpdnwOOgCR9Z+YwCTj6ySjzJ2VBiH3eXeOGcavcNeVRA=="
+        },
+        {
+            "key": "csp_Jpys",
+            "name": "🥇️┃金牌┃影视",
+            "type": 3,
+            "api": "csp_Jpys"
+        },
+        {
+            "key": "csp_Wwys",
+            "name": "🌾️┃农民┃影视",
+            "type": 3,
+            "api": "csp_Wwys",
+            "ext": "https://www.wwgz.cn"
+        },
+        {
+            "key": "csp_Apphip",
+            "name": "🌼┃️嗨皮┃影视",
+            "type": 3,
+            "api": "csp_Apphip"
+        },
+        {
+            "key": "csp_Siren",
+            "name": "🎉️┃私人┃影城",
+            "type": 3,
+            "api": "csp_Siren"
+        },
+        {
             "key": "csp_Lkdy",
             "name": "🏔️┃来看┃影视",
             "type": 3,
@@ -160,13 +167,6 @@
             "name": "☁️️┃云播┃影视",
             "type": 3,
             "api": "csp_Tvyb"
-        },
-        {
-            "key": "csp_Kanke",
-            "name": "🛳️┃看客┃影视",
-            "type": 3,
-            "api": "csp_Kanke",
-            "ext": "http://www.guaziys.com"
         },
         {
             "key": "csp_Qiyou",
@@ -182,14 +182,6 @@
             "type": 3,
             "playerType": "2",
             "ext": "http://api2.rinhome.com"
-        },
-        {
-            "key": "csp_Fantuan",
-            "name": "🍙┃饭团┃影视",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "ext": "https://www.fantuan.vip"
         },
         {
             "key": "csp_Quanwk",
