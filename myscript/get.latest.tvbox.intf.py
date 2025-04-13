@@ -1,10 +1,13 @@
 import os
+import sys
 import requests
 import base64
 import re
 import json
+import csv
 from pypinyin import lazy_pinyin, Style
 from urllib.parse import urlparse, urlunparse
+
 
 def get_base_dir_url(url):
     # 解析URL
@@ -27,6 +30,7 @@ def get_base_dir_url(url):
     ))
 
     return base_url
+
 
 def is_valid_json(json_str):
     try:
@@ -147,6 +151,7 @@ def intf_json_fix(intf_url, data):
         data = data.replace('../', base_url + '../')
     return data
 
+
 def get_default_jar_url(json_name):
     with open(json_name, 'r', encoding='utf-8') as file:
         data = json.load(file)
@@ -186,11 +191,131 @@ def get_jar_from_url(full_jar_url, jar_name):
         return None
 
 
+def parse_json_to_sites_csv(intf_name, json_file, csv_file):
+    try:
+        # 读取JSON文件
+        with open(json_file, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+
+        sites_dict = data['sites']
+        default_jar = data['spider']
+
+        print(sites_dict)
+
+        new_sites_dict_list = []
+
+        for site in sites_dict:
+            new_site = {}
+            new_site['intf_name'] = intf_name
+            if 'name' in site:
+                new_site['name'] = site['name']
+            else:
+                print(f"{intf_name} site has no 'name' key, invalid!")
+                sys.exit(1)
+
+            if 'key' in site:
+                new_site['key'] = site['key']
+            else:
+                print(f"{intf_name} site has no 'key' key, invalid")
+                sys.exit(1)
+
+            if 'name' in site:
+                new_site['name'] = site['name']
+            else:
+                print(f"{intf_name} site has no 'name' key, invalid!")
+                sys.exit(1)
+
+            if 'type' in site:
+                new_site['type'] = site['type']
+            else:
+                new_site['type'] = '0'
+
+            if 'api' in site:
+                new_site['api'] = site['api']
+            else:
+                new_site['api'] = '-'
+
+            if 'indexs' in site:
+                new_site['indexs'] = site['indexs']
+            else:
+                new_site['indexs'] = '0'
+
+            if 'searchable' in site:
+                new_site['searchable'] = site['searchable']
+            else:
+                new_site['searchable'] = '1'
+
+            if 'quickSearch' in site:
+                new_site['quickSearch'] = site['quickSearch']
+            else:
+                new_site['quickSearch'] = '1'
+
+            if 'changeable' in site:
+                new_site['changeable'] = site['changeable']
+            else:
+                new_site['changeable'] = '1'
+
+            if 'timeout' in site:
+                new_site['timeout'] = site['timeout']
+            else:
+                new_site['timeout'] = '15'
+
+            if 'ext' in site:
+                new_site['ext'] = site['ext']
+            else:
+                new_site['ext'] = '-'
+
+            if 'jar' in site:
+                new_site['jar'] = site['jar']
+            else:
+                new_site['jar'] = '-'
+
+            if 'playerType' in site:
+                new_site['playerType'] = site['playerType']
+            else:
+                new_site['playerType'] = '-1'
+
+            if 'categories' in site:
+                new_site['categories'] = site['categories']
+            else:
+                new_site['categories'] = '-'
+            new_sites_dict_list.append(new_site)
+
+        # # 检查数据是否为列表
+        # if not isinstance(data, dict):
+        #     raise ValueError("JSON数据不是字典")
+        #
+        # print(new_sites_dict_list[0])
+        # # 获取CSV文件的字段名
+        fieldnames = new_sites_dict_list[0].keys()
+        # print(fieldnames)
+
+        # 写入CSV文件
+        with open(csv_file, 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+            # 写入表头
+            writer.writeheader()
+
+            # 写入数据行
+            for item in new_sites_dict_list:
+                writer.writerow(item)
+
+        print(f"数据已成功写入 {csv_file}")
+    except FileNotFoundError:
+        print(f"文件 {json_file} 未找到")
+    except json.JSONDecodeError as e:
+        print(f"解析JSON文件时出错: {e}")
+    except Exception as e:
+        print(f"发生错误: {e}")
+
+
 # 示例使用
 if __name__ == "__main__":
     cur_dir = os.getcwd()
     config_file_path = os.path.join(cur_dir, "intf_config\\tvbox.intf.cfg")
     latest_jar_folder = os.path.join(cur_dir, "..\\jar\\latest")
+
     print(config_file_path)
     # 替换为你的配置文件路径 
     # file_path = 'config.txt'  
@@ -199,18 +324,23 @@ if __name__ == "__main__":
     # 打印解析结果 
     for item in result:
         # print(item)
-        name = ''.join(lazy_pinyin(item[0], style=Style.NORMAL))
-        json_file_name = os.path.join(cur_dir, "intf_json", name + ".json")
-        # print(name)
-        json_intf_url = item[1]
-        print(json_intf_url)
-        content = get_json_content(json_intf_url)
-        # print(content)
-        if content:
-            safe_json_write(content, json_file_name)
+        intf_name = ''.join(lazy_pinyin(item[0], style=Style.NORMAL))
+        json_file_name = os.path.join(cur_dir, "intf_json", intf_name + ".json")
+        #
+        # json_intf_url = item[1]
+        # print(json_intf_url)
+        # content = get_json_content(json_intf_url)
+        # # print(content)
+        # if content:
+        #     safe_json_write(content, json_file_name)
+        #
+        # # download default jar to latest path
+        # print(json_file_name)
+        # default_jar_url = get_default_jar_url(json_file_name)
+        # get_jar_from_url(default_jar_url, os.path.join(latest_jar_folder, intf_name + '.jar'))
+        #
 
-        # download default jar to latest path
-        print(json_file_name)
-        default_jar_url = get_default_jar_url(json_file_name)
-
-        get_jar_from_url(default_jar_url, os.path.join(latest_jar_folder, name + '.jar'))
+        # save to csv
+        sites_csv_file_path = os.path.join(cur_dir, "intf_csv\\merged_sites_intf.csv")
+        lives_csv_file_path = os.path.join(cur_dir, "intf_csv\\merged_lives_intf.csv")
+        parse_json_to_sites_csv(intf_name, json_file_name, sites_csv_file_path)
