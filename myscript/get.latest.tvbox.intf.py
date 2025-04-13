@@ -4,7 +4,29 @@ import base64
 import re
 import json
 from pypinyin import lazy_pinyin, Style
+from urllib.parse import urlparse, urlunparse
 
+def get_base_dir_url(url):
+    # 解析URL
+    parsed_url = urlparse(url)
+
+    # 获取路径部分并去掉最后一个斜杠后的部分
+    path_parts = parsed_url.path.rsplit('/', 1)
+
+    # 构建新的路径
+    base_path = path_parts[0] + '/' if len(path_parts) > 1 else '/'
+
+    # 重新构建URL
+    base_url = urlunparse((
+        parsed_url.scheme,  # 协议
+        parsed_url.netloc,  # 主机
+        base_path,  # 路径
+        parsed_url.params,  # 参数
+        parsed_url.query,  # 查询字符串
+        parsed_url.fragment  # 片段标识符
+    ))
+
+    return base_url
 
 def is_valid_json(json_str):
     try:
@@ -56,7 +78,7 @@ def get_json_content(intf_url=""):
         if response.status_code == 200:
             content = response.text
             if is_valid_json(content):
-                return response.content.decode('utf-8')
+                return intf_json_fix(intf_url, response.content.decode('utf-8'))
             elif "**" in content:
                 return base64_decode(content)
             return content
@@ -117,15 +139,25 @@ def safe_json_write(raw_str, file_path):
         print(f"未知错误：{str(e)}")
 
 
+def intf_json_fix(intf_url, data):
+    base_url = get_base_dir_url(intf_url)
+    if './' in data:
+        data = data.replace('./', base_url)
+    if '../' in data:
+        data = data.replace('../', base_url + '../')
+    return data
+
 def get_default_jar_url(json_name):
     with open(json_name, 'r', encoding='utf-8') as file:
         data = json.load(file)
         # 打印读取的内容
-        print("读取的JSON内容:")
-        print(json.dumps(data, indent=4))
+        # print("读取的JSON内容:")
+        # print(json.dumps(data, indent=4))
 
         # 返回解析后的数据
-        return data['spider']
+    default_spider = data['spider']
+
+    return default_spider
 
 
 def split_full_jar_url_string(input_str, delimiter=";md5;"):
@@ -146,17 +178,9 @@ def get_jar_from_url(full_jar_url, jar_name):
     try:
         headers = {'User-Agent': 'okhttp'}
         response = requests.get(jar_url, headers=headers)
-        # if response.status_code == 200:
-        #     content = response.text
-        #     if is_valid_json(content):
-        #         return response.content.decode('utf-8')
-        #     elif "**" in content:
-        #         return base64_decode(content)
-        #     return content
-        # else:
-        #     return None
         with open(jar_name, "wb") as f:
             f.write(response.content)
+        print('jar 成功下载到：', jar_name)
     except requests.exceptions.RequestException as e:
         print(f"请求失败：{e}")
         return None
@@ -165,7 +189,8 @@ def get_jar_from_url(full_jar_url, jar_name):
 # 示例使用
 if __name__ == "__main__":
     cur_dir = os.getcwd()
-    config_file_path = os.path.join(cur_dir, "config\\tvbox.intf.cfg")
+    config_file_path = os.path.join(cur_dir, "intf_config\\tvbox.intf.cfg")
+    latest_jar_folder = os.path.join(cur_dir, "..\\jar\\latest")
     print(config_file_path)
     # 替换为你的配置文件路径 
     # file_path = 'config.txt'  
@@ -175,19 +200,17 @@ if __name__ == "__main__":
     for item in result:
         # print(item)
         name = ''.join(lazy_pinyin(item[0], style=Style.NORMAL))
-        file_name = name + ".json"
+        json_file_name = os.path.join(cur_dir, "intf_json", name + ".json")
         # print(name)
-        url = item[1]
-        print(url)
-        content = get_json_content(url)
+        json_intf_url = item[1]
+        print(json_intf_url)
+        content = get_json_content(json_intf_url)
         # print(content)
-        # safe_json_write(content, file_name)
         if content:
-            safe_json_write(content, file_name)
-        # with open(os.path.join(os.getcwd(), '1'+file_name), "w",encoding='utf-8') as f:
-        #     f.write(json_str_format(content))
+            safe_json_write(content, json_file_name)
 
-        print(file_name)
-        default_jar_url = get_default_jar_url(file_name)
-        print(default_jar_url)
-        get_jar_from_url(default_jar_url, name + '.jar')
+        # download default jar to latest path
+        print(json_file_name)
+        default_jar_url = get_default_jar_url(json_file_name)
+
+        get_jar_from_url(default_jar_url, os.path.join(latest_jar_folder, name + '.jar'))
