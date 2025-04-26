@@ -326,21 +326,21 @@ if __name__ == "__main__":
         # print(item)
         intf_name = ''.join(lazy_pinyin(item[0], style=Style.NORMAL))
         json_file_name = os.path.join(cur_dir, "intf_json", intf_name + ".json")
-        #
-        # json_intf_url = item[1]
-        # print(json_intf_url)
-        # content = get_json_content(json_intf_url)
-        # # print(content)
-        # if content:
-        #     safe_json_write(content, json_file_name)
-        #
-        # # download default jar to latest path
-        # print(json_file_name)
-        # default_jar_url = get_default_jar_url(json_file_name)
-        # get_jar_from_url(default_jar_url, os.path.join(latest_jar_folder, intf_name + '.jar'))
-        #
 
-        # save to csv
-        sites_csv_file_path = os.path.join(cur_dir, "intf_csv\\merged_sites_intf.csv")
-        lives_csv_file_path = os.path.join(cur_dir, "intf_csv\\merged_lives_intf.csv")
-        parse_json_to_sites_csv(intf_name, json_file_name, sites_csv_file_path)
+        json_intf_url = item[1]
+        print(json_intf_url)
+        content = get_json_content(json_intf_url)
+        # print(content)
+        if content:
+            safe_json_write(content, json_file_name)
+
+        # download default jar to latest path
+        print(json_file_name)
+        default_jar_url = get_default_jar_url(json_file_name)
+        get_jar_from_url(default_jar_url, os.path.join(latest_jar_folder, intf_name + '.jar'))
+        #
+        #
+        # # save to csv
+        # sites_csv_file_path = os.path.join(cur_dir, "intf_csv\\merged_sites_intf.csv")
+        # lives_csv_file_path = os.path.join(cur_dir, "intf_csv\\merged_lives_intf.csv")
+        # parse_json_to_sites_csv(intf_name, json_file_name, sites_csv_file_path)
