@@ -16,7 +16,7 @@
         },
         {
             "key": "戏曲",
-            "name": "🎪戏曲大全",
+            "name": "🅱🎪戏曲大全",
             "type": 3,
             "searchable": 0,
             "quickSearch": 1,
@@ -30,7 +30,7 @@
         },
         {
             "key": "相声小品",
-            "name": "🎭相声小品",
+            "name": "🅱🎭相声小品",
             "type": 3,
             "searchable": 0,
             "quickSearch": 1,
@@ -44,7 +44,7 @@
         },
         {
             "key": "纪录片",
-            "name": "📹纪录片",
+            "name": "🅱📹纪录片",
             "type": 3,
             "searchable": 0,
             "quickSearch": 1,
@@ -58,7 +58,7 @@
         },
         {
             "key": "舞蹈健身",
-            "name": "💃舞蹈健身",
+            "name": "🅱💃舞蹈健身",
             "type": 3,
             "searchable": 0,
             "quickSearch": 1,
@@ -72,7 +72,7 @@
         },
         {
             "key": "食谱",
-            "name": "🥙美食秘笈",
+            "name": "🅱🥙美食秘笈",
             "type": 3,
             "searchable": 0,
             "quickSearch": 1,
@@ -83,6 +83,19 @@
                 "ratio": 1.597
             },
             "api": "https://gitee.com/luckyflower01/tvjson/raw/src/js/%E7%BE%8E%E9%A3%9F%E7%A7%98%E7%AC%88.js"
+        },
+                {
+            "key": "Bili",
+            "name": "🅱哔哔┃合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
         },
         {
             "key": "FirstAid",
@@ -99,7 +112,7 @@
         },
         {
             "key": "自学教程",
-            "name": "📋自学教程",
+            "name": "🅱📋自学教程",
             "type": 3,
             "searchable": 0,
             "quickSearch": 1,
@@ -126,7 +139,7 @@
         },
         {
             "key": "少儿教育",
-            "name": "📚少儿┃教育",
+            "name": "🅱📚少儿┃教育",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -139,7 +152,7 @@
         },
         {
             "key": "小学课堂",
-            "name": "📚小学┃课堂",
+            "name": "🅱📚小学┃课堂",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -152,7 +165,7 @@
         },
         {
             "key": "初中课堂",
-            "name": "📚初中┃课堂",
+            "name": "🅱📚初中┃课堂",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -165,7 +178,7 @@
         },
         {
             "key": "高中教育",
-            "name": "📚高中┃课堂",
+            "name": "🅱📚高中┃课堂",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -177,34 +190,6 @@
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
         },
         {
-            "key": "哔哩哔哩",
-            "name": "🅱哔哩┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": {
-                "json": "https://tv.菜妮丝.top/json/bili.json",
-                "type": "帕梅拉#太极拳#广场舞#演唱会",
-                "cookie": ""
-            },
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
-        },
-        {
-            "key": "csp_戏曲",
-            "name": "🅱哔哩┃戏曲",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "https://tv.菜妮丝.top/json/哔哩哔哩戏曲.json"
-        },
-        {
             "key": "演唱会",
             "name": "🅱哔哩┃音乐",
             "type": 3,
@@ -212,19 +197,6 @@
             "searchable": 0,
             "changeable": 0,
             "ext": "https://tv.菜妮丝.top/json/哔哩哔哩音乐.json"
-        },
-        {
-            "key": "Bili",
-            "name": "🅱哔哔┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
         },
 
         {
@@ -252,7 +224,6 @@
             },
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js"
         },
-
         {
             "key": "企鹅xp",
             "name": "🐧鹅鹅┃体育",
@@ -299,10 +270,9 @@
             "changeable": 0,
             "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
         },
-
         {
             "key": "MTV",
-            "name": "🎧明星┃MV",
+            "name": "🅱🎧明星┃MV",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -313,7 +283,6 @@
             },
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
         },
-
         {
             "key": "异界",
             "name": "异界┃动漫",
@@ -356,7 +325,6 @@
             "searchable": 1,
             "changeable": 1
         },
-
         {
             "key": "新6V",
             "name": "新6V┃磁力",
@@ -366,8 +334,6 @@
             "changeable": 0,
             "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
         },
-      
-       
         {
             "key": "低端",
             "name": "低端┃影视",
@@ -376,7 +342,6 @@
             "searchable": 1,
             "changeable": 1
         },
-        
         {
             "key": "Lib",
             "name": "立播┃影视",
@@ -389,7 +354,6 @@
                 "from": "4k|auto"
             }
         },
-       
         {
             "key": "文采",
             "name": "文采┃影视",
@@ -415,16 +379,6 @@
             "type": 3,
             "searchable": 1,
             "changeable": 1
-        },
-       
-        {
-            "key": "南瓜",
-            "name": "南瓜┃影视",
-            "type": 3,
-            "api": "csp_NanGua",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 15
         },
         {
             "key": "玩偶",
