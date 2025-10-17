@@ -8,8 +8,7 @@ let searchable=0;
 const PC_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.361";
 // let cookie = "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"; // 可更换成自己的cookie
 // let cookie = "https://agit.ai/cacifer/xyz/raw/branch/master/main/cookie.txt"; // 可更换成自己的cookie
-let cookie = "https://gitee.com/luckyflower01/tvjson/raw/src/cookies/my.bilibili.cookie.txt"
-
+let cookie = "innersign=0;buvid3=2E536ADC-CD6D-46AB-A9FF-904395151EE369713infoc;b_nut=1669016569;i-wanna-go-back=-1;b_ut=7;_uuid=761F7F106-C575-884D-6C10A-92BC10A10D10FBC68934infoc;buvid4=5B25B999-AE15-E09A-A0CC-3661981B71BF70255-122112115-JOyWSaNZfI2kZmT1KYmcQA%3D%3D;fingerprint=6d9ef93c89a567d22b6a9c4104e6cc50;buvid_fp_plain=undefined;buvid_fp=6d9ef93c89a567d22b6a9c4104e6cc50;SESSDATA=2d6f63c8%2C1684568607%2C19eb6%2Ab1;bili_jct=21d538b01566c26afc81ff68c2ac7dca;DedeUserID=3493083203242585;DedeUserID__ckMd5=7b86f3894ed7f8c0;sid=ng0uyvaz;b_lsid=97FB69A2_1869DE8E2C5;bg_view_44176=720227"
 async function request(reqUrl) {
   const res = await req(reqUrl, {
       headers: getMb(),
