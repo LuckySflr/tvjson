@@ -1,8 +1,5 @@
 {
-    "菜妮丝": "https://菜妮丝.top",
-    "友情提醒": "接口完全免费，切勿付费购买。",
     "spider": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fty0729.jar;md5;71d846866f2ceb9666ba114e5963983f",
-    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
             "key": "豆瓣",
@@ -84,7 +81,7 @@
             },
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/src/js/%E7%BE%8E%E9%A3%9F%E7%A7%98%E7%AC%88.js"
         },
-                {
+        {
             "key": "Bili",
             "name": "🅱哔哔┃合集",
             "type": 3,
@@ -198,7 +195,6 @@
             "changeable": 0,
             "ext": "https://tv.菜妮丝.top/json/哔哩哔哩音乐.json"
         },
-
         {
             "key": "斗鱼js",
             "name": "🐟斗鱼┃直播",
@@ -621,14 +617,6 @@
             "searchable": 0,
             "changeable": 0,
             "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
-        },
-        {
-            "key": "说明1",
-            "name": "https://tv.菜妮丝.top",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "changeable": 0
         }
     ],
     "parses": [
@@ -911,17 +899,69 @@
     ],
     "lives": [
         {
+            "name": "live",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://6296.kstore.vip/25.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "from": "feimao"
+        },
+        {
+            "name": "V4-develop202",
+            "type": 0,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "playerType": 2,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "from": "fantaiying"
+        },
+        {
+            "name": "V6-范明明（需开启V6网络）",
+            "type": 0,
+            "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
+            "playerType": 2,
+            "from": "fantaiying"
+        },
+        {
+            "name": "虎牙一起看",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.4.0.0",
+            "from": "fantaiying"
+        },
+        {
+            "name": "斗鱼一起看",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.4.0.0",
+            "from": "fantaiying"
+        },
+        {
+            "name": "B站直播",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/bililive.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.4.0.0",
+            "from": "fantaiying"
+        },
+        {
+            "name": "YY轮播",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.4.0.0",
+            "from": "fantaiying"
+        },
+        {
             "name": "ipv4",
             "type": 0,
             "url": "https://wget.la/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
-            "playerType": 2,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
-        },
-        {
-            "name": "ipv6",
-            "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -946,25 +986,6 @@
             "name": "16万•MV",
             "type": 0,
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"
-        },
-        {
-            "name": "牛播一（仅新版影视仓/ok影视)",
-            "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
-            "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png"
-        },
-        {
-            "name": "测试",
-            "type": 0,
-            "url": "https://gitee.com/luckyflower01/tvjson/raw/dev/tvlive/ok321.tvlive.txt",
-            "playerType": 2,
-            "timeout": 10,
-            "catchup": {
-                "type": "append",
-                "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
         }
     ]
 }
