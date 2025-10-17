@@ -907,6 +907,14 @@
             "from": "fantaiying"
         },
         {
+            "name": "MIGU",
+            "type": 0,
+            "url": "https://fy.188766.xyz/?ip=&mishitong=true&mima=mianfeidehaimaiqian&json=true",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "bingcha/1.1"
+        },
+        {
             "name": "V6-范明明（需开启V6网络）",
             "type": 0,
             "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
