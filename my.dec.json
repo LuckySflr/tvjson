@@ -2,6 +2,16 @@
     "spider": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fty0729.jar;md5;71d846866f2ceb9666ba114e5963983f",
     "sites": [
         {
+            "key": "豆瓣",
+            "name": "🎬豆瓣┃影视分类推荐",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+            "changeable": 1,
+            "ext": "https://gitee.com/luckyflower01/tvjson/raw/src/json/douban.json",
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
+        },
+        {
             "key": "Bili",
             "name": "🅱哔哔┃视频分类合集",
             "type": 3,
@@ -13,16 +23,6 @@
                 "ratio": 1.597
             },
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
-        },
-        {
-            "key": "豆瓣",
-            "name": "🎬豆瓣┃影视分类推荐",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0,
-            "changeable": 1,
-            "ext": "https://gitee.com/luckyflower01/tvjson/raw/src/json/douban.json",
-            "jar": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
         },
         {
             "key": "戏曲",
