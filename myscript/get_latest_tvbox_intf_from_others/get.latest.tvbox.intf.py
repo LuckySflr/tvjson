@@ -7,7 +7,7 @@ import json
 import csv
 from pypinyin import lazy_pinyin, Style
 from urllib.parse import urlparse, urlunparse
-
+from datetime import date 
 
 def get_base_dir_url(url):
     # 解析URL
@@ -312,9 +312,15 @@ def parse_json_to_sites_csv(intf_name, json_file, csv_file):
 
 # 示例使用
 if __name__ == "__main__":
+    today = date.today() 
+    date_str = today.strftime("%Y%m%d")
+    print("today.str:", date_str) 
+    
     cur_dir = os.getcwd()
-    config_file_path = os.path.join(cur_dir, "intf_config\\tvbox.intf.cfg")
-    latest_jar_folder = os.path.join(cur_dir, "..\\jar\\latest")
+    config_file_path = os.path.join(cur_dir, ".\\intf_config\\tvbox.intf.cfg")
+    latest_jar_folder = os.path.join(cur_dir, ".\\intf_spider_jar\\" + date_str)
+    if not os.path.exists(latest_jar_folder): 
+        os.makedirs(latest_jar_folder)   # 递归创建目录（包括父目录）
 
     print(config_file_path)
     # 替换为你的配置文件路径 
@@ -325,7 +331,7 @@ if __name__ == "__main__":
     for item in result:
         # print(item)
         intf_name = ''.join(lazy_pinyin(item[0], style=Style.NORMAL))
-        json_file_name = os.path.join(cur_dir, "intf_json", intf_name + ".json")
+        json_file_name = os.path.join(cur_dir, ".\\intf_json", intf_name + "." + date_str + ".json")
 
         json_intf_url = item[1]
         print(json_intf_url)
@@ -338,6 +344,7 @@ if __name__ == "__main__":
         print(json_file_name)
         default_jar_url = get_default_jar_url(json_file_name)
         get_jar_from_url(default_jar_url, os.path.join(latest_jar_folder, intf_name + '.jar'))
+        print("\n----------------------------\n")
         #
         #
         # # save to csv

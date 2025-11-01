@@ -1,5 +1,5 @@
 {
-    "spider": "https://tv.203511.xyz/jar/custom_spider.jar;md5;eaaa2de0f1e4946be155e3130ef4fdf3",
+    "spider": "https://tv.203511.xyz/jar/custom_spider.jar;md5;f26beb81517406a66100b90f6927377a",
     "logo": "https://avatars.githubusercontent.com/u/58679624?v=4",
     "lives": [
         {
@@ -54,15 +54,6 @@
     ],
     "wallpaper": "https://bing.img.run/uhd.php",
     "sites": [
-        {
-            "key": "荐片",
-            "name": "🏆荐片(SP)",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
         {
             "key": "drpy_js_360影视",
             "name": "🥇官源┃360[js]",
@@ -255,24 +246,6 @@
             ]
         },
         {
-            "key": "影图资源",
-            "name": "🐅影图资源",
-            "type": 1,
-            "api": "https://api.yzzy-api.com/inc/apijson.php?ac=list",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "0"
-        },
-        {
-            "key": "优质资源",
-            "name": "🐶优质资源",
-            "type": 1,
-            "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "0"
-        },
-        {
             "key": "lf_js_lf_live",
             "name": "🥏电视┃直播",
             "type": 3,
@@ -418,6 +391,46 @@
             "api": "https://tv.203511.xyz/lib/drpy2.min.js",
             "changeable": 0,
             "ext": "https://tv.203511.xyz/js/DJ音乐.js"
+        },
+        {
+            "key": "小苹果弹幕版",
+            "name": "🍎苹果┃弹幕",
+            "type": 3,
+            "api": "csp_XpgGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10
+        },
+        {
+            "key": "荐片弹幕版",
+            "name": "⚔️荐片┃手机",
+            "type": 3,
+            "api": "csp_JianpianGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10
+        },
+        {
+            "key": "配置中心",
+            "name": "👨‍🍳‍配置┃中心",
+            "type": 3,
+            "api": "csp_ConfigGuard",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.43
+            }
         },
         {
             "key": "cc",
