@@ -58,7 +58,7 @@ if __name__ == '__main__':
         src_date = get_src_date_from_json_file_path(file)
         spider_jar_path = os.path.join(cur_dir, ".\\intf_spider_jar\\" + src_date + "\\" + src_from + ".jar")
         spider_jar_md5 = file_to_md5(spider_jar_path)
-        http_jar_path = github_repo_path + "myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/" + src_date + src_from + '.jar'
+        http_jar_path = github_repo_path + "myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/" + src_date + '/' + src_from + '.jar'
         http_jar_path += ';md5;' + str(spider_jar_md5)
 
         target_field = 'sites'
