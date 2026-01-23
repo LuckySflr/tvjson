@@ -83,6 +83,76 @@
             }
         },
         {
+            "key": "戏曲",
+            "name": "🅱🎪戏曲大全",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "api": "https://gitee.com/luckyflower01/tvjson/raw/src/js/%E6%88%8F%E6%9B%B2%E5%A4%A7%E5%85%A8.js"
+        },
+        {
+            "key": "相声小品",
+            "name": "🅱🎭相声小品",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "api": "https://gitee.com/luckyflower01/tvjson/raw/src/js/%E7%9B%B8%E5%A3%B0%E5%B0%8F%E5%93%81.js"
+        },
+        {
+            "key": "纪录片",
+            "name": "🅱📹纪录片",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "api": "https://gitee.com/luckyflower01/tvjson/raw/src/js/%E7%BA%AA%E5%BD%95%E7%89%87.js"
+        },
+        {
+            "key": "舞蹈健身",
+            "name": "🅱💃舞蹈健身",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "api": "https://gitee.com/luckyflower01/tvjson/raw/src/js/%E8%88%9E%E8%B9%88%E5%81%A5%E8%BA%AB.js"
+        },
+        {
+            "key": "食谱",
+            "name": "🅱🥙美食秘笈",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/src/js/%E7%BE%8E%E9%A3%9F%E7%A7%98%E7%AC%88.js"
+        },
+        {
             "key": "厂长",
             "name": "📔厂长┃秒播",
             "type": 3,
