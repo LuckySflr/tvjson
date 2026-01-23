@@ -1,7 +1,7 @@
 {
     "菜妮丝": "https://菜妮丝.top",
     "友情提醒": "接口完全免费，切勿付费购买。",
-    "spider": "https://tv.菜妮丝.top/jar/fty0731.jar;md5;2452e3a72453e1e2305e9b66eae38fe5",
+    "spider": "https://tv.菜妮丝.top/jar/fty1228.jar;md5;9b3e327c02439fe4e1d6223beca9ed17",
     "logo": "https://q2.qlogo.cn/headimg_dl?dst_uin=524187805&spec=100",
     "wallpaper": "https://api.hanximeng.com/ranimg/?size=m",
     "sites": [
@@ -17,12 +17,10 @@
             "key": "荐片",
             "name": "荐片┃P2P",
             "type": 3,
-            "api": "csp_Jianpian",
+            "api": "csp_JPJGuard",
             "searchable": 1,
             "changeable": 1,
-            "timeout": 15,
-            "ext": "https://tv.菜妮丝.top/json/jianpian.json",
-            "jar": "https://tv.菜妮丝.top/jar/fm1022.jar;md5;bc0b643f8920201b9d08f2e605f51acd"
+            "timeout": 10
         },
         {
             "key": "Local",
@@ -31,7 +29,7 @@
             "api": "csp_Local",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://tv.菜妮丝.top/jar/fm1022.jar;md5;bc0b643f8920201b9d08f2e605f51acd"
+            "jar": "https://tv.菜妮丝.top/jar/fm1228.jar;md5;a747194acf234c9e3f8e102fdc902970"
         },
         {
             "key": "白白",
@@ -495,7 +493,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://tv.菜妮丝.top/jar/fm1022.jar;md5;bc0b643f8920201b9d08f2e605f51acd"
+            "jar": "https://tv.菜妮丝.top/jar/fm1228.jar;md5;a747194acf234c9e3f8e102fdc902970"
         },
         {
             "key": "公告",

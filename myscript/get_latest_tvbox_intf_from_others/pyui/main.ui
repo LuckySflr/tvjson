@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1911</width>
-    <height>931</height>
+    <width>1905</width>
+    <height>910</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -19,40 +19,40 @@
      <rect>
       <x>60</x>
       <y>110</y>
-      <width>431</width>
-      <height>651</height>
+      <width>661</width>
+      <height>611</height>
      </rect>
     </property>
    </widget>
    <widget class="QTextBrowser" name="dst_json_txt">
     <property name="geometry">
      <rect>
-      <x>690</x>
-      <y>110</y>
-      <width>501</width>
-      <height>651</height>
+      <x>900</x>
+      <y>120</y>
+      <width>761</width>
+      <height>611</height>
      </rect>
     </property>
    </widget>
    <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
-      <x>520</x>
-      <y>600</y>
+      <x>730</x>
+      <y>610</y>
       <width>111</width>
       <height>54</height>
      </rect>
     </property>
     <layout class="QVBoxLayout" name="verticalLayout_6">
      <item>
-      <widget class="QPushButton" name="move_path_btn">
+      <widget class="QPushButton" name="move_page_btn">
        <property name="text">
         <string>move this page</string>
        </property>
       </widget>
      </item>
      <item>
-      <widget class="QPushButton" name="drop_path_btn">
+      <widget class="QPushButton" name="drop_page_btn">
        <property name="text">
         <string>drop this page</string>
        </property>
@@ -63,8 +63,8 @@
    <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
-      <x>540</x>
-      <y>170</y>
+      <x>750</x>
+      <y>180</y>
       <width>79</width>
       <height>392</height>
      </rect>
@@ -237,8 +237,8 @@
    <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
-      <x>690</x>
-      <y>80</y>
+      <x>900</x>
+      <y>90</y>
       <width>212</width>
       <height>25</height>
      </rect>
@@ -270,20 +270,13 @@
    <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
-      <x>700</x>
-      <y>780</y>
+      <x>900</x>
+      <y>770</y>
       <width>251</width>
       <height>25</height>
      </rect>
     </property>
     <layout class="QHBoxLayout" name="horizontalLayout_4">
-     <item>
-      <widget class="QLabel" name="dst_src_page_lable">
-       <property name="text">
-        <string>共计几页，第几页</string>
-       </property>
-      </widget>
-     </item>
      <item>
       <widget class="QPushButton" name="dst_page_jump_btn">
        <property name="text">
@@ -303,7 +296,7 @@
    <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
-      <x>700</x>
+      <x>900</x>
       <y>810</y>
       <width>158</width>
       <height>54</height>
@@ -343,8 +336,93 @@
    <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
-      <x>70</x>
-      <y>810</y>
+      <x>60</x>
+      <y>80</y>
+      <width>212</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_6">
+     <item>
+      <widget class="QLabel" name="src_json_lable">
+       <property name="text">
+        <string>src json</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="src_json_clear_btn">
+       <property name="text">
+        <string>clear</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="src_json_load_btn">
+       <property name="text">
+        <string>load</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QLabel" name="src_page_lable">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>730</y>
+      <width>281</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>共0页，第0页</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="dst_page_lable">
+    <property name="geometry">
+     <rect>
+      <x>900</x>
+      <y>740</y>
+      <width>249</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>共0页，第0页</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>760</y>
+      <width>232</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_5">
+     <item>
+      <widget class="QPushButton" name="src_page_jump_btn">
+       <property name="text">
+        <string>跳转到指定页：</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="src_page_jump_txt">
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>790</y>
       <width>158</width>
       <height>54</height>
      </rect>
@@ -380,79 +458,13 @@
      </item>
     </layout>
    </widget>
-   <widget class="QWidget" name="layoutWidget">
-    <property name="geometry">
-     <rect>
-      <x>70</x>
-      <y>780</y>
-      <width>251</width>
-      <height>25</height>
-     </rect>
-    </property>
-    <layout class="QHBoxLayout" name="horizontalLayout_5">
-     <item>
-      <widget class="QLabel" name="src_txt_page_lable">
-       <property name="text">
-        <string>共计几页，第几页</string>
-       </property>
-      </widget>
-     </item>
-     <item>
-      <widget class="QPushButton" name="src_pagge_jump_btn">
-       <property name="text">
-        <string>跳转到指定页：</string>
-       </property>
-      </widget>
-     </item>
-     <item>
-      <widget class="QLineEdit" name="src_page_jump_txt">
-       <property name="text">
-        <string/>
-       </property>
-      </widget>
-     </item>
-    </layout>
-   </widget>
-   <widget class="QWidget" name="layoutWidget">
-    <property name="geometry">
-     <rect>
-      <x>60</x>
-      <y>80</y>
-      <width>212</width>
-      <height>25</height>
-     </rect>
-    </property>
-    <layout class="QHBoxLayout" name="horizontalLayout_6">
-     <item>
-      <widget class="QLabel" name="src_json_lable">
-       <property name="text">
-        <string>src json</string>
-       </property>
-      </widget>
-     </item>
-     <item>
-      <widget class="QPushButton" name="src_json_clear_btn">
-       <property name="text">
-        <string>clear</string>
-       </property>
-      </widget>
-     </item>
-     <item>
-      <widget class="QPushButton" name="src_json_load_btn">
-       <property name="text">
-        <string>load</string>
-       </property>
-      </widget>
-     </item>
-    </layout>
-   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1911</width>
+     <width>1905</width>
      <height>22</height>
     </rect>
    </property>
