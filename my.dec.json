@@ -59,6 +59,22 @@
             "hide": 1
         },
         {
+            "key": "Bili",
+            "name": "🅱哔哔合集┃弹幕",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
+            }
+        },
+        {
             "key": "纪录片",
             "name": "🅱📹纪录片",
             "type": 3,
@@ -127,22 +143,6 @@
                 "ratio": 1.597
             },
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/src/js/%E7%BE%8E%E9%A3%9F%E7%A7%98%E7%AC%88.js"
-        },
-        {
-            "key": "Bili",
-            "name": "🅱哔哔合集┃弹幕",
-            "type": 3,
-            "api": "csp_BiliGuard",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
-            }
         },
         {
             "key": "厂长",
