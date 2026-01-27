@@ -341,7 +341,8 @@
             "changeable": 0,
             "style": {
                 "type": "list"
-            }
+            },
+            "hide": 1
         },
         {
             "key": "超全",
@@ -354,7 +355,8 @@
             "style": {
                 "type": "list"
             },
-            "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
+            "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q==",
+            "hide": 1
         },
         {
             "key": "看球",
@@ -366,7 +368,8 @@
             "changeable": 0,
             "style": {
                 "type": "list"
-            }
+            },
+            "hide": 1
         },
         {
             "key": "MTV",
