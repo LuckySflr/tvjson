@@ -411,7 +411,8 @@
             },
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0
+            "changeable": 0,
+            "hide": 1
         },
         {
             "key": "Aid",
@@ -440,7 +441,8 @@
             "playerType": "2",
             "searchable": 1,
             "quickSearch": 0,
-            "changeable": 0
+            "changeable": 0,
+            "hide": 1
         },
         {
             "key": "斗鱼js",
@@ -456,7 +458,8 @@
             "playerType": "2",
             "searchable": 1,
             "quickSearch": 0,
-            "changeable": 0
+            "changeable": 0,
+            "hide": 1
         },
         {
             "key": "dr_兔小贝",
@@ -486,7 +489,8 @@
             "changeable": 0,
             "ext": {
                 "json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"
-            }
+            },
+            "hide": 1
         },
         {
             "key": "小学课堂",
@@ -502,7 +506,8 @@
             "changeable": 0,
             "ext": {
                 "json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
-            }
+            },
+            "hide": 1
         },
         {
             "key": "初中课堂",
@@ -518,7 +523,8 @@
             "changeable": 0,
             "ext": {
                 "json": "https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"
-            }
+            },
+            "hide": 1
         },
         {
             "key": "高中教育",
@@ -534,7 +540,8 @@
             "changeable": 0,
             "ext": {
                 "json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
-            }
+            },
+            "hide": 1
         },
         {
             "key": "MDrive",
