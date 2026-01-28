@@ -1,5 +1,5 @@
 {
-    "spider": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
+    "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
     "sites": [
         {
             "key": "豆瓣",
@@ -56,6 +56,60 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0=",
+            "hide": 1
+        },
+        {
+            "key": "玩偶",
+            "name": "👽玩偶哥哥┃4K弹幕",
+            "type": 3,
+            "api": "csp_WoGGGuard",
+            "timeout": 30,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "cookie": "_UP_28A_52_=532;_UP_BT_=;_UP_F7E_8D_=zctTumTckI%2FkwdKrPoujPEPwKLOVbxJPcg0RzQPI6KmBtV6ZMgPh38l93pgubgHDQqhaZ2Sfc0qv%2BRantbfg1mWGAUpRMP4RqXP78Wvu%2FCfvkWWGc5NhCTV71tGOIGgDBR3%2Bu6%2Fjj46kcSKrLPNX7dvqW%2BVak95xdjkhOclrgipqYAbrjqRo9YuUE9%2Fs5crD3y6OFixJyTolNVWbuA7cEaAINyd%2BnUvWo9ZvT9tODUHTX%2BTcqN5XbcOk1ra3INMiXbnEFWx%2Fk%2BcjOk0NMklkPPJhcjIY9laLkPvhSjPtLS9YIGPd1Sag%2FoLmdhpsOV%2F1VxufgE6%2FXhCsSL5OwizVU2TxvjF8lUdBo8aG5K1wGd3iDExO0cma7g%3D%3D;_UP_6D1_64_=069;_UP_RI_=wb9ce1baca5c4fef995d00cd2bb70fe0;_UP_A4A_11_=wb9ce138bad3483883bfd55142a7e954;_UP_D_=pc;ctoken=E8qwntcFuqoAqc2S5qrLf43Y;__pus=6fcb2d0fed42e0462047f32dad70bac5AATa03DvKnpGP78O+GZGGRK1+FMy/2jxM0ms2olqRa0hXMnyFhbZXweaWnu6G3C7gO6RCGoQiroTBYmD9JXXKq7A;__kp=0de5f050-b33f-11f0-82c7-353b85268ee1;__kps=AARZeabSn0De5RWnKR6oBV9u;__ktd=HaSCCFxFHYG5XmiV9biWiw==;__uid=AARZeabSn0De5RWnKR6oBV9u;__puus=7cd641ccb7fda44a2564861269bfdf8cAAQ9KcfOR+UcnAwctLb4uF35LvdiHxB6BxsF7NSNma6JL0sCfIGnUYFoC86+C0iGCv5GrsdKLt4abs071SlcYmonOgc6l1NfXWLhNhGXG5SYjHi6kZfSLRIAEs8XvWFOoCwMhP7ot6vRFUyFpvuEtTUC1vyLYRYln0QwXK0RCZUpuQ8Cz/LR469UWYoj4aRsQ4iJFZdSOrDVC4nnkk/zIXFd;",
+                "uccookie": "_UP_28A_52_=381;_UP_BT_=;_UP_F7E_8D_=zctTumTckI%2FkwdKrPoujPEPwKLOVbxJPcg0RzQPI6KmBtV6ZMgPh38l93pgubgHDQqhaZ2Sfc0qv%2BRantbfg1mWGAUpRMP4RqXP78Wvu%2FCfvkWWGc5NhCTV71tGOIGgDBR3%2Bu6%2Fjj46kcSKrLPNX7WbC6JfrxwfudjkhOclrgipqYAbrjqRo9YuUE9%2Fs5crD3y6OFixJyTolNVWbuA7cEaAINyd%2BnUvWo9ZvT9tODUHTX%2BTcqN5XbcOk1ra3INMiXbnEFWx%2Fk%2BcjOk0NMklkPPJhcjIY9laLkPvhSjPtLS9YIGPd1Sag%2FuE3CCjybdDCxuPScBeP5SmsSL5OwizVU2TxvjF8lUdBo8aG5K1wGd3iDExO0cma7g%3D%3D;_UP_6D1_64_=069;_UP_A4A_11_=wb9ce1082312409d9e3f091c9e9e36fc;_UP_D_=pc;ctoken=i0Rbw5UsZ8Vp42Xu-o4_Q_tY;__pus=34dfadd15d8fa044aac2e185ae4f8f21AARLJQfYuCY9rW9WTnOor5IkMtH/7jJrCki3RAVBtMg9AT0EWiIHKKEL0zdj3rx8JiZF75PfdOJfT/J+ih9C5l45;__kp=4bb9c4f0-b340-11f0-b8c7-078e56ba7d99;__kps=AARleCp6a4I0rl0Wh0A1I3uC;__ktd=1HYkAimwrEkv5njq4Bj43A==;__uid=AARleCp6a4I0rl0Wh0A1I3uC;UDRIVE_TRANSFER_SESS=CN5CChkP8V4GaLZ16DfhqFt6Ue-HJHV4TbW4yGH3hvhgu1I7iMlb6fH_eATBUdtfI1-3vKGuzV3syPqLPwVdOu35WhXkTJUN03dRvAHIIL9FGMXa4Y612_NNuGBMAenD5eFd0aAs5GlTApArZa3OvkvJkUnJPVYNGHw9xFJvM9Pj_blt-GoMDKarwL6QTgGf;__puus=292b826051ccb11c12064d50b86d0b71AASNi2IdPQZw5JKQU2eDssCsb37TH8hLZj0ARWmAl2W4Dedr6wbehxIv86BEuDhsJamjeb0wOBAm1bimFzzmjvQnPMw1sj09V4PiQR4Ni/hJ7PKQ4Iz3WqOOi4lix4ViIEh+93DYoyyiIz9OWStzEndUareuBOww4hRl+Agmdakg8Ckupi5PxbiA2lEXhtcFOOg=;",
+                "uctoken": "eyJhbGciOiJIUzI1NiIsIlR5cGUiOiJKd3QiLCJ0eXAiOiJKV1QifQ.eyJvcGVuSWQiOiJjZGUwZmNkYWMyZGI0MzFjOTA2NmM3YmQ5ZTAzNDU0NCIsImV4cCI6MTc2OTc3NzU4NiwidG9rZW4iOiJmNzYyNDEyOTJiNGU0YTU1YmE4ZWNmZTZhOGY5MDU5MyJ9.9BmlkKNqUDIVcrkKdh5DUdYHXDA46vZMjDoH83rHdqU"
+            },
+            "hide": 1
+        },
+        {
+            "key": "潮流",
+            "name": "🏜┃潮流┃APP",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "ext": "http://v.rbotv.cn",
+            "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260128/feimao.jar;md5;eadaaee8e25f5d590dc4f40488207d0d",
+            "hide": 1
+        },
+        {
+            "key": "再来",
+            "name": "✌️┃再来┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://www.jumengwu.com|1f0a873caf2550a5",
+            "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260128/feimao.jar;md5;eadaaee8e25f5d590dc4f40488207d0d",
+            "hide": 1
+        },
+        {
+            "key": "一碗",
+            "name": "🥣┃一碗┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://dy.8ttv.cn|1111111111111111",
+            "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260128/feimao.jar;md5;eadaaee8e25f5d590dc4f40488207d0d",
+            "hide": 1
+        },
+        {
+            "key": "荐片",
+            "name": "🎬┃荐片┃影视",
+            "api": "csp_Jianpian",
+            "type": 3,
+            "playerType": "2",
+            "ext": "https://ev2089.zxbwv.com",
+            "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260128/feimao.jar;md5;eadaaee8e25f5d590dc4f40488207d0d",
             "hide": 1
         },
         {
