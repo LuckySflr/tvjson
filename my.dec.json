@@ -284,7 +284,7 @@
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
+            "changeable": 0,
             "hide": 1
         },
         {
