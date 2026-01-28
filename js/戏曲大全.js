@@ -6,7 +6,7 @@ let siteKey = '';
 let siteType = 0;
 let searchable=0;
 const PC_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.361";
-let cookie = "https://gitee.com/luckyflower01/tvjson/raw/src/cookies/my.bilibili.cookie.txt"
+let cookie = "https://gh-proxy.org/https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/src/cookies/my.bilibili.cookie.txt"
 
 async function request(reqUrl) {
   const res = await req(reqUrl, {
