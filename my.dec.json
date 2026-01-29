@@ -21,6 +21,7 @@
             "changeable": 1,
             "timeout": 40,
             "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0=",
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "hide": 1
         },
         {
@@ -33,6 +34,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1oiM=",
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "hide": 1
         },
         {
@@ -47,6 +49,7 @@
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt"
             },
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "hide": 1
         },
         {
@@ -58,6 +61,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "hide": 1
         },
         {
@@ -71,6 +75,7 @@
             },
             "searchable": 1,
             "quickSearch": 0,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "changeable": 0,
             "ext": {
                 "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
@@ -154,6 +159,7 @@
             "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "changeable": 1,
             "hide": 1
         },
@@ -166,6 +172,7 @@
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "changeable": 1,
             "hide": 1
         },
@@ -178,6 +185,7 @@
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "changeable": 1,
             "hide": 1
         },
@@ -189,6 +197,7 @@
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "changeable": 1,
             "hide": 1
         },
@@ -200,6 +209,7 @@
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "changeable": 1,
             "hide": 1
         },
@@ -213,6 +223,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "ext": "uqGL1bNENExT7/hGxpSE5qU=",
             "hide": 1
         },
@@ -225,6 +236,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "ext": "rfOX1voDIQhH8epBwtCFsub1+mmfmIi0nGlgK8i7X0oYLxBVvSwnsuM5MLkOhoI/4z/TJMVFz2ow52AyXL42Edzeou/SGHg=",
             "hide": 1
         },
@@ -237,6 +249,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "ext": "rfOX1voDIQhH8epBwpmIsuSspW+fnt3j0Gkxas3qVQ5bZRBVvSwnsuM5MOJ0isFT7Xq5Kctln34euXsyXL42Edzeou/SGHg=",
             "hide": 1
         },
@@ -249,6 +262,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZwM/jwik9Zoy3AAlFMxpf9CY77fshJ+II0I4x7mOKd5IWnT40uC1p",
             "hide": 1
         },
@@ -261,6 +275,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+TXC3NH30m85MMiyVkwSIgNArXpwrLZwJOlInMRrq2qCb88RxXck6mdnBfx+E9mVr+/WQHKnXOuf1rT3CHH2zSEDJ0lM/ZH/GF+kFMAPQfAluHgdCEy1QqmjhV0=",
             "hide": 1
         },
@@ -273,6 +288,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+S/Cz8j6xik9ZIrwCw8aZkEOtiQw5qNif+ZRw904uGiCZNFRz3ln6nh5Q+wpBsGA6aydW3fmWrXH1ve0HjKxzV5kNEdcrI7mT1i2DMtcTIh17XhLS0D2Cr6rghboDg==",
             "hide": 1
         },
@@ -339,6 +355,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "hide": 1
         },
         {
@@ -351,6 +368,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.xb6v.com/",
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "hide": 1
         },
         {
@@ -590,6 +608,7 @@
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "changeable": 1
         },
         {
@@ -600,6 +619,7 @@
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "changeable": 1
         },
         {
@@ -613,6 +633,7 @@
             "style": {
                 "type": "list"
             },
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "hide": 1
         },
         {
@@ -627,6 +648,7 @@
                 "type": "list"
             },
             "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q==",
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "hide": 1
         },
         {
@@ -640,6 +662,7 @@
             "style": {
                 "type": "list"
             },
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "hide": 1
         },
         {
@@ -653,6 +676,7 @@
             },
             "searchable": 0,
             "quickSearch": 0,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "changeable": 0,
             "ext": {
                 "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
@@ -669,6 +693,7 @@
             },
             "searchable": 0,
             "quickSearch": 0,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "changeable": 0,
             "ext": {
                 "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
@@ -685,6 +710,7 @@
             },
             "searchable": 0,
             "quickSearch": 0,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "changeable": 0,
             "hide": 1
         },
@@ -695,6 +721,7 @@
             "api": "csp_FirstAidGuard",
             "searchable": 0,
             "quickSearch": 0,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "changeable": 0,
             "style": {
                 "type": "rect",
@@ -712,6 +739,7 @@
                 "ratio": 1.597
             },
             "searchable": 0,
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "quickSearch": 0,
             "changeable": 0
         },
@@ -730,6 +758,7 @@
             "ext": {
                 "json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"
             },
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "hide": 1
         },
         {
@@ -747,6 +776,7 @@
             "ext": {
                 "json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
             },
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "hide": 1
         },
         {
@@ -764,6 +794,7 @@
             "ext": {
                 "json": "https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"
             },
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "hide": 1
         },
         {
@@ -781,6 +812,7 @@
             "ext": {
                 "json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
             },
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "hide": 1
         },
         {
@@ -794,6 +826,7 @@
             "style": {
                 "type": "oval"
             },
+            "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt"
             }
