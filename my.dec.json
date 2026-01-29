@@ -1,5 +1,5 @@
 {
-    "spider": "https://gitee.com/luckyflower01/tvjson/raw/src/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94",
+    "spider": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260125/fantaiying.jar;md5;adcafc1d4363ae793ddb97068b5116c2",
     "sites": [
         {
             "key": "豆瓣",
