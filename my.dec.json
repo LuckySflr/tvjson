@@ -459,6 +459,7 @@
             "api": "csp_AppGet",
             "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa",
             "hide": 1,
+            "searchable":0,
             "jar": "https://gitee.com/luckyflower01/tvjson/raw/dev/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260128/feimao.jar;md5;eadaaee8e25f5d590dc4f40488207d0d"
         },
         {
