@@ -591,34 +591,7 @@
             "src_from": "fantaiying",
             "hide": 1
         },
-        {
-            "key": "csp_Duopan",
-            "name": "🖍︎┃蜡笔┃影视",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "http://xiaocgege.shop",
-                    "https://feimao666.fun",
-                    "http://feimao888.fun",
-                    "https://feimo.fun",
-                    "http://www.labi88.sbs",
-                    "http://fmao.site",
-                    "http://fmao.shop",
-                    "http://xiaocge.fun"
-                ],
-                "threadinfo": {
-                    "chunksize": 512,
-                    "threads": 16
-                },
-                "url_key": "Duopan2"
-            },
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/src/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260316/feimao.jar;md5;9c8e45f60d3d413d8b140ec21811deb0",
-            "src_from": "feimao",
-            "hide": 1
-        },
-        {
+                {
             "key": "csp_Netfixtv",
             "name": "💌┃️至臻┃影视",
             "type": 3,
