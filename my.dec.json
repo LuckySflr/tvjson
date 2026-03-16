@@ -238,20 +238,6 @@
             "hide": 1
         },
         {
-            "key": "视界",
-            "name": "🍙视界┃多线",
-            "type": 3,
-            "api": "csp_AppNoxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2FsOb0+G+dnI+4lWpuLce9V0IYMxpf6yxk9eNgZeUKx9NtuGiHL8VT2Ch5q3FzA/wpUpTequjCAiOuXKzelf2sV2H63VJyZQ4c7pP8BFS7Fs0PEY8l0RhZXAOtNtyr8hvgS7hJiUAsUDP4QRvtkbFEb5s8uhxNaug1QfpGf2o72OyjvreagTpQQNBEaLPlXB3CE6LnhIbUuoXOOtSXE1grCABKC38KFogYurdAWX9+j7EWxPpX3A==",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/src/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260316/fantaiying.jar;md5;8d0b8c2ca484bba9be3714e13615f212",
-            "src_from": "fantaiying",
-            "hide": 1
-        },
-        {
             "key": "花花",
             "name": "🥝花花┃多线",
             "type": 3,
@@ -1073,7 +1059,21 @@
                 "json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
             },
             "hide": 1
-        }
+        },
+        {
+            "key": "视界",
+            "name": "🍙视界┃多线",
+            "type": 3,
+            "api": "csp_AppNoxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOK0+FRORAJ7epFjN2FsOb0+G+dnI+4lWpuLce9V0IYMxpf6yxk9eNgZeUKx9NtuGiHL8VT2Ch5q3FzA/wpUpTequjCAiOuXKzelf2sV2H63VJyZQ4c7pP8BFS7Fs0PEY8l0RhZXAOtNtyr8hvgS7hJiUAsUDP4QRvtkbFEb5s8uhxNaug1QfpGf2o72OyjvreagTpQQNBEaLPlXB3CE6LnhIbUuoXOOtSXE1grCABKC38KFogYurdAWX9+j7EWxPpX3A==",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/LuckySflr/tvjson/refs/heads/src/myscript/get_latest_tvbox_intf_from_others/intf_spider_jar/20260316/fantaiying.jar;md5;8d0b8c2ca484bba9be3714e13615f212",
+            "src_from": "fantaiying",
+            "hide": 1
+        },
     ],
     "lives": [
         {
